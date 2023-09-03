@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="17" relname="span">Microsoft just introduced an interesting error recovery feature for Windows XP.</segment>
+    <segment id="2" parent="12" relname="circumstance"> Previously, when XP encountered a system error or serious application error</segment>
+    <segment id="12" parent="13" relname="span"> it would pop up a dialog box asking the user if he/she would like report the error to Microsoft.</segment>
+    <segment id="3" parent="12" relname="elaboration"> If you clicked on &quot;Yes&quot; it would prepare and send an error report to Microsoft over the Internet.</segment>
+    <segment id="4" parent="14" relname="span"> Microsoft has now introduced an OS patch that finds any material related to the error and displays it for the user.</segment>
+    <segment id="5" parent="15" relname="span"> To quote the Microsoft website: </segment>
+    <segment id="6" parent="5" relname="elaboration">
+This update will enable you to automatically view responses to Windows error reports. After submitting an error report, if information relating to the crash event is available such as a fix, workaround, or other information, then the response may be viewed immediately and automatically. 
+The patch is available for download at: 
+http://www.microsoft.com/downloads/details.aspx?FamilyID=a1c6c3d8-5053-436e-b898-9cd995292baa&amp;DisplayLang=en </segment>
+    <segment id="9" parent="11" relname="span">
+It doesn&apos;t respond for all errors reported</segment>
+    <segment id="8" parent="9" relname="elaboration"> (I may just have unique errors),</segment>
+    <segment id="7" parent="10" relname="span"> but occasionally it returns useful information.</segment>
+<group id="13" type="span" parent="16" relname="background" />
+<group id="14" type="span" parent="16" relname="span" />
+<group id="15" type="span" parent="4" relname="elaboration" />
+<group id="11" type="span" parent="7" relname="concession" />
+<group id="10" type="span" parent="14" relname="elaboration" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="1" relname="elaboration" />
+<group id="17" type="span" />
+  </body>
+</rst>

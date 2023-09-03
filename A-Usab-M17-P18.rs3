@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="13" relname="span">
+A well-designed user interface must share a common set of usability heuristics,&quot; which contribute to effective use of the application.</segment>
+    <segment id="2" parent="15" relname="span"> Some of these heuristics include:</segment>
+    <segment id="8" parent="14" relname="span">
+ 
+1. Consistency can greatly facilitate the learning of a new user interface</segment>
+    <segment id="9" parent="8" relname="volitional-cause"> because it allows users to transfer existing knowledge in order to predict how to do things they have never done before.</segment>
+    <segment id="3" parent="11" relname="span"> 
+
+2. Error Recovery, the extent to which an application tolerates common and unavoidable human error and allows for easy recovery from any undesired actions taken by the user.</segment>
+    <segment id="4" parent="3" relname="elaboration"> Many users learn applications and user interfaces through interactive discovery.</segment>
+    <segment id="5" parent="10" relname="list"> 
+
+3. Familiarity refers to the extent that the user interface provides elements and actions that follow real-world conventions.</segment>
+    <segment id="6" parent="17" relname="span"> 
+
+4. User Control, a usable and effective user interface puts the user in charge of the application,</segment>
+    <segment id="16" parent="6" relname="nonvolitional-result"> thereby allowing the user to initiate all actions, rather than being controlled and directed by the application.</segment>
+    <segment id="7" parent="10" relname="list"> 
+
+5. Flexibility is the extent to which a user interface accommodates for variations in user skill and preferences.</segment>
+<group id="10" type="multinuc" parent="2" relname="elaboration" />
+<group id="11" type="span" parent="10" relname="list" />
+<group id="14" type="span" parent="10" relname="list" />
+<group id="17" type="span" parent="10" relname="list" />
+<group id="15" type="span" parent="1" relname="elaboration" />
+<group id="13" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,88 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+I am glad to say I am finally caught up with all the reading.</segment>
+    <segment id="2" parent="24" relname="span"> After reading all the assigned chapters and articles, something hit me.</segment>
+    <segment id="3" parent="26" relname="span"> We talk about all these terms to support the importance of user-friendliness, user-centered and so forth.</segment>
+    <segment id="4" parent="32" relname="span"> I have observed through my mother</segment>
+    <segment id="29" parent="4" relname="circumstance"> (I recently bought her a computer)</segment>
+    <segment id="30" parent="31" relname="same-unit"> a new user, a novice or a new computer experiencer.</segment>
+    <segment id="5" parent="28" relname="span"> I, on the hand, grew up with computers,</segment>
+    <segment id="11" parent="18" relname="span"> my 1st grade class had an Apple 2E and we played sneakers on it;</segment>
+    <segment id="12" parent="11" relname="elaboration"> I even learned basic.</segment>
+    <segment id="6" parent="19" relname="contrast"> 
+My generation is significantly smaller then hers.</segment>
+    <segment id="7" parent="19" relname="contrast"> In regards to business her generation has more value and more disposable cash.</segment>
+    <segment id="8" parent="21" relname="span"> However, computer technology has created 2 kinds of users:</segment>
+    <segment id="13" parent="33" relname="contrast"> me, who is experienced</segment>
+    <segment id="20" parent="37" relname="span"> and her that is scare</segment>
+    <segment id="34" parent="35" relname="condition"> if she hits the wrong button</segment>
+    <segment id="35" parent="36" relname="span"> we will have World War III on our hands.</segment>
+    <segment id="9" parent="22" relname="span"> 
+My point is that her kind of user is completely ignored, the terms listed:</segment>
+    <segment id="15" parent="9" relname="elaboration"> ease of use ease of learning or learnabililty efficiency memorability error recovery user satisfaction flexibility consistency </segment>
+    <segment id="14" parent="23" relname="solutionhood">
+Who are they for, me or her or both?</segment>
+    <segment id="10" parent="23" relname="span"> In my opinion she and those inexperienced users are ignored</segment>
+    <segment id="16" parent="10" relname="elaboration"> and there is a lack of a model for those type users.</segment>
+<group id="17" type="multinuc" parent="27" relname="span" />
+<group id="18" type="span" parent="5" relname="elaboration" />
+<group id="19" type="multinuc" parent="21" relname="concession" />
+<group id="21" type="span" parent="38" relname="span" />
+<group id="22" type="span" parent="39" relname="span" />
+<group id="23" type="span" parent="25" relname="span" />
+<group id="24" type="span" parent="3" relname="background" />
+<group id="26" type="span" parent="17" relname="background" />
+<group id="28" type="span" parent="17" relname="contrast" />
+<group id="31" type="multinuc" parent="17" relname="contrast" />
+<group id="32" type="span" parent="31" relname="same-unit" />
+<group id="33" type="multinuc" parent="8" relname="elaboration" />
+<group id="36" type="span" parent="20" relname="elaboration" />
+<group id="37" type="span" parent="33" relname="contrast" />
+<group id="38" type="span" parent="40" relname="span" />
+<group id="25" type="span" parent="22" relname="elaboration" />
+<group id="27" type="span" parent="38" relname="background" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="39" relname="background" />
+<group id="41" type="span" />
+  </body>
+</rst>

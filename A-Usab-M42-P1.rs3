@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="span">
+Jenny Preece (1994) stated that the goals of HCI are to produce usable and safe systems as well as functional systems,</segment>
+    <segment id="7" parent="28" relname="span"> memorability is one of the important usability attributes,</segment>
+    <segment id="8" parent="7" relname="elaboration"> it refers to how easy a user can remember how a particular system can be used.</segment>
+    <segment id="2" parent="26" relname="span"> 
+I would like to share with you an incident that happened to me couple of month ago</segment>
+    <segment id="9" parent="2" relname="circumstance"> when I was on board on an airplane with my latest PDA which hybridizes many functions such as a cellular phone, digital camera, bluetooth and wireless network, and many many other functions</segment>
+    <segment id="10" parent="11" relname="volitional-cause"> and as usual before the take off the captain reminded us to turn off all electronic devices</segment>
+    <segment id="11" parent="24" relname="span"> and here I am with my new PDA trying to remember how to turn it off.</segment>
+    <segment id="3" parent="12" relname="concession"> Using common sense, there is a button on top of the PDA labeled on/off</segment>
+    <segment id="12" parent="20" relname="span"> but pressing this button turns off the PDA but the cellular phone is still working.</segment>
+    <segment id="4" parent="13" relname="concession"> I tried to remember how to turn off the cellular phone</segment>
+    <segment id="13" parent="19" relname="span"> but with the limited time I have I was not able to,</segment>
+    <segment id="14" parent="34" relname="span"> so I have to remove the battery to turn off all the integrated functions in my PDA.</segment>
+    <segment id="5" parent="33" relname="circumstance"> Reading the manual later,</segment>
+    <segment id="17" parent="33" relname="span"> I remembered that in order to turn off the cellular phone</segment>
+    <segment id="15" parent="21" relname="sequence"> I should turn off the wireless connectivity from the menu by clicking on an icon which has nothing to do with turning on/off of the wireless</segment>
+    <segment id="16" parent="21" relname="sequence"> and then I should turn off the PDA.</segment>
+    <segment id="6" parent="27" relname="span"> 
+Users should not have to keep remembering / relearning how to carry out tasks</segment>
+    <segment id="18" parent="6" relname="antithesis"> but due to illogical and poorly sequenced operations a simple activity like turning off a PDA can be so difficult and approximately impossible to be remembered.</segment>
+<group id="19" type="span" parent="14" relname="volitional-cause" />
+<group id="21" type="multinuc" parent="17" relname="means" />
+<group id="22" type="span" parent="25" relname="span" />
+<group id="23" type="span" parent="22" relname="solutionhood" />
+<group id="24" type="span" parent="2" relname="circumstance" />
+<group id="25" type="span" parent="32" relname="span" />
+<group id="26" type="span" parent="32" relname="background" />
+<group id="27" type="span" parent="25" relname="summary" />
+<group id="28" type="span" parent="1" relname="elaboration" />
+<group id="29" type="span" parent="30" relname="elaboration" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" />
+<group id="32" type="span" parent="29" relname="span" />
+<group id="33" type="span" parent="22" relname="span" />
+<group id="34" type="span" parent="23" relname="span" />
+<group id="20" type="span" parent="34" relname="solutionhood" />
+  </body>
+</rst>

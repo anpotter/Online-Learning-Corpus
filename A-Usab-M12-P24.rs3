@@ -1,0 +1,50 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="6" relname="span">
+I think error recovery also contributes to ease of use.</segment>
+    <segment id="2" parent="5" relname="sequence"> There is nothing more frustrating that being involved in a complicated transaction using a particular software,</segment>
+    <segment id="4" parent="5" relname="sequence"> and then an error occurs that the software can not recover from.</segment>
+    <segment id="3" parent="6" relname="elaboration"> I usually try to stay away from software that do not have a good messaging/error recovery routines built into them.</segment>
+<group id="5" type="multinuc" parent="1" relname="elaboration" />
+<group id="6" type="span" parent="7" relname="span" />
+<group id="7" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="background">
+We had the same problem with one of our mainframe programs.</segment>
+    <segment id="2" parent="15" relname="antithesis"> Having varying key commands to do the same action makes learning the system more difficult and the usability of the system harder for the end users to conquer.</segment>
+    <segment id="3" parent="12" relname="condition"> If an application is consistent throughout</segment>
+    <segment id="12" parent="15" relname="span"> users can use different parts of the program and still have the knowledge of how to perform certain tasks since they will be done the same way.</segment>
+    <segment id="4" parent="20" relname="span"> I think consistency is a very important usability concept.</segment>
+    <segment id="5" parent="16" relname="justify"> As noted in the class text book,</segment>
+    <segment id="16" parent="17" relname="span"> one of the benefits is that users will have an easier time learning.</segment>
+    <segment id="6" parent="16" relname="elaboration"> They only have to learn a single mode of operation that applies throughout the interface (Pierce, Rogers, &amp; Sharp).</segment>
+    <segment id="7" parent="13" relname="justify"> As Andrei stated</segment>
+    <segment id="13" parent="18" relname="span"> consistence is one of the golden rules of interface design.</segment>
+    <segment id="8" parent="13" relname="elaboration"> It is very important on many levels.</segment>
+    <segment id="9" parent="13" relname="elaboration"> It creates the foundation for user interaction in a predictable manner.</segment>
+    <segment id="10" parent="13" relname="elaboration"> It must be applied effectively though.</segment>
+    <segment id="11" parent="13" relname="elaboration"> Consistency creates usage patterns, offering users the opportunity to succeed in the face of an unknown feature encountered for the first time (2004).</segment>
+<group id="15" type="span" parent="14" relname="span" />
+<group id="17" type="span" parent="4" relname="evidence" />
+<group id="18" type="span" parent="4" relname="evidence" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="14" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="volitional-cause" />
+<group id="21" type="span" />
+  </body>
+</rst>

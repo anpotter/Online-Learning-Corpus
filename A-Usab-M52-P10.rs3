@@ -1,0 +1,101 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="volitional-cause">
+A great way to measure and understand the concepts of usability mentioned is to actually test it out in an application to which you are familiar.</segment>
+    <segment id="2" parent="30" relname="span"> So, after reading about usability principles discussed in the text,</segment>
+    <segment id="3" parent="55" relname="span"> I decided to venture and use one of my favorite web apps (Hotmail) with efficiency, memorability, error recovery, user satisfaction, flexibility, and consistency in mind.</segment>
+    <segment id="4" parent="50" relname="span"> It is really interesting to look at it from such a perspective.</segment>
+    <segment id="5" parent="31" relname="joint"> You tend to appreciate the good designs implemented,</segment>
+    <segment id="6" parent="31" relname="joint"> and question the bad ones.</segment>
+    <segment id="7" parent="51" relname="span"> For instance, I felt that in designing the product, user efficiency, memorability and user satisfaction were major goals.</segment>
+    <segment id="8" parent="49" relname="span"> I was able to get done what I wanted to with little wasting time and effort.</segment>
+    <segment id="9" parent="32" relname="span"> All the tools that I need to use where in the same place</segment>
+    <segment id="10" parent="9" relname="circumstance"> after every downloaded page,</segment>
+    <segment id="11" parent="32" relname="elaboration"> and I didnt have to go searching for the buttons or links for the things I wanted to do next.</segment>
+    <segment id="12" parent="34" relname="joint"> It was easy to learn</segment>
+    <segment id="13" parent="37" relname="span"> and I felt like I was in the driver seat</segment>
+    <segment id="14" parent="36" relname="span"> (Im always satisfied</segment>
+    <segment id="15" parent="35" relname="joint"> when I am in the drivers seat,</segment>
+    <segment id="16" parent="35" relname="joint"> and feel like I know what I am doing).</segment>
+    <segment id="17" parent="18" relname="circumstance"> As far as flexibility was concerned,</segment>
+    <segment id="18" parent="43" relname="span"> it was up in the air.</segment>
+    <segment id="19" parent="38" relname="contrast"> At times I felt like there wasnt al lot of room.</segment>
+    <segment id="20" parent="38" relname="contrast"> And other times, I felt that there were so many ways I could perform a particular function.</segment>
+    <segment id="21" parent="22" relname="concession"> For instance, there were enough avenues to move around my account, check my folders, move e-mails received, and so on.</segment>
+    <segment id="22" parent="40" relname="span"> However, there were times when I wanted to go back and forth from e-mail to e-mail with everything in front of me.</segment>
+    <segment id="23" parent="39" relname="span"> Well, I couldnt do that</segment>
+    <segment id="24" parent="23" relname="unless"> unless I went through the headache of opening up multiple browser windows.</segment>
+    <segment id="25" parent="45" relname="concession"> But I have to admit,</segment>
+    <segment id="26" parent="45" relname="joint"> there was consistency,</segment>
+    <segment id="27" parent="45" relname="joint"> and there was no way I could get lost.</segment>
+    <segment id="28" parent="52" relname="span"> Ahhhh Hotmail.</segment>
+    <segment id="29" parent="28" relname="evaluation"> Free and satisfying all the time.</segment>
+<group id="30" type="span" parent="3" relname="circumstance" />
+<group id="31" type="multinuc" parent="4" relname="elaboration" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="8" relname="elaboration" />
+<group id="34" type="multinuc" parent="48" relname="joint" />
+<group id="35" type="multinuc" parent="14" relname="circumstance" />
+<group id="36" type="span" parent="13" relname="elaboration" />
+<group id="37" type="span" parent="34" relname="joint" />
+<group id="39" type="span" parent="41" relname="span" />
+<group id="40" type="span" parent="39" relname="antithesis" />
+<group id="41" type="span" parent="38" relname="evidence" />
+<group id="38" type="multinuc" parent="42" relname="span" />
+<group id="43" type="span" parent="44" relname="span" />
+<group id="42" type="span" parent="43" relname="elaboration" />
+<group id="44" type="span" parent="47" relname="contrast" />
+<group id="45" type="multinuc" parent="46" relname="span" />
+<group id="46" type="span" parent="47" relname="contrast" />
+<group id="47" type="multinuc" parent="48" relname="joint" />
+<group id="48" type="multinuc" parent="53" relname="span" />
+<group id="49" type="span" parent="7" relname="elaboration" />
+<group id="50" type="span" parent="54" relname="span" />
+<group id="51" type="span" parent="48" relname="joint" />
+<group id="52" type="span" parent="48" relname="evaluation" />
+<group id="53" type="span" parent="50" relname="elaboration" />
+<group id="54" type="span" parent="56" relname="span" />
+<group id="55" type="span" parent="54" relname="volitional-cause" />
+<group id="56" type="span" />
+  </body>
+</rst>

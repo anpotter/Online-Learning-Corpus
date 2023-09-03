@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="30" relname="span">
+The process of understanding users needs, with respect to designing an interactive system to support them, is to design an efficient system that will allow users to be highly productive in their work, be challenged and motivated.</segment>
+    <segment id="2" parent="19" relname="span"> This is covered in the usability goals and principles.</segment>
+    <segment id="3" parent="20" relname="span"> 
+
+Usability goals are generally regarded as ensuring that interactive products are easy to learn, effective to use, and enjoyable from the users perspective.</segment>
+    <segment id="4" parent="3" relname="elaboration"> It is broken down into the following categories: effectiveness, efficiency, safety, utility, learnability, and memorability.</segment>
+    <segment id="5" parent="19" relname="evaluation"> The usability goals are well suited for companies and organizations who are introducing or updating applications running on desktop and networked systems-that are intended to increase productivity by improving and enhancing how work gets done.</segment>
+    <segment id="6" parent="24" relname="span"> 
+
+Another way of conceptualizing usability is in terms of design principles.</segment>
+    <segment id="7" parent="26" relname="span"> The best known with how to determine what users should see and do when carrying out their tasks using an interactive product.</segment>
+    <segment id="8" parent="7" relname="elaboration"> The most common ones: visibility, feedback, constraints, mapping, consistency, and affordances.</segment>
+    <segment id="9" parent="28" relname="span"> The usability principles are another form of guidance.</segment>
+    <segment id="10" parent="9" relname="elaboration"> They are used mostly as the basis for evaluating prototypes and existing systems.</segment>
+    <segment id="11" parent="22" relname="span"> 
+
+In general, the various terms proposed for describing the different aspects of usability can be confusing.</segment>
+    <segment id="12" parent="23" relname="span"> They are often used interchangeably and in different combinations.</segment>
+    <segment id="13" parent="12" relname="elaboration"> Some people talk about usability design principles, others usability heuristics, and others design concepts.</segment>
+    <segment id="14" parent="18" relname="span"> The key is to understand how to differentiate among the levels of guidance.</segment>
+    <segment id="15" parent="25" relname="list"> Guidance is a general term used to refer to all forms of guidance.</segment>
+    <segment id="16" parent="25" relname="list"> Goals refer to the high-level usability aims of the system.</segment>
+    <segment id="17" parent="25" relname="list"> Principles refer to general guidance intended to inform the design and evaluation of a system.</segment>
+<group id="23" type="span" parent="11" relname="elaboration" />
+<group id="25" type="multinuc" parent="14" relname="elaboration" />
+<group id="18" type="span" parent="21" relname="span" />
+<group id="22" type="span" parent="18" relname="solutionhood" />
+<group id="21" type="span" parent="30" relname="evaluation" />
+<group id="20" type="span" parent="2" relname="elaboration" />
+<group id="19" type="span" parent="27" relname="span" />
+<group id="24" type="span" parent="29" relname="joint" />
+<group id="27" type="span" parent="29" relname="joint" />
+<group id="26" type="span" parent="6" relname="elaboration" />
+<group id="24" type="span" parent="29" relname="joint" />
+<group id="28" type="span" parent="29" relname="joint" />
+<group id="29" type="multinuc" parent="1" relname="elaboration" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="31" type="span" />
+  </body>
+</rst>

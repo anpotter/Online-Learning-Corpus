@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="circumstance">Given this is the beginning of the 4th week of the course,</segment>
+    <segment id="11" parent="27" relname="span"> a lot of our discussions so far have focused on HCI concepts such as user-centeredness, transparency, etc.</segment>
+    <segment id="12" parent="24" relname="span"> In this discussion, other concepts are creeping in that are no less important -- things like flexibility, ease of use, ease of learning, consistency, error recovery, and such.</segment>
+    <segment id="2" parent="25" relname="span"> Actually, these terms begin to describe the attributes of usability.</segment>
+    <segment id="3" parent="2" relname="evaluation"> It is important that we know how to define usability.</segment>
+    <segment id="4" parent="32" relname="span"> As you begin to prepare your first assignment paper, Software Evaluation, </segment>
+    <segment id="13" parent="26" relname="span">this is a good time to discuss usability and usability attributes in depth.</segment>
+    <segment id="5" parent="35" relname="span"> Let&apos;s discuss these concepts in view of what makes good user-centered design: </segment>
+    <segment id="9" parent="23" relname="list">
+
+ease of use </segment>
+    <segment id="14" parent="23" relname="list">
+ease of learning or learnabililty </segment>
+    <segment id="15" parent="23" relname="list">
+efficiency </segment>
+    <segment id="16" parent="23" relname="list">
+memorability </segment>
+    <segment id="17" parent="23" relname="list">
+error recovery </segment>
+    <segment id="18" parent="23" relname="list">
+user satisfaction </segment>
+    <segment id="19" parent="23" relname="list">
+flexibility </segment>
+    <segment id="20" parent="23" relname="list">
+consistency </segment>
+    <segment id="10" parent="35" relname="elaboration">
+
+And we can also draw out usability issues by focusing on the usability principles discussed in our texts.</segment>
+    <segment id="6" parent="30" relname="span"> Again, these attributes and principles are important for us to understand the depth the usability beyond our common sense intuition of what we think usability is.</segment>
+    <segment id="7" parent="21" relname="condition"> If we have a handle on these,</segment>
+    <segment id="21" parent="29" relname="span"> then we begin to see how we can &quot;measure&quot; usability.</segment>
+    <segment id="8" parent="22" relname="circumstance"> 
+As we did with HCI Concepts and Terms,</segment>
+    <segment id="22" parent="28" relname="span"> let&apos;s explore these attributes one by one.</segment>
+<group id="23" type="multinuc" parent="5" relname="elaboration" />
+<group id="24" type="span" parent="11" relname="elaboration" />
+<group id="25" type="span" parent="12" relname="elaboration" />
+<group id="26" type="span" parent="34" relname="enablement" />
+<group id="27" type="span" parent="4" relname="background" />
+<group id="29" type="span" parent="6" relname="evaluation" />
+<group id="30" type="span" parent="28" relname="motivation" />
+<group id="28" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="36" relname="restatement" />
+<group id="32" type="span" parent="13" relname="circumstance" />
+<group id="33" type="span" />
+<group id="34" type="span" parent="33" relname="span" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="34" relname="span" />
+  </body>
+</rst>

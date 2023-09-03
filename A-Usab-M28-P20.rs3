@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="33" relname="span">
+A good system should, ideally, be able to recover from errors with no user intervention</segment>
+    <segment id="12" parent="19" relname="span"> - otherwise it becomes &quot;error reporting&quot;</segment>
+    <segment id="13" parent="12" relname="condition"> if it waits for a user to take action.</segment>
+    <segment id="2" parent="19" relname="elaboration"> Practically, very minimal user intervention should occur.</segment>
+    <segment id="3" parent="31" relname="background"> I love to pick on Windows.</segment>
+    <segment id="4" parent="14" relname="volitional-cause"> Remember the famous Windows95,98 error message &quot;THIS PROGRAM HAS PERFOMED AN ILLEGAL OPERATION&quot;</segment>
+    <segment id="14" parent="35" relname="span"> - so? .</segment>
+    <segment id="5" parent="23" relname="span">That message was very uninformatives</segment>
+    <segment id="10" parent="15" relname="volitional-cause"> and just for curiosity&apos;s sake, if you click the DETAILS button,</segment>
+    <segment id="15" parent="21" relname="span"> you would get a bunch of meaningless number.</segment>
+    <segment id="6" parent="22" relname="span"> So why display the error message </segment>
+    <segment id="16" parent="6" relname="circumstance">if the details further confuse the user?</segment>
+    <segment id="11" parent="30" relname="span"> Microsoft apparently did a very good job with Windows XP.</segment>
+    <segment id="7" parent="17" relname="condition"> If you get an error message on Windows XP,</segment>
+    <segment id="17" parent="27" relname="span"> mostly its; &quot;WINDOWS HAS RECOVERED FROM A SERIOUS ERROR&quot;.</segment>
+    <segment id="8" parent="26" relname="span"> Thats much better!</segment>
+    <segment id="9" parent="25" relname="span"> all I need is to keep working,</segment>
+    <segment id="18" parent="9" relname="antithesis"> not to stop and wonder what I should do with an error message.</segment>
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="1" relname="otherwise" />
+<group id="21" type="span" parent="5" relname="elaboration" />
+<group id="22" type="span" parent="24" relname="span" />
+<group id="23" type="span" parent="22" relname="antithesis" />
+<group id="24" type="span" parent="35" relname="elaboration" />
+<group id="25" type="span" parent="8" relname="elaboration" />
+<group id="26" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="26" relname="volitional-cause" />
+<group id="28" type="span" parent="11" relname="elaboration" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="concession" />
+<group id="31" type="span" parent="32" relname="span" />
+<group id="32" type="span" parent="33" relname="elaboration" />
+<group id="33" type="span" parent="34" relname="span" />
+<group id="34" type="span" />
+<group id="35" type="span" parent="29" relname="span" />
+  </body>
+</rst>

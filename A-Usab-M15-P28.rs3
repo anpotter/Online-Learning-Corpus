@@ -1,0 +1,65 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="span">
+
+Along with the ability to recover from an error the ability to report errors is important as well.</segment>
+    <segment id="2" parent="12" relname="span"> One way we do this is by using a custom error reporting page, which is configured under IIS, </segment>
+    <segment id="6" parent="7" relname="circumstance">so that when an error that is not caught by the application</segment>
+    <segment id="7" parent="11" relname="span"> the details about that error are sent to the development team.</segment>
+    <segment id="3" parent="15" relname="span"> 
+Recently we took this process a step further.</segment>
+    <segment id="4" parent="8" relname="circumstance"> When an error is generated </segment>
+    <segment id="8" parent="13" relname="span">a copy of the email is sent to our bug tracking software</segment>
+    <segment id="9" parent="13" relname="nonvolitional-result"> where it is automatically imported and worked until resolution.</segment>
+    <segment id="5" parent="10" relname="circumstance"> 
+In case anyone is interested</segment>
+    <segment id="10" parent="17" relname="span"> we&apos;re using FogBUGZ from Fogcreek software for our bug tracking.</segment>
+<group id="11" type="span" parent="2" relname="nonvolitional-result" />
+<group id="12" type="span" parent="16" relname="span" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="3" relname="elaboration" />
+<group id="15" type="span" parent="12" relname="elaboration" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="16" relname="elaboration" />
+<group id="18" type="span" parent="1" relname="elaboration" />
+<group id="19" type="span" />
+  </body>
+</rst>
