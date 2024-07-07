@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="justify">
+I liked a definition of intuition given by the Merriam-Webster Online Dictionary as follows 
+(Merriam-Webster Online Dictionary, n.d.): </segment>
+    <segment id="3" parent="38" relname="span"> immediate apprehension or cognition</segment>
+    <segment id="17" parent="2" relname="circumstance">
+
+Also, when looking at synonyms of intuition,</segment>
+    <segment id="2" parent="23" relname="span"> the word instinct came up as one.</segment>
+    <segment id="4" parent="35" relname="span">  
+
+This thought of intuitiveness seems to relate to how someone would be able to correctly 
+react to a situation with little or no chance to think about it.</segment>
+    <segment id="5" parent="32" relname="span">  People could be trained to do 
+the right thing to gain some level of intuitiveness, such as swerving to miss a bad driver.</segment>
+    <segment id="6" parent="34" relname="span">  
+The hope would be that there would be some reflex reaction based on previous exposure 
+to the situation to make the driver swerve.</segment>
+    <segment id="7" parent="18" relname="circumstance">  The problem is that a bad driver can come 
+from any direction,</segment>
+    <segment id="18" parent="33" relname="span"> so how does the person that was trained respond to the different 
+directions?</segment>
+    <segment id="15" parent="32" relname="elaboration">  What about musically talented savants that just know how to play a piano 
+without any training at all?</segment>
+    <segment id="16" parent="36" relname="span"> 
+
+How a computer application can be created to allow for intuitiveness is odd to me </segment>
+    <segment id="19" parent="14" relname="span">
+because I have time to think about what I will do and usually have the ability to reverse 
+my actions.</segment>
+    <segment id="8" parent="29" relname="span">  However, one area of our Interaction Design textbook on page 23 that 
+discussed mapping seemed show me what might be considered intuitive in any computer 
+application, </segment>
+    <segment id="20" parent="27" relname="span">but it still related to physical movement.</segment>
+    <segment id="9" parent="26" relname="span">  I do think that studying physical 
+intuitive movements goes well when looking at video games and virtual simulators that 
+can emulate physical interaction.</segment>
+    <segment id="10" parent="21" relname="span">  It was interesting that an alteration of the way a virtual 
+figure moved in a video game led to children spending an average of 34% less time on 
+that particular game level (Höysniemi, Hämäläinen, Turkki, &amp; Rouvi, 2005, p. 47).</segment>
+    <segment id="12" parent="25" relname="span">  The  
+sideways movement of the virtual figure was changed</segment>
+    <segment id="11" parent="12" relname="nonvolitional-cause"> because it was observed that 
+children physically moved sideways when controlling the figure.</segment>
+    <segment id="13" parent="31" relname="span">  This really brings home 
+a point of how important it might be to build intuitive movements into virtual simulators</segment>
+    <segment id="22" parent="13" relname="nonvolitional-result"> 
+so that the person being trained will have these movements corrected and/or reinforced 
+for real life events.  
+
+</segment>
+<group id="23" type="span" parent="28" relname="span" />
+<group id="25" type="span" parent="10" relname="elaboration" />
+<group id="31" type="span" parent="21" relname="summary" />
+<group id="32" type="span" parent="37" relname="span" />
+<group id="33" type="span" parent="6" relname="elaboration" />
+<group id="34" type="span" parent="5" relname="elaboration" />
+<group id="35" type="span" parent="30" relname="span" />
+<group id="36" type="span" parent="35" relname="elaboration" />
+<group id="38" type="span" parent="23" relname="background" />
+<group id="37" type="span" parent="4" relname="elaboration" />
+<group id="29" type="span" parent="19" relname="elaboration" />
+<group id="14" type="span" parent="16" relname="volitional-cause" />
+<group id="21" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="9" relname="evidence" />
+<group id="26" type="span" parent="20" relname="concession" />
+<group id="27" type="span" parent="8" relname="concession" />
+<group id="28" type="span" parent="4" relname="volitional-cause" />
+<group id="30" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,82 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="concession">
+Everything about usability is subjective!</segment>
+    <segment id="6" parent="7" relname="circumstance"> But when a vast majority of
+users can figure out an interface with little or no instruction,</segment>
+    <segment id="7" parent="18" relname="span"> then
+it&apos;s considered intuitive.</segment>
+    <segment id="2" parent="8" relname="volitional-cause">
+Actually, since intuitiveness is so closely tied to learnability,</segment>
+    <segment id="8" parent="19" relname="span"> I
+think the premise discussed in the Preece text would apply (p16):</segment>
+    <segment id="9" parent="15" relname="contrast">
+products intended for use by the general population, used everyday or
+infrequently, must be easy to learn (intuitive),</segment>
+    <segment id="10" parent="15" relname="contrast"> while products that are
+complex by design and have much more functionality require more time and
+effort to learn.</segment>
+    <segment id="3" parent="11" relname="antithesis">
+We talk about the &apos;intuitiveness&apos; of Word, or some other complex
+application,</segment>
+    <segment id="11" parent="21" relname="span"> but we weren&apos;t born knowing what a &quot;File Save&quot; or &quot;Paste&quot;
+icon means.</segment>
+    <segment id="4" parent="12" relname="nonvolitional-cause"> These things have evolved to make certain things more
+consistent in complex applications</segment>
+    <segment id="12" parent="16" relname="span"> and, hence, make other applications
+adhering to these principles seem more intuitive.</segment>
+    <segment id="5" parent="13" relname="condition">
+If a free-thinker came up with a better icon for &quot;Save&quot; or &quot;Paste&quot;,</segment>
+    <segment id="13" parent="17" relname="span"> then
+I feel sure that it would be rejected</segment>
+    <segment id="14" parent="13" relname="nonvolitional-cause"> because it is inconsistent with
+current established conventions.</segment>
+<group id="15" type="multinuc" parent="8" relname="elaboration" />
+<group id="16" type="span" parent="20" relname="span" />
+<group id="17" type="span" parent="16" relname="nonvolitional-result" />
+<group id="18" type="span" parent="22" relname="span" />
+<group id="19" type="span" parent="23" relname="span" />
+<group id="21" type="span" parent="19" relname="evidence" />
+<group id="20" type="span" parent="11" relname="elaboration" />
+<group id="22" type="span" parent="19" relname="background" />
+<group id="23" type="span" />
+  </body>
+</rst>

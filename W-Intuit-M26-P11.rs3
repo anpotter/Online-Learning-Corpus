@@ -1,0 +1,74 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="span">
+Intuitiveness is a concept, and if a design goal, needs to be tested in the early phases of 
+design.</segment>
+    <segment id="2" parent="1" relname="elaboration"> The UI part of development needs to be begin early in the lifecycle, not saved for 
+later (or never).</segment>
+    <segment id="3" parent="16" relname="span"> Early testing is highly desirable over later testing.</segment>
+    <segment id="4" parent="3" relname="volitional-cause"> Later testing in many 
+cases, is just too late.</segment>
+    <segment id="5" parent="3" relname="evidence"> What developers may think is intuitive, is not at all to common 
+users.</segment>
+    <segment id="6" parent="17" relname="span"> 
+
+Most of the time, &quot;intuitiveness&quot; is used to market a product.</segment>
+    <segment id="7" parent="14" relname="list"> We see things like &quot;This 
+product is intuitive.&quot;</segment>
+    <segment id="8" parent="14" relname="list"> or &quot;On a scale of 1 -10, this product rates an 8 on intuitiveness.&quot; </segment>
+    <segment id="9" parent="13" relname="span">
+These statements mean very little</segment>
+    <segment id="15" parent="9" relname="volitional-cause"> because intuitiveness is not tested well or often 
+enough.</segment>
+    <segment id="10" parent="18" relname="span"> The buzz word &quot;intuitiveness&quot; is most often used to sell, not to design.</segment>
+    <segment id="11" parent="10" relname="evaluation"> Big 
+difference.</segment>
+<group id="16" type="span" parent="1" relname="elaboration" />
+<group id="14" type="multinuc" parent="12" relname="span" />
+<group id="13" type="span" parent="14" relname="evaluation" />
+<group id="12" type="span" parent="6" relname="evidence" />
+<group id="17" type="span" parent="20" relname="span" />
+<group id="18" type="span" parent="17" relname="summary" />
+<group id="19" type="span" parent="21" relname="contrast" />
+<group id="20" type="span" parent="21" relname="contrast" />
+<group id="21" type="multinuc" />
+  </body>
+</rst>

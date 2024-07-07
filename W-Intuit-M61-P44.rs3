@@ -1,0 +1,87 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">
+I agree with this comment. </segment>
+    <segment id="2" parent="27" relname="span"> However, the application of interface design
+is pervasive, including products such as:</segment>
+    <segment id="17" parent="23" relname="list"> a simple watch,</segment>
+    <segment id="18" parent="23" relname="list"> a DVD player,</segment>
+    <segment id="20" parent="23" relname="list">
+an aircraft cockpit,</segment>
+    <segment id="22" parent="23" relname="list"> a software program, etc.</segment>
+    <segment id="3" parent="24" relname="span"> In many cases, good
+technology is not readily accepted</segment>
+    <segment id="4" parent="3" relname="nonvolitional-cause"> because the product is not easy to
+use or efficient to use.</segment>
+    <segment id="5" parent="24" relname="elaboration"> A product&apos;s usability, acceptance, and
+marketability are often dependent on the user feeling that it is easy to
+learn and use.</segment>
+    <segment id="6" parent="26" relname="span"> User Interface Design increases the intuitiveness,
+efficiency, and comfort level with a product, which translates into
+product acceptance and use.</segment>
+    <segment id="7" parent="26" relname="summary"> You need both good technology and usability
+for a successful product launch.</segment>
+    <segment id="8" parent="19" relname="span">   Intuition has many meanings across
+many cultures, including:</segment>
+    <segment id="9" parent="15" relname="list"> 1. quick and ready insight seemingly
+independent of previous experiences and empirical knowledge</segment>
+    <segment id="10" parent="21" relname="span"> 2. immediate
+apprehension or cognition </segment>
+    <segment id="12" parent="16" relname="list">
+o	knowledge or conviction gained by intuition</segment>
+    <segment id="13" parent="16" relname="list">
+o	the power or faculty of attaining to direct knowledge or cognition
+without evident rational thought and inference.</segment>
+    <segment id="11" parent="15" relname="list">
+3. the perceiving of unconsciousness.</segment>
+<group id="15" type="multinuc" parent="8" relname="evidence" />
+<group id="16" type="multinuc" parent="10" relname="elaboration" />
+<group id="19" type="span" parent="27" relname="elaboration" />
+<group id="21" type="span" parent="15" relname="list" />
+<group id="23" type="multinuc" parent="2" relname="elaboration" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="6" relname="solutionhood" />
+<group id="26" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="27" relname="elaboration" />
+<group id="29" type="span" />
+  </body>
+</rst>

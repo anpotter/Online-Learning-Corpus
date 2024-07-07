@@ -1,0 +1,82 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="22" relname="span">
+We have all made decisions based on our intuition.</segment>
+    <segment id="2" parent="16" relname="span">  Without reason or cause we knew 
+that the direction we were about to take was the right one or the wrong one.</segment>
+    <segment id="3" parent="2" relname="elaboration">  It was a 
+feeling that had no basis what so ever.</segment>
+    <segment id="4" parent="26" relname="span">  Intuitiveness also has its place in interface 
+design. </segment>
+    <segment id="5" parent="20" relname="span"> The term intuitive, however, means different things to different users.</segment>
+    <segment id="6" parent="5" relname="elaboration">  To some 
+it means an intuitive user interface is one that users can figure out on their own,</segment>
+    <segment id="7" parent="8" relname="span"> but to 
+Chris Brown (1995) an intuitive user interface in one that is easy to learn. </segment>
+    <segment id="9" parent="10" relname="antithesis"> This does not 
+mean that no instruction is required,</segment>
+    <segment id="10" parent="18" relname="span"> but it is minimal,</segment>
+    <segment id="11" parent="10" relname="elaboration"> making it easy for users to pick up 
+and remember.</segment>
+    <segment id="21" parent="17" relname="span">
+
+Intuitiveness can be assessed by measuring the products learnability or familiarity.</segment>
+    <segment id="12" parent="19" relname="span">  In 
+other words, how quickly the products usage was grasped by initial users (Bacon, 
+2004). </segment>
+    <segment id="13" parent="14" relname="span">   Usability testing serves well in this capacity.</segment>
+    <segment id="15" parent="13" relname="means">  By using various verbal 
+instructions researchers can test their interfaces on inexperienced users and determine 
+its ease of use and learnability.  
+
+</segment>
+<group id="16" type="span" parent="1" relname="elaboration" />
+<group id="18" type="span" parent="7" relname="elaboration" />
+<group id="19" type="span" parent="21" relname="elaboration" />
+<group id="22" type="span" parent="4" relname="background" />
+<group id="26" type="span" parent="5" relname="concession" />
+<group id="20" type="span" parent="7" relname="background" />
+<group id="8" type="span" parent="25" relname="joint" />
+<group id="14" type="span" parent="12" relname="elaboration" />
+<group id="17" type="span" parent="25" relname="joint" />
+<group id="25" type="multinuc" />
+  </body>
+</rst>

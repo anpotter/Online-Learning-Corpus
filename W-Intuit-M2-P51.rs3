@@ -1,0 +1,115 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="38" relname="span">My thoughts are that how intuitive an interface might be is based entirely on its 
+audience.  </segment>
+    <segment id="2" parent="28" relname="span">
+
+Individual differences can be grouped into four categories: </segment>
+    <segment id="3" parent="26" relname="list">(1) knowledge, 
+experience, and skill; </segment>
+    <segment id="4" parent="26" relname="list">(2) personality factors;</segment>
+    <segment id="5" parent="26" relname="list"> (3) physical and demographic attributes; </segment>
+    <segment id="6" parent="26" relname="list">
+and (4) user levels (Badre et al, 2002).</segment>
+    <segment id="8" parent="1" relname="elaboration">
+
+A working definition of intuitiveness could be the probability that a defined inexperienced 
+user can intuitively figure out how to do a defined set of tasks correctly (ConfirmIt, 2004).</segment>
+    <segment id="9" parent="39" relname="span">
+
+To measure intuitiveness, we would have different levels of interfaces:</segment>
+    <segment id="10" parent="29" relname="list">
+General users (mp3 players, DVD players, e-mail programs)</segment>
+    <segment id="11" parent="29" relname="list">
+Sophisticated Users (video games, mp3 ripping, paint programs)</segment>
+    <segment id="12" parent="29" relname="list">
+Professional Users (Photoshop, accounting, music recording)</segment>
+    <segment id="13" parent="29" relname="list">
+Extreme Professionals (AutoCad, video game developers, programming languages)</segment>
+    <segment id="14" parent="15" relname="nonvolitional-cause">
+
+Since everyone brings different levels of intelligence and historical knowledge with them 
+to the table, </segment>
+    <segment id="15" parent="30" relname="span">
+it would be best to determine how intuitive an interface is by using sample 
+groups of users of various skill levels.</segment>
+    <segment id="16" parent="31" relname="list">
+
+Everyone who uses a general user type program should be able to figure it out with 
+minimum effort.  </segment>
+    <segment id="17" parent="31" relname="list">
+Also, most of the architects in a sample group should be able to do the 
+basic functions of a new CAD application.  </segment>
+    <segment id="18" parent="31" relname="nonvolitional-result">
+When these fail, then the interface could be 
+deemed (gasp) unintuitive. </segment>
+    <segment id="19" parent="35" relname="span">
+
+One could set up matrices that say:</segment>
+    <segment id="20" parent="36" relname="span">
+Tasks A, and B are very simple everyone should be able to do this.  </segment>
+    <segment id="21" parent="20" relname="elaboration">
+Ex: Start and Stop 
+the CD-player.</segment>
+    <segment id="22" parent="23" relname="concession">
+Task C is a little harder,</segment>
+    <segment id="23" parent="34" relname="span"> but assuming a good intuitive interface, everyone should be able 
+to do this, too.  </segment>
+    <segment id="24" parent="23" relname="elaboration">
+Ex: Eject the CD or get a play list.</segment>
+    <segment id="25" parent="33" relname="list">
+And so on.</segment>
+<group id="26" type="multinuc" parent="27" relname="span" />
+<group id="27" type="span" parent="2" relname="elaboration" />
+<group id="28" type="span" parent="1" relname="elaboration" />
+<group id="29" type="multinuc" parent="9" relname="elaboration" />
+<group id="30" type="span" parent="9" relname="elaboration" />
+<group id="31" type="multinuc" parent="32" relname="span" />
+<group id="32" type="span" parent="15" relname="elaboration" />
+<group id="33" type="multinuc" parent="19" relname="elaboration" />
+<group id="34" type="span" parent="33" relname="list" />
+<group id="35" type="span" parent="15" relname="elaboration" />
+<group id="36" type="span" parent="33" relname="list" />
+<group id="38" type="span" parent="7" relname="joint" />
+<group id="39" type="span" parent="7" relname="joint" />
+<group id="7" type="multinuc" />
+  </body>
+</rst>

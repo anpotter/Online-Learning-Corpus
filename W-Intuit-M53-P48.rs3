@@ -1,0 +1,95 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="13" relname="circumstance">
+Speaking on keyboard design and user-friendliness,</segment>
+    <segment id="13" parent="34" relname="span">
+my company recently purchased a few 100 new DELLS for our engineering department.</segment>
+    <segment id="2" parent="28" relname="span"> 
+My team&apos;s priority was to deploy these new desktops,</segment>
+    <segment id="14" parent="2" relname="circumstance"> while minimizing any user 
+downtime;</segment>
+    <segment id="15" parent="21" relname="span"> much easier said than done.</segment>
+    <segment id="3" parent="15" relname="nonvolitional-cause"> The main problem we ran into was the data 
+transferring for each user.</segment>
+    <segment id="4" parent="36" relname="span"> Anyway, by the time we were done with the project </segment>
+    <segment id="29" parent="30" relname="span">
+everything seemed ok,</segment>
+    <segment id="16" parent="29" relname="elaboration"> and all the users were much more satisfied with the performance 
+of their new machines.</segment>
+    <segment id="5" parent="33" relname="span"> After a few days my team started getting many complaints that 
+the new keyboards were a problem.</segment>
+    <segment id="6" parent="24" relname="span"> How could they be a problem?</segment>
+    <segment id="12" parent="23" relname="list"> They were brand 
+new,</segment>
+    <segment id="17" parent="23" relname="list"> they matched the new DELLs,</segment>
+    <segment id="18" parent="23" relname="list"> they had multimedia connections,</segment>
+    <segment id="19" parent="23" relname="list"> and they even had 
+2 USB ports which enabled a user to plug their digital camera or any other USB device 
+into their keyboard without having to use their PC.</segment>
+    <segment id="7" parent="31" relname="span"> So I was wondering just what the 
+problem was.</segment>
+    <segment id="8" parent="27" relname="span"> It turned out to be the way the keys were designed on the keyboard.</segment>
+    <segment id="9" parent="26" relname="span"> The 
+INSERT and DELETE keys were slightly arranged a bit different from the old keyboards.</segment>
+    <segment id="10" parent="20" relname="circumstance"> 
+When a user depends on the certain key that they use so often</segment>
+    <segment id="20" parent="25" relname="span"> a small issue like this can 
+create a huge problem.</segment>
+    <segment id="11" parent="33" relname="summary"> This is a good example of how keyboard design and user 
+involvement can greatly just how satisfied your end-user base will be.</segment>
+<group id="23" type="multinuc" parent="6" relname="evidence" />
+<group id="25" type="span" parent="9" relname="elaboration" />
+<group id="26" type="span" parent="8" relname="elaboration" />
+<group id="27" type="span" parent="7" relname="solutionhood" />
+<group id="31" type="span" parent="24" relname="volitional-result" />
+<group id="28" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="35" relname="span" />
+<group id="21" type="span" parent="28" relname="evaluation" />
+<group id="30" type="span" parent="5" relname="concession" />
+<group id="24" type="span" parent="32" relname="span" />
+<group id="33" type="span" parent="37" relname="span" />
+<group id="34" type="span" parent="22" relname="background" />
+<group id="35" type="span" parent="4" relname="background" />
+<group id="36" type="span" parent="29" relname="circumstance" />
+<group id="37" type="span" />
+<group id="32" type="span" parent="5" relname="background" />
+  </body>
+</rst>

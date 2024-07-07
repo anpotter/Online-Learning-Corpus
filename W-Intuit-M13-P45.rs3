@@ -1,0 +1,105 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="33" relname="span">
+After searching around on the Web, and consulting our book, I learned that intuitiveness 
+is defined as something we use to determine a product&apos;s learnability features.</segment>
+    <segment id="2" parent="1" relname="restatement">  In other 
+words, knowing how familiar a person can become with the product, and how quickly a 
+person is able to grasp how to use it.</segment>
+    <segment id="3" parent="12" relname="sequence">  Suddenly, my cell phone just rung,</segment>
+    <segment id="18" parent="12" relname="sequence"> and after 
+answering it, I realized how intuitive it was to learn how to use it.</segment>
+    <segment id="4" parent="15" relname="span">  But, I quickly came to 
+the conclusion that my phone was very intuitive not only because of the design,</segment>
+    <segment id="19" parent="4" relname="volitional-cause"> but 
+because of my past experience using other phones.</segment>
+    <segment id="5" parent="16" relname="span">  So, I think it is safe to say that the 
+experience or past knowledge of the user should fit some where in the definition of 
+intuitiveness as well.</segment>
+    <segment id="6" parent="31" relname="span">  But trying to describe how to measure it really began to cook my 
+noodle.</segment>
+    <segment id="7" parent="25" relname="sequence">  After sipping on several cups of decaf coffee,</segment>
+    <segment id="13" parent="25" relname="sequence"> and going through several minutes 
+of mental gymnastics,</segment>
+    <segment id="14" parent="24" relname="span"> I realized that the word seems to be more of a subjective, rather 
+than objective term for usability and design;</segment>
+    <segment id="20" parent="26" relname="span"> and thus, appears to be a little more difficult 
+to break down  quantitatively that is  into layers, elements, or components, </segment>
+    <segment id="21" parent="27" relname="span">so that it 
+can be measured as a metric of some type with respect to usability and design.</segment>
+    <segment id="8" parent="34" relname="span">  So, I 
+searched further and found a useful article.</segment>
+    <segment id="9" parent="32" relname="span">  Spool (2005) articulates that the biggest 
+challenge in making a design seem intuitive to users is learning where the current and 
+target knowledge points are.</segment>
+    <segment id="10" parent="29" relname="span">  He points out that there are two very important questions 
+that need to be addressed in order to build an intuitive interface:</segment>
+    <segment id="22" parent="28" relname="list">  (1) What do users 
+already know,</segment>
+    <segment id="23" parent="28" relname="list"> and (2) What do they need to know?</segment>
+    <segment id="17" parent="9" relname="elaboration">   He further explains that the 
+knowledge a user has when arriving at the design (current knowledge), what knowledge 
+theyll need to complete their tasks (target knowledge), and what the design needs to do 
+to help them complete the task (the gap) are the key ingredients for making an interface 
+that seems intuitive to users.</segment>
+    <segment id="11" parent="30" relname="summary">  Thus, understanding the knowledge points of users, and 
+knowing what a design needs to accomplish, is a good start in terms of measuring 
+intuitiveness with respect to usability and design. 
+
+</segment>
+<group id="25" type="multinuc" parent="14" relname="circumstance" />
+<group id="24" type="span" parent="20" relname="volitional-cause" />
+<group id="26" type="span" parent="21" relname="volitional-cause" />
+<group id="28" type="multinuc" parent="10" relname="elaboration" />
+<group id="29" type="span" parent="9" relname="elaboration" />
+<group id="12" type="multinuc" parent="5" relname="volitional-cause" />
+<group id="15" type="span" parent="12" relname="sequence" />
+<group id="16" type="span" parent="36" relname="span" />
+<group id="33" type="span" parent="16" relname="background" />
+<group id="27" type="span" parent="8" relname="volitional-cause" />
+<group id="32" type="span" parent="8" relname="elaboration" />
+<group id="30" type="span" parent="35" relname="span" />
+<group id="35" type="span" />
+<group id="36" type="span" parent="6" relname="concession" />
+<group id="31" type="span" parent="34" relname="solutionhood" />
+<group id="34" type="span" parent="30" relname="span" />
+  </body>
+</rst>

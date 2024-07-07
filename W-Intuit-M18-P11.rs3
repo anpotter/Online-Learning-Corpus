@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">
+P37, this is a good synopsis of what Raskin states as intuitiveness being equal to 
+familiarity.</segment>
+    <segment id="2" parent="15" relname="volitional-cause"> We learn things,</segment>
+    <segment id="15" parent="16" relname="span"> they become more familiar,</segment>
+    <segment id="8" parent="10" relname="span"> therefore they become intuitive.</segment>
+    <segment id="3" parent="4" relname="background">
+
+Some HCI-ers like Raskin and others have asked about the intuitiveness of the desktop.</segment>
+    <segment id="4" parent="13" relname="span"> 
+How intuitive is it?</segment>
+    <segment id="7" parent="9" relname="antithesis"> Many workers do not work in an office environment,</segment>
+    <segment id="9" parent="11" relname="span"> yet the classic 
+desktop interface was designed to support that metaphor.</segment>
+    <segment id="5" parent="11" relname="elaboration"> Many people are not familiar 
+with folders, files, and directories.</segment>
+    <segment id="6" parent="17" relname="span"> The metaphor may not extend as well as we think.</segment>
+<group id="10" type="span" parent="1" relname="evidence" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" parent="6" relname="evidence" />
+<group id="13" type="span" parent="6" relname="solutionhood" />
+<group id="16" type="span" parent="8" relname="volitional-cause" />
+<group id="14" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="14" relname="background" />
+<group id="18" type="span" />
+  </body>
+</rst>

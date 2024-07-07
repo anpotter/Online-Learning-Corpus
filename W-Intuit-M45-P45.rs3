@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="preparation">
+That&apos;s a very good observation you made about keyboards P42. </segment>
+    <segment id="10" parent="25" relname="span"> In fact, my first 
+paper for this class was on keyboards.</segment>
+    <segment id="2" parent="26" relname="span">  I did a study on the comparison between the 
+QWERTY and Dvorak keyboards with respect to their usability attributes and HCI issues.</segment>
+    <segment id="3" parent="23" relname="span">   
+In so many words, I found that typing fatigue, errors, and slow speed are generally 
+caused by bad design in allocating letters among keyboard rows, among fingers, and 
+between the left and right hands.</segment>
+    <segment id="4" parent="17" relname="span">  And the QWERTY keyboard (which is what you are 
+probably refering to as the standardized keyboard) is designed with most of the common 
+key features such as the keypad, delete key, home, page down, etc.. on the right-hand 
+side...</segment>
+    <segment id="18" parent="4" relname="background">just like you mentioned.</segment>
+    <segment id="5" parent="20" relname="span">  By contrast, the Dvorak keyboard does accommodate the 
+left-hand user,</segment>
+    <segment id="11" parent="5" relname="elaboration"> or at least takes a load off of a person&apos;s right hand,</segment>
+    <segment id="12" parent="5" relname="concession"> but is not so popular 
+of a keyboard.</segment>
+    <segment id="6" parent="7" relname="antithesis">  The QWERTY keyboard has pretty much dominated the market.</segment>
+    <segment id="7" parent="24" relname="span">  There 
+are options out there,</segment>
+    <segment id="13" parent="21" relname="sequence"> but we just have to look around a little.</segment>
+    <segment id="8" parent="21" relname="sequence">  And once you find a better 
+design,</segment>
+    <segment id="14" parent="21" relname="sequence"> you have to re-train yourself,</segment>
+    <segment id="15" parent="22" relname="span"> because it&apos;s intuitiveness will probably not seem all 
+that great,</segment>
+    <segment id="16" parent="15" relname="volitional-cause"> since we are so used to using QWERTY keyboards.</segment>
+    <segment id="9" parent="27" relname="joint">  Good thread.  </segment>
+<group id="19" type="multinuc" parent="3" relname="elaboration" />
+<group id="20" type="span" parent="19" relname="contrast" />
+<group id="21" type="multinuc" parent="7" relname="concession" />
+<group id="22" type="span" parent="14" relname="nonvolitional-cause" />
+<group id="23" type="span" parent="2" relname="elaboration" />
+<group id="24" type="span" parent="2" relname="elaboration" />
+<group id="17" type="span" parent="19" relname="contrast" />
+<group id="25" type="span" parent="2" relname="circumstance" />
+<group id="26" type="span" parent="27" relname="joint" />
+<group id="27" type="multinuc" />
+  </body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="span">
+Two design principles that I believe can significantly affect the intuitiveness of an 
+interface are mapping and affordance (Preece et al, 2002).</segment>
+    <segment id="2" parent="1" relname="elaboration">  Mapping with respect to a 
+system interface is the relationship between controls and their effect on the system.</segment>
+    <segment id="3" parent="1" relname="elaboration"> 
+According to Norman (2002), the movement, placement, and appearance of a control 
+should give a visual clue as to what effect that control will have on the system.</segment>
+    <segment id="4" parent="11" relname="condition"> I believe 
+that if an interface effectively meets the mapping principle,</segment>
+    <segment id="11" parent="14" relname="span"> it has a greater probability of 
+being considered intuitive by the user.</segment>
+    <segment id="5" parent="1" relname="elaboration"> In addition, Preece et al define the principle of 
+affordance as an attribute of an object that allows people to know how to use it.</segment>
+    <segment id="6" parent="13" relname="span"> It seems 
+to me that the principle of affordance is closely related to the principle of mapping.</segment>
+    <segment id="7" parent="6" relname="elaboration"> In 
+any event, interfaces that are considered intuitive by their users have probably done a 
+good job of meeting the design principles of mapping and affordance. </segment>
+<group id="14" type="span" parent="1" relname="elaboration" />
+<group id="13" type="span" parent="1" relname="elaboration" />
+<group id="9" type="span" />
+  </body>
+</rst>

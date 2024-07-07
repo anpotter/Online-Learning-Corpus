@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="6" relname="solutionhood">
+What would be a more intuitive interface than direct interaction with a human-like entity?</segment>
+    <segment id="6" parent="5" relname="span">
+Now, theorists are developing an artificial personality to accompany the artificial entity 
+(AE), or customer service avatar, that you are interacting with online (Neubauer, 2004).</segment>
+    <segment id="2" parent="7" relname="antithesis"> 
+This is much different from a fixed, programmed personality,</segment>
+    <segment id="7" parent="10" relname="span"> but can evolve 
+with &quot;experience&quot;.</segment>
+    <segment id="3" parent="8" relname="span"> Working with 16 categories of personality and artificial intelligence 
+tools, such as Prolog and AIML (artificial intelligence markup language), developers can 
+simulate certain characteristics and collect &apos;experience&apos; and &apos;perception&apos; toward an AE 
+with an artificial personality.</segment>
+    <segment id="4" parent="9" relname="antithesis">
+Ironically, traits such as &apos;intuition&apos; and &apos;feeling&apos; cannot effectively be simulated,</segment>
+    <segment id="9" parent="12" relname="span"> but the 
+appearance of them can be &quot;faked&quot;.
+</segment>
+<group id="12" type="span" parent="3" relname="elaboration" />
+<group id="10" type="span" parent="6" relname="elaboration" />
+<group id="8" type="span" parent="6" relname="elaboration" />
+<group id="5" type="span" />
+  </body>
+</rst>

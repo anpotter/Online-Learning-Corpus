@@ -1,0 +1,73 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="span">
+Excellent posting.</segment>
+    <segment id="2" parent="10" relname="concession"> I am right handed</segment>
+    <segment id="10" parent="15" relname="span"> but surrounded with lefties</segment>
+    <segment id="9" parent="20" relname="span"> and I have never thought 
+about the location of the numeric key pad.</segment>
+    <segment id="3" parent="19" relname="span">
+
+Mouses can be programmed for lefties</segment>
+    <segment id="11" parent="3" relname="elaboration"> and this has been case for a long time.</segment>
+    <segment id="4" parent="7" relname="span"> I am 
+always surprised at the number of people who are not aware of this feature.</segment>
+    <segment id="5" parent="16" relname="conjunction"> When I was 
+a PC Tech </segment>
+    <segment id="14" parent="16" relname="conjunction">and came accross a left handed user</segment>
+    <segment id="12" parent="17" relname="span"> I would offer a left mouse set up for 
+them.</segment>
+    <segment id="6" parent="18" relname="span"> Well many people said they had gotten use to the right hand set up</segment>
+    <segment id="13" parent="6" relname="elaboration"> and did not 
+need to switch.
+
+</segment>
+<group id="15" type="span" parent="9" relname="concession" />
+<group id="16" type="multinuc" parent="12" relname="circumstance" />
+<group id="17" type="span" parent="6" relname="concession" />
+<group id="18" type="span" parent="4" relname="nonvolitional-result" />
+<group id="20" type="span" parent="1" relname="elaboration" />
+<group id="21" type="span" parent="7" relname="background" />
+<group id="19" type="span" parent="4" relname="volitional-cause" />
+<group id="7" type="span" parent="8" relname="span" />
+<group id="8" type="span" />
+  </body>
+</rst>

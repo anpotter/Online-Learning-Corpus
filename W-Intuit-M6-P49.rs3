@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="31" relname="span">
+The intuitiveness of a design increases the efficiency and ease of use
+of a product by preventing the user from having to manually complete a
+certain process, taking unecessary additional steps in completing a
+process, or repeating a process.</segment>
+    <segment id="2" parent="27" relname="background"> For example, a user wishes to play a
+song using an mp3 player on their computer.</segment>
+    <segment id="3" parent="20" relname="circumstance"> When the Open option on the
+music player&apos;s interface is clicked,</segment>
+    <segment id="20" parent="33" relname="span"> a choice is given of which folder
+to open the file from.</segment>
+    <segment id="4" parent="25" relname="span">  The user proceeds to open Folder A</segment>
+    <segment id="21" parent="4" relname="elaboration"> where there
+are countless of stored files including word processing documents, HTML
+files,  pictures, videos, and music.</segment>
+    <segment id="5" parent="27" relname="span"> An intuitive music player would
+&quot;know&quot; that the user is only looking for music files and display only
+such files in the Open dialog box.</segment>
+    <segment id="6" parent="22" relname="circumstance"> The program would know that when a
+user wants to open a file, </segment>
+    <segment id="22" parent="18" relname="span">it can only look for mp3 files in the chosen
+folder,</segment>
+    <segment id="8" parent="19" relname="span"> not .txt, .ppt, mpeg, .wav, etc.,</segment>
+    <segment id="9" parent="8" relname="concession"> even if all those files
+coexisted in the same folder as the mp3 files.</segment>
+    <segment id="10" parent="27" relname="elaboration"> This intuitiveness is
+also a form of error prevention that keeps the user from sorting out
+through incompatible file types, or risking damage to files by opening
+them with wrong application.</segment>
+    <segment id="11" parent="28" relname="span"> 
+
+Another example is when a particular application is given a command to
+open an incompatible file type.</segment>
+    <segment id="12" parent="11" relname="elaboration"> Or when there is not enough resources
+available to perform a process.</segment>
+    <segment id="13" parent="14" relname="antithesis"> In intuitive program will know its
+limitations and will not attempt to open the file regardless of the
+chances of freezing or shutting down the system.</segment>
+    <segment id="14" parent="29" relname="span"> Instead, the intuitive
+application would warn the user of its limitations with an error
+message, further directions, or even call on the operating system to
+display a list of available options,</segment>
+    <segment id="7" parent="14" relname="elaboration"> such as a display of other programs
+that may (or may not) be able open that particular file type.</segment>
+    <segment id="15" parent="30" relname="span">  
+
+Still another example of intuitiveness relates to memorability</segment>
+    <segment id="23" parent="15" relname="elaboration"> when an
+application remembers your login, password, or demographic information
+to prevent redundancy; </segment>
+    <segment id="24" parent="15" relname="elaboration">also, when the AOL client application alerts the
+user that they&apos;ve got mail before having a chance to go to the mailbox.</segment>
+    <segment id="16" parent="15" relname="nonvolitional-result">
+Such transparent processes provide subtle instances of  intuitiveness.</segment>
+<group id="19" type="span" parent="22" relname="antithesis" />
+<group id="18" type="span" parent="5" relname="elaboration" />
+<group id="17" type="multinuc" parent="5" relname="background" />
+<group id="25" type="span" parent="17" relname="sequence" />
+<group id="29" type="span" parent="28" relname="elaboration" />
+<group id="33" type="span" parent="17" relname="sequence" />
+<group id="27" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="1" relname="elaboration" />
+<group id="28" type="span" parent="32" relname="span" />
+<group id="28" type="span" parent="32" relname="span" />
+<group id="30" type="span" parent="1" relname="elaboration" />
+<group id="31" type="span" />
+<group id="32" type="span" parent="1" relname="elaboration" />
+  </body>
+</rst>

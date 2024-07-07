@@ -1,0 +1,95 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="background"> 
+Ones intuition is defined as the act or faculty of knowing or sensing without the use of 
+rational processes; immediate cognition (yourdictionary.com).</segment>
+    <segment id="4" parent="23" relname="span">  As computing evolved 
+from the black and white text-based DOS environment to the colorful world of Graphical 
+User Interface,</segment>
+    <segment id="3" parent="19" relname="span"> many applications have been praised to be natural, user-friendly, and 
+intuitive.</segment>
+    <segment id="5" parent="29" relname="span">  However, the mere fact that an environment is GUI based does not mean that 
+it is intuitive.</segment>
+    <segment id="6" parent="22" relname="span">  In many cases the term intuitiveness has been used in scenarios where it 
+took time to develop some sense or knowledge of the system.</segment>
+    <segment id="7" parent="6" relname="nonvolitional-result">  Consequently, this is 
+contrary to the true meaning of the word intuitive, which is having immediate 
+cognition.</segment>
+    <segment id="8" parent="20" relname="span">  Branding a product as being intuitive may force developers to oversimplify 
+the product or even prevent further advancement;</segment>
+    <segment id="14" parent="8" relname="nonvolitional-cause"> since any newly added feature might 
+not be intuitive because it is not familiar (Raskin, 1994).</segment>
+    <segment id="9" parent="15" relname="concession">  
+
+Though the term has been used as a gimmick by marketers, </segment>
+    <segment id="15" parent="30" relname="span">I think it can be a useful 
+concept for designers in releasing systems that would be used by people with all levels of 
+experience.</segment>
+    <segment id="10" parent="27" relname="span">  It is important to measure intuitiveness when introducing a totally new 
+system</segment>
+    <segment id="16" parent="21" relname="conjunction"> where time and satisfaction is a concern,</segment>
+    <segment id="17" parent="21" relname="conjunction"> and where the user of the new system 
+accomplished the same task before by a completely different method.</segment>
+    <segment id="11" parent="26" relname="span">  Examples of 
+these systems include automated check-in machines at airports, and self-checkout 
+cashiers machine at stores.</segment>
+    <segment id="12" parent="25" relname="span">  Here the first encounter with the user must be a success</segment>
+    <segment id="18" parent="12" relname="antithesis"> or 
+else the implementation of the system is a failure.</segment>
+    <segment id="13" parent="2" relname="joint">  Intuitiveness can be measured in a 
+control environment by recording completion times of task and tracking how many times 
+users ask for help.</segment>
+<group id="19" type="span" parent="5" relname="antithesis" />
+<group id="22" type="span" parent="5" relname="elaboration" />
+<group id="24" type="span" />
+<group id="25" type="span" parent="11" relname="elaboration" />
+<group id="27" type="span" parent="15" relname="elaboration" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="23" type="span" parent="3" relname="circumstance" />
+<group id="20" type="span" parent="29" relname="elaboration" />
+<group id="21" type="multinuc" parent="28" relname="span" />
+<group id="26" type="span" parent="21" relname="elaboration" />
+<group id="28" type="span" parent="10" relname="circumstance" />
+<group id="2" type="multinuc" />
+<group id="30" type="span" parent="2" relname="joint" />
+<group id="31" type="span" parent="2" relname="joint" />
+  </body>
+</rst>

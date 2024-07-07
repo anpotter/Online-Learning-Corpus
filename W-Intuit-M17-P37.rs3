@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="19" relname="span">
+Intuitiveness has been found to quite different than analysis.</segment>
+    <segment id="2" parent="1" relname="evidence">  I have found myself 
+learning new applications by clicking on icons without analyzing what it represents.</segment>
+    <segment id="3" parent="20" relname="span">  In 
+other words, it intuitive is familiarly.</segment>
+    <segment id="4" parent="10" relname="sequence"> For example, the first time we worked with MS 
+Word, the disk icon was unfamiliar to us.</segment>
+    <segment id="5" parent="16" relname="span">  Now, in every application, we intuitively know 
+what the disk icon represents</segment>
+    <segment id="11" parent="5" relname="volitional-cause"> because we are familiar with it.</segment>
+    <segment id="6" parent="12" relname="volitional-cause">  When you have worked 
+with an application for a long a time,</segment>
+    <segment id="12" parent="18" relname="span"> you tend to forget the basics.</segment>
+    <segment id="7" parent="23" relname="span">  
+
+In a study by Raskin, he summarized that intuitiveness should be replaced with 
+familiarity</segment>
+    <segment id="13" parent="7" relname="volitional-cause"> because users are more familiar with UI or peripheral.</segment>
+    <segment id="8" parent="14" relname="means">  By increasing our 
+use with it,</segment>
+    <segment id="14" parent="21" relname="span"> we begin to increase our experience</segment>
+    <segment id="15" parent="22" relname="span"> where we can now say that it is intuitive.</segment>
+    <segment id="9" parent="26" relname="elaboration">
+Every UI, with increase usage, will eventually become intuitively.  
+</segment>
+<group id="10" type="multinuc" parent="17" relname="span" />
+<group id="16" type="span" parent="10" relname="sequence" />
+<group id="19" type="span" parent="24" relname="span" />
+<group id="21" type="span" parent="15" relname="volitional-cause" />
+<group id="22" type="span" parent="23" relname="elaboration" />
+<group id="23" type="span" parent="25" relname="span" />
+<group id="18" type="span" parent="10" relname="summary" />
+<group id="17" type="span" parent="3" relname="elaboration" />
+<group id="20" type="span" parent="19" relname="elaboration" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="24" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" />
+  </body>
+</rst>

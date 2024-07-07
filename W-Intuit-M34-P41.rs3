@@ -1,0 +1,91 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+A User Centered Design process focuses on the needs, abilities, and values of the human 
+user rather than the cost, availability or impressiveness of the technology.</segment>
+    <segment id="2" parent="24" relname="span"> In many 
+cases, good technology is not readily accepted</segment>
+    <segment id="12" parent="2" relname="nonvolitional-cause"> because a product is not easy to use or 
+efficient to use.</segment>
+    <segment id="3" parent="26" relname="span"> A product&apos;s usability, acceptance, and marketability are often dependent 
+on the users comfort level with how easy it is to learn and use.</segment>
+    <segment id="4" parent="25" relname="span"> It is most important to 
+determine the target audience</segment>
+    <segment id="13" parent="27" relname="span"> - Who will be using the product?</segment>
+    <segment id="11" parent="13" relname="elaboration"> This includes everything 
+about a product with which a user comes in contact, taking into account every possibility 
+of every action that a user is likely to take at every step of the way - the user 
+expectations, interface, packaging, advertising, downloads, upgrading, etc. </segment>
+    <segment id="14" parent="30" relname="span">
+ Intuitiveness depends on the user&apos;s familiarity and previous experiences,</segment>
+    <segment id="15" parent="22" relname="span"> and is subject 
+to cultural and other biases.</segment>
+    <segment id="5" parent="6" relname="concession"> It is generally perceived that the most fundamental quality 
+of any good user interface should be that it is intuitive.</segment>
+    <segment id="6" parent="23" relname="span"> The problem is that &quot;intuitive&quot; 
+means different things to different people.</segment>
+    <segment id="7" parent="6" relname="elaboration"> To some an intuitive user interface is one that 
+users can figure out for themselves.</segment>
+    <segment id="8" parent="28" relname="span"> 
+One definition of an intuitive user interface is one that is easy to learn.</segment>
+    <segment id="9" parent="20" relname="antithesis"> This does not 
+mean that no instruction is required,</segment>
+    <segment id="16" parent="20" relname="conjunction"> but that it is minimal</segment>
+    <segment id="17" parent="20" relname="conjunction"> and that users can &quot;pick it up&quot; 
+quickly and easily.</segment>
+    <segment id="10" parent="18" relname="antithesis"> First-time users might not intuit how to operate a scroll bar,</segment>
+    <segment id="18" parent="19" relname="span"> but once 
+it is explained they generally find it to be an intuitive idiom</segment>
+<group id="20" type="multinuc" parent="21" relname="span" />
+<group id="19" type="span" parent="20" relname="elaboration" />
+<group id="21" type="span" parent="8" relname="elaboration" />
+<group id="25" type="span" parent="3" relname="elaboration" />
+<group id="27" type="span" parent="4" relname="elaboration" />
+<group id="26" type="span" parent="2" relname="elaboration" />
+<group id="24" type="span" parent="29" relname="joint" />
+<group id="24" type="span" parent="29" relname="joint" />
+<group id="30" type="span" parent="29" relname="joint" />
+<group id="23" type="span" parent="15" relname="elaboration" />
+<group id="22" type="span" parent="14" relname="elaboration" />
+<group id="29" type="multinuc" />
+<group id="28" type="span" parent="29" relname="joint" />
+  </body>
+</rst>
