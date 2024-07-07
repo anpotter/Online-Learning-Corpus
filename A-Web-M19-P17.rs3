@@ -1,0 +1,137 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="79" relname="span">
+
+
+My views about what HCI aspects are necessary for good Web design: </segment>
+    <segment id="41" parent="77" relname="span">
+Making a conclusion about whether a website is designed well is relative to the purpose of the design.</segment>
+    <segment id="2" parent="74" relname="span"> I believe a webs tie can be classified under one of the three purpose-driven categories, informative, interactive, or both informative and interactive.</segment>
+    <segment id="3" parent="39" relname="condition"> If the website is created as an introduction to new consumers,</segment>
+    <segment id="39" parent="58" relname="span"> then aspects such as user-centeredness, and attractiveness, are not as crucial for the designers.</segment>
+    <segment id="4" parent="49" relname="concession"> The designers should keep these ideas in the back of their minds,</segment>
+    <segment id="49" parent="80" relname="span"> however, aspects such as accuracy, legibility, and updatedness, are more crucial.</segment>
+    <segment id="5" parent="57" relname="span"> For example, Walgreens.com about four years ago had a bland website.</segment>
+    <segment id="7" parent="5" relname="elaboration"> It consisted of historical background information, a store locator, and other miscellaneous features.</segment>
+    <segment id="8" parent="5" relname="elaboration"> It did not bear any of the interactive features, which is currently does, such as an online pharmacy feature, online store, the ability to upload photos from your digital camera, etc.</segment>
+    <segment id="6" parent="59" relname="span"> It has come a long way.</segment>
+    <segment id="9" parent="6" relname="background"> However, still features the informative content.</segment>
+    <segment id="10" parent="6" relname="nonvolitional-cause"> The cause of this transformation, could be that online customers have come to except this type of service from a large retailer, like Walgreens.</segment>
+    <segment id="11" parent="59" relname="summary"> One may conclude that the purpose of the website has changed from mostly informative to both informative and interactive.</segment>
+    <segment id="12" parent="50" relname="volitional-cause"> 
+On the other hand, when the purpose of a website is more centered towards mandated interaction such as the case with an e-commerce website,</segment>
+    <segment id="50" parent="73" relname="span"> most (if not all) HCI concepts are pertinent.</segment>
+    <segment id="13" parent="72" relname="span"> Concepts such as the following: </segment>
+    <segment id="61" parent="62" relname="list">
+Attractiveness: An e-commerce website must be ?attractive? to its target market.</segment>
+    <segment id="14" parent="62" relname="list"> 
+Awareness: This site must make itself noticeable and make consumers ?aware? of its services and products.</segment>
+    <segment id="15" parent="65" relname="span"> 
+User friendliness and centered: The site should have a customized option whether the site recognizes frequent users.</segment>
+    <segment id="16" parent="15" relname="volitional-result"> Thereby, giving the site more ?user centered?.</segment>
+    <segment id="17" parent="64" relname="span"> The site should seem feasible in usage.</segment>
+    <segment id="18" parent="38" relname="volitional-cause"> If the consumer is confused by the layout or too much graphics and information,</segment>
+    <segment id="38" parent="63" relname="span"> then the website is deemed ?unfriendly to the user?.</segment>
+    <segment id="19" parent="75" relname="span"> 
+In my design course for my undergrad, one of the more emphasized points was to compare and contrast what is out there.</segment>
+    <segment id="20" parent="19" relname="elaboration"> The designers? should see what works.</segment>
+    <segment id="21" parent="66" relname="span"> Moreover they should check off the below, which are user experience goals from Preece p.18: </segment>
+    <segment id="47" parent="25" relname="list">
+1. Satisfying</segment>
+    <segment id="42" parent="25" relname="list"> 2. Enjoyable</segment>
+    <segment id="40" parent="25" relname="list"> 3. Fun </segment>
+    <segment id="22" parent="25" relname="list">4. Entertaining</segment>
+    <segment id="37" parent="25" relname="list"> 5. Helpful</segment>
+    <segment id="36" parent="25" relname="list"> 6. Motivating</segment>
+    <segment id="35" parent="25" relname="list"> 7. Aesthetically pleasing</segment>
+    <segment id="34" parent="25" relname="list"> 8. Supportive of creativity </segment>
+    <segment id="51" parent="25" relname="list">9. Rewarding</segment>
+    <segment id="52" parent="25" relname="list"> 10. Emotionally fulfilling</segment>
+    <segment id="53" parent="56" relname="preparation"> 
+What websites experts say: </segment>
+    <segment id="54" parent="56" relname="span">
+The design experts at Designtech.com recommend a five-step approach to evaluate the website usability.</segment>
+    <segment id="24" parent="43" relname="list"> The first step is to ?Identify the purpose, goals, and objectives of the website, clarify issues, questions, and concerns.?</segment>
+    <segment id="44" parent="43" relname="list"> The second approach is to ?Characterize classes of users and develop user-personas.?</segment>
+    <segment id="46" parent="55" relname="span"> This step is so crucial to good website design.</segment>
+    <segment id="27" parent="26" relname="antithesis"> For example, a toy company for war-oriented action figures should not use pastel background and classical music on its website.</segment>
+    <segment id="28" parent="26" relname="condition"> If the understand their audience, </segment>
+    <segment id="26" parent="23" relname="span">they should have camouflage-type background and aggressive music.</segment>
+    <segment id="29" parent="70" relname="preparation"> 
+My points: </segment>
+    <segment id="45" parent="67" relname="span">
+I believe with time these will be phased out.</segment>
+    <segment id="30" parent="45" relname="volitional-cause"> The well-designed sites will outrun the poorly designed ones.</segment>
+    <segment id="31" parent="67" relname="restatement"> In other words, the theory of the ?survival of the fittest? may avail.</segment>
+    <segment id="32" parent="48" relname="volitional-cause"> The online users are becoming more comfortable conducted transactions of the web,</segment>
+    <segment id="48" parent="69" relname="span"> therefore, the business must make their website more user-centered, in order to be successful. 
+
+</segment>
+<group id="25" type="multinuc" parent="21" relname="elaboration" />
+<group id="43" type="multinuc" parent="54" relname="elaboration" />
+<group id="23" type="span" parent="46" relname="evidence" />
+<group id="55" type="span" parent="44" relname="evaluation" />
+<group id="56" type="span" parent="76" relname="span" />
+<group id="57" type="span" parent="6" relname="antithesis" />
+<group id="58" type="span" parent="49" relname="antithesis" />
+<group id="59" type="span" parent="60" relname="span" />
+<group id="60" type="span" parent="49" relname="evidence" />
+<group id="62" type="multinuc" parent="13" relname="elaboration" />
+<group id="63" type="span" parent="17" relname="volitional-cause" />
+<group id="64" type="span" parent="15" relname="elaboration" />
+<group id="65" type="span" parent="62" relname="list" />
+<group id="66" type="span" parent="19" relname="elaboration" />
+<group id="67" type="span" parent="68" relname="span" />
+<group id="68" type="span" parent="70" relname="span" />
+<group id="69" type="span" parent="68" relname="volitional-cause" />
+<group id="70" type="span" parent="78" relname="span" />
+<group id="71" type="multinuc" parent="2" relname="elaboration" />
+<group id="72" type="span" parent="50" relname="elaboration" />
+<group id="73" type="span" parent="71" relname="contrast" />
+<group id="74" type="span" parent="41" relname="elaboration" />
+<group id="75" type="span" parent="1" relname="elaboration" />
+<group id="76" type="span" parent="1" relname="elaboration" />
+<group id="77" type="span" parent="1" relname="elaboration" />
+<group id="78" type="span" parent="1" relname="elaboration" />
+<group id="79" type="span" />
+<group id="80" type="span" parent="71" relname="contrast" />
+  </body>
+</rst>

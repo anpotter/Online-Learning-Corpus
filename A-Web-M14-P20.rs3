@@ -1,0 +1,66 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="volitional-cause">
+
+
+When designing a web site, the most obvious fact is that no one can tell exactly who will access the site.</segment>
+    <segment id="2" parent="14" relname="span"> Therefore there should be basic assumptions of the end user</segment>
+    <segment id="12" parent="2" relname="concession"> though the content would be aimed at specific users.</segment>
+    <segment id="3" parent="15" relname="span"> Lack of experience in navigating a website could be one of the assumptions.</segment>
+    <segment id="4" parent="16" relname="span"> All users with different experience levels must be able to access and use a website.</segment>
+    <segment id="5" parent="17" relname="span"> This means the HCI aspects, which are necessary for good web design, are accessibility and usability.</segment>
+    <segment id="6" parent="18" relname="span"> Factors like the amount and size of graphics used affect download time and therefore accessibility.</segment>
+    <segment id="7" parent="6" relname="elaboration"> The general rule of thumb is that a 5 second download over a 56K (now generally considered as the minimum connection speed) is considered good.</segment>
+    <segment id="8" parent="6" relname="elaboration"> A page that can be accessed via several links provides good accessibility.</segment>
+    <segment id="9" parent="20" relname="span"> Usability covers factors like being able to use different platforms to display the same site and being able to display the fonts properly.</segment>
+    <segment id="10" parent="13" relname="nonvolitional-cause"> Computers have different fonts installed</segment>
+    <segment id="13" parent="19" relname="span"> and the biggest challenge is designing a site that will display correctly on all screens.</segment>
+    <segment id="11" parent="9" relname="background"> The use of style sheets has been a popular method of aiding usability, among its other advantages.</segment>
+<group id="14" type="span" parent="21" relname="span" />
+<group id="15" type="span" parent="14" relname="elaboration" />
+<group id="16" type="span" parent="3" relname="elaboration" />
+<group id="17" type="span" parent="4" relname="nonvolitional-result" />
+<group id="18" type="span" parent="5" relname="elaboration" />
+<group id="19" type="span" parent="9" relname="elaboration" />
+<group id="20" type="span" parent="5" relname="elaboration" />
+<group id="21" type="span" />
+  </body>
+</rst>

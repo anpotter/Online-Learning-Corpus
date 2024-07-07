@@ -1,0 +1,68 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="span">
+
+
+I think the following HCI aspects are necessary for good Web design: </segment>
+    <segment id="10" parent="9" relname="list">webpage (screen) layout,</segment>
+    <segment id="11" parent="9" relname="list"> color,</segment>
+    <segment id="12" parent="9" relname="list"> fonts,</segment>
+    <segment id="13" parent="9" relname="list"> labeling,</segment>
+    <segment id="14" parent="9" relname="list"> graphics,</segment>
+    <segment id="15" parent="9" relname="list"> sound,</segment>
+    <segment id="16" parent="9" relname="list"> visualization,</segment>
+    <segment id="17" parent="9" relname="list"> presentation</segment>
+    <segment id="18" parent="9" relname="list"> and interaction.</segment>
+    <segment id="2" parent="7" relname="elaboration"> Also usability is an ingredient for good web design, especially when making a webpage easy to learn, easy to use and efficient to use.</segment>
+    <segment id="3" parent="8" relname="attribution"> 
+According to Practical User Interface Design: Developing within Real-World Constraints by Debra Herschmann, CHI 97</segment>
+    <segment id="19" parent="8" relname="span"> the HCI community can &quot;stop&quot; or at least slow down the train of poor Web design by working with developers on awareness and self sufficiency.</segment>
+    <segment id="4" parent="19" relname="elaboration"> 
+&quot;A long term goal in team product development is to provide programmers with an awareness of user interface design, and tools for implementing designs accurately. Programmer awareness will result in better front end design, reduce the number of bugs in the software, and result in lower development cost per feature. Programmers should be assigned responsibility for correct implementation of front end design, as well as back end functionality. Minimally, programmers should understand interface issues well enough to know when to raise design issues during implementation, rather than ignoring them or implementing them incorrectly. Optimally, the front end should appear as if developed by a single programmer, not by a variety of programmers with varying skill levels and sensibilities.&quot;</segment>
+<group id="9" type="multinuc" parent="1" relname="elaboration" />
+<group id="8" type="span" parent="5" relname="span" />
+<group id="7" type="span" parent="20" relname="span" />
+<group id="6" type="multinuc" />
+<group id="5" type="span" parent="6" relname="joint" />
+<group id="20" type="span" parent="6" relname="joint" />
+  </body>
+</rst>

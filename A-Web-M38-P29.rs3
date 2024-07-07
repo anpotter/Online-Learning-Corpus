@@ -1,0 +1,63 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="volitional-cause">
+
+
+I am on the Web a lot</segment>
+    <segment id="7" parent="16" relname="span"> whether it be for work, school, banking or personal use.</segment>
+    <segment id="2" parent="17" relname="span"> The way a web site is designed will determine if I use it or not.</segment>
+    <segment id="3" parent="12" relname="conjunction"> If I am looking for information</segment>
+    <segment id="8" parent="12" relname="conjunction"> and I cannot find it,</segment>
+    <segment id="9" parent="13" relname="span"> I will quickly go to another.</segment>
+    <segment id="4" parent="10" relname="condition"> When purchasing items online, if it requires too much trouble and navigation</segment>
+    <segment id="10" parent="14" relname="span"> I will not purchase from that company.</segment>
+    <segment id="5" parent="11" relname="condition"> If the online banking with my current bank was not so easy to use and made life easier for me,</segment>
+    <segment id="11" parent="15" relname="span"> I would have probably taken my business elsewhere by now.</segment>
+    <segment id="6" parent="17" relname="summary"> The way a website is designed will determine who will use it.</segment>
+<group id="12" type="multinuc" parent="9" relname="condition" />
+<group id="13" type="span" parent="2" relname="elaboration" />
+<group id="14" type="span" parent="2" relname="elaboration" />
+<group id="15" type="span" parent="2" relname="elaboration" />
+<group id="16" type="span" parent="2" relname="background" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,53 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="6" relname="span">
+
+
+As with many things in life there should be a proper consideration to any website created and published.</segment>
+    <segment id="2" parent="1" relname="elaboration"> Good web designers can make any web site a major asset and not just a brightly-coloured bauble.</segment>
+    <segment id="3" parent="1" relname="elaboration"> Web designers should have the experience and skills to design web sites that enhance a business.</segment>
+    <segment id="4" parent="1" relname="means"> 
+At present, Web designers should use combination of technologies such as XHTML, CSS, PHP, MySQL and JavaScript.</segment>
+    <segment id="5" parent="6" relname="summary"> All this essentially means that each web site produced, web designers should have concentrated on clarity, ease of navigation, speed of loading and excellent search engine ranking, easy to maintain, display in all browsers and be ready for new technologies.</segment>
+<group id="6" type="span" parent="7" relname="span" />
+<group id="7" type="span" />
+  </body>
+</rst>

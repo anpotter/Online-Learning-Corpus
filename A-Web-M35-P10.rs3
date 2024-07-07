@@ -1,0 +1,97 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="47" relname="span">
+
+
+I believe that the aspects to good web design lies in how well the designer does his or her research and how well it is tested.</segment>
+    <segment id="2" parent="22" relname="nonvolitional-cause"> Putting a site out there is very easy,</segment>
+    <segment id="22" parent="29" relname="span"> and not many designers give thought to what they publish.</segment>
+    <segment id="3" parent="28" relname="contrast"> However, there are those who follow the rules of good design and put out sites are great examples of good design.</segment>
+    <segment id="4" parent="32" relname="span"> Before even going to the drawing board, the designer or the analysts should first define the site goals</segment>
+    <segment id="21" parent="4" relname="elaboration"> (what is its purpose).</segment>
+    <segment id="5" parent="4" relname="elaboration"> Is it going to be for eCommerce, information, or entertainment, etc. </segment>
+    <segment id="20" parent="31" relname="span">Second, they should simulate a few user experiences.</segment>
+    <segment id="6" parent="20" relname="elaboration"> Who are the targeted audience, </segment>
+    <segment id="19" parent="20" relname="elaboration">what are they going to be doing in detail on the site,</segment>
+    <segment id="17" parent="20" relname="elaboration"> and what about by-passers.</segment>
+    <segment id="7" parent="33" relname="span"> After defining the user experience, the designer should then outline the content,</segment>
+    <segment id="16" parent="7" relname="elaboration"> whats important</segment>
+    <segment id="14" parent="7" relname="elaboration"> and whats not,</segment>
+    <segment id="13" parent="7" relname="elaboration"> what should the user want on there,</segment>
+    <segment id="11" parent="7" relname="elaboration"> and define the avenues that the users should take.</segment>
+    <segment id="8" parent="30" relname="sequence"> Then, a site structure, layout, or blueprint should follow, with the visual design to end it all.</segment>
+    <segment id="9" parent="45" relname="span"> Sites that come to mind that speak of good design are as follows: </segment>
+    <segment id="10" parent="40" relname="span">
+http://www.hotscripts.com/</segment>
+    <segment id="36" parent="10" relname="motivation"> a great place to start.</segment>
+    <segment id="12" parent="39" relname="span"> 
+http://hotwired.lycos.com/webmonkey/design/site_building/tutorials/tutorial1.html</segment>
+    <segment id="35" parent="12" relname="motivation"> one of my favorites.</segment>
+    <segment id="15" parent="41" relname="span"> 
+http://www.wdvl.com/Authoring/Design/TopTen2001/</segment>
+    <segment id="34" parent="15" relname="motivation"> its always good to reflect on whats good out there.</segment>
+    <segment id="18" parent="42" relname="span"> 
+And http://www.webreference.com/ and http://www.useit.com/</segment>
+    <segment id="37" parent="18" relname="motivation"> in case you get lost.</segment>
+    <segment id="23" parent="46" relname="span"> 
+Nothing better can stop or slow down the train of poor Web design than education.</segment>
+    <segment id="24" parent="25" relname="concession"> Its unfortunate enough that anyone can put up a Web site.</segment>
+    <segment id="25" parent="44" relname="span"> However, I believe that the HCI community along with the Web community can advertise more and give credit to those that have done well in Web design by publicly awarding those who deserve it on TV and the Web.</segment>
+    <segment id="26" parent="43" relname="span"> (Just like the Oscars or Emmys).</segment>
+    <segment id="27" parent="26" relname="evaluation"> :)</segment>
+<group id="28" type="multinuc" parent="1" relname="elaboration" />
+<group id="29" type="span" parent="28" relname="contrast" />
+<group id="30" type="multinuc" parent="3" relname="elaboration" />
+<group id="31" type="span" parent="30" relname="sequence" />
+<group id="32" type="span" parent="30" relname="sequence" />
+<group id="33" type="span" parent="30" relname="sequence" />
+<group id="38" type="multinuc" parent="9" relname="elaboration" />
+<group id="39" type="span" parent="38" relname="list" />
+<group id="40" type="span" parent="38" relname="list" />
+<group id="41" type="span" parent="38" relname="list" />
+<group id="42" type="span" parent="38" relname="list" />
+<group id="43" type="span" parent="25" relname="elaboration" />
+<group id="44" type="span" parent="23" relname="means" />
+<group id="45" type="span" parent="3" relname="elaboration" />
+<group id="46" type="span" parent="1" relname="elaboration" />
+<group id="47" type="span" />
+  </body>
+</rst>
