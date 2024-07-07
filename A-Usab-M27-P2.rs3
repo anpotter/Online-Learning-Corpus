@@ -40,13 +40,13 @@
   <body>
     <segment id="1" parent="8" relname="span">
 Roberts et al (2003) in their study of website attractiveness found definate evidence of a generation gap.</segment>
-    <segment id="2" parent="5" relname="circumstance"> When they contrasted their results with earlier studies</segment>
+    <segment id="2" parent="5" relname="condition"> When they contrasted their results with earlier studies</segment>
     <segment id="5" parent="9" relname="span"> they found that college students (their test subjects) with a median age of 20 tended to rank websites that used colors, graphics and images high.</segment>
     <segment id="3" parent="6" relname="contrast"> Earlier studies that were based on subjects with a median age of 40 found that they preferred websites that were well organized.</segment>
     <segment id="4" parent="6" relname="volitional-result"> 
 The results of these studies show that interface designers have to determine their true target user population(s0 and then determine their preferences.</segment>
 <group id="6" type="multinuc" parent="7" relname="span" />
-<group id="7" type="span" parent="1" relname="elaboration" />
+<group id="7" type="span" parent="1" relname="evidence" />
 <group id="8" type="span" />
 <group id="9" type="span" parent="6" relname="contrast" />
   </body>

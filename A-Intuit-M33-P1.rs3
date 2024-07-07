@@ -1,0 +1,66 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">To Jef Raskin intuitiveness equals familiar (Communications of the ACM. 37:9, September 1994, pg. 17), </segment>
+    <segment id="9" parent="1" relname="elaboration">
+he stated that many products claim intuitiveness but when examined they fail, </segment>
+    <segment id="8" parent="1" relname="elaboration">
+he suggested that the term intuitiveness should be replaced with the word familiar discourse. </segment>
+    <segment id="7" parent="1" relname="elaboration">
+He defined intuitive as uses readily transferred existing skills. </segment>
+    <segment id="6" parent="13" relname="span">
+I tend to agree with Raskin, </segment>
+    <segment id="5" parent="4" relname="concession">
+I have not yet seen any information system package that can be used by new users without referring to help or manuals </segment>
+    <segment id="4" parent="12" relname="span">
+but on the other hand there is no doubt that the number of times the user has to reference help screens increases with decreasing intuitiveness, </segment>
+    <segment id="3" parent="4" relname="elaboration">
+that is, decreasing familiarity. </segment>
+    <segment id="2" parent="11" relname="conjunction">
+Intuitiveness plays an important role in usability</segment>
+    <segment id="10" parent="11" relname="conjunction"> and when designed properly leads to better usable products.</segment>
+<group id="11" type="multinuc" parent="15" relname="summary" />
+<group id="12" type="span" parent="6" relname="evidence" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="16" relname="span" />
+<group id="13" type="span" parent="14" relname="evaluation" />
+<group id="16" type="span" />
+  </body>
+</rst>

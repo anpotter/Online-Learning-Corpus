@@ -1,0 +1,59 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="6" relname="preparation">I agree with you when you say that the majority of users will never become information technology specialists. </segment>
+    <segment id="6" parent="10" relname="span">
+It&apos;s funny how the new trend in marketing for many coorporation is targeted towards the tech-savy generation. </segment>
+    <segment id="5" parent="8" relname="span">
+Those users who are from a non tech savvy world are often puzzled </segment>
+    <segment id="4" parent="5" relname="nonvolitional-cause">
+as they do not know how to use many applications. </segment>
+    <segment id="3" parent="7" relname="span">
+Many applications are apparently not intuitive to many users. </segment>
+    <segment id="2" parent="3" relname="evidence">
+Applications for Banking sites (as in your example) are good examples of sites that need a extra pinch of intutiveness built in for the novice user. 
+
+</segment>
+<group id="8" type="span" parent="9" relname="span" />
+<group id="7" type="span" parent="8" relname="elaboration" />
+<group id="9" type="span" parent="6" relname="elaboration" />
+<group id="10" type="span" />
+  </body>
+</rst>

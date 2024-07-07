@@ -1,0 +1,85 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="15" relname="preparation">
+Definition: </segment>
+    <segment id="15" parent="8" relname="span">
+Intuitiveness is the degree to which the product is deem easy to use and easy to learn for most of its target market or users. </segment>
+    <segment id="3" parent="15" relname="restatement">
+In other words, it is a measurement of how simple and comprehensive a product can be for a user. </segment>
+    <segment id="4" parent="16" relname="preparation">
+
+Measurement: </segment>
+    <segment id="16" parent="17" relname="span">
+The intuitiveness of a product must be defined by the producing company based on business goals. </segment>
+    <segment id="6" parent="16" relname="elaboration">
+For example, if the business could have a goal of having 80 percent or more of the tested users grasp the functionality of the product within a 30 minutes of using the it. </segment>
+    <segment id="5" parent="21" relname="span">
+Thus, the characteristic should be open to the producer to define specifications of desired results.</segment>
+    <segment id="2" parent="5" relname="concession"> 
+However, one must remember what Preece (2002) p. 334 states about systems (and or products) ??no system is ever perfect?. </segment>
+    <segment id="7" parent="9" relname="nonvolitional-cause">
+
+In his article, Looking for a humane interface: Will computers ever become easy to use?, 
+Jef Raskin, warns of the danger of producers designing products with ease of learning in mind at the expense of productivity. </segment>
+    <segment id="9" parent="19" relname="span">
+Therefore, producers believe the myth that a product that is easy to use, is probably not easy to learn. </segment>
+    <segment id="10" parent="18" relname="span">
+In other words, a product with complex functionality can not be easy to learn </segment>
+    <segment id="11" parent="10" relname="condition">
+if it is easy to use. </segment>
+    <segment id="12" parent="23" relname="span">
+Yet, Raskin (1997) underscores that this train of thought is a myth or theory. </segment>
+    <segment id="13" parent="20" relname="span">
+Intuitiveness is an integral characteristic of usability design. </segment>
+    <segment id="14" parent="13" relname="nonvolitional-result">
+Thus, designers must make the time to incorporate it into the product equation. 
+
+</segment>
+<group id="18" type="span" parent="9" relname="summary" />
+<group id="19" type="span" parent="12" relname="antithesis" />
+<group id="20" type="span" parent="12" relname="evidence" />
+<group id="21" type="span" parent="24" relname="joint" />
+<group id="23" type="span" parent="24" relname="joint" />
+<group id="8" type="span" parent="24" relname="joint" />
+<group id="17" type="span" parent="5" relname="nonvolitional-cause" />
+<group id="24" type="multinuc" />
+  </body>
+</rst>

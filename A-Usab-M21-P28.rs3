@@ -39,10 +39,10 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="11" relname="background"> 
+    <segment id="1" parent="13" relname="background"> 
 Structured error handling is an example of what you are describing.</segment>
     <segment id="2" parent="11" relname="span"> Recently at work we switched over to using asp.net which includes structured error handling</segment>
-    <segment id="3" parent="16" relname="span"> and it has made a world of difference.</segment>
+    <segment id="3" parent="2" relname="volitional-result"> and it has made a world of difference.</segment>
     <segment id="4" parent="12" relname="span"> 
 We can now wrap code where an error could occur, such as opening a connection to a database, in a try..catch block.</segment>
     <segment id="6" parent="8" relname="span"> 
@@ -52,13 +52,13 @@ try open connection to database catch ex as exception put code here to deal with
     <segment id="9" parent="8" relname="volitional-result">
 This allows us programmers to deal with errors in the code instead of letting the user deal with them.</segment>
     <segment id="7" parent="15" relname="joint"> 
-Also, Aim High - are you assiciated with the Air Force? </segment>
+Also, __ - are you assiciated with the Air Force? </segment>
 <group id="8" type="span" parent="10" relname="span" />
 <group id="10" type="span" parent="4" relname="elaboration" />
 <group id="11" type="span" parent="13" relname="span" />
-<group id="13" type="span" parent="15" relname="joint" />
+<group id="12" type="span" parent="11" relname="evidence" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="joint" />
 <group id="15" type="multinuc" />
-<group id="12" type="span" parent="3" relname="elaboration" />
-<group id="16" type="span" parent="2" relname="volitional-result" />
   </body>
 </rst>

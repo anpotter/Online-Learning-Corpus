@@ -42,8 +42,8 @@
     <segment id="1" parent="16" relname="preparation">
 You have made an interesting point.</segment>
     <segment id="2" parent="16" relname="span"> From what I have been able to ascertain from the readings and research, the HCI community has recognized that there are many types of users and has developed the concept of universal usability.</segment>
-    <segment id="3" parent="4" relname="concession"> Universal usability implies that an interface is usable by all user types.</segment>
-    <segment id="4" parent="18" relname="span"> Universal usability is very difficult to accomplish.</segment>
+    <segment id="3" parent="2" relname="elaboration"> Universal usability implies that an interface is usable by all user types.</segment>
+    <segment id="4" parent="2" relname="elaboration"> Universal usability is very difficult to accomplish.</segment>
     <segment id="5" parent="9" relname="span"> Microsoft Word is a good example.</segment>
     <segment id="6" parent="13" relname="span"> There are hundreds of features in MS Word,</segment>
     <segment id="10" parent="12" relname="contrast"> some users only use a few of the features</segment>
@@ -53,11 +53,9 @@ You have made an interesting point.</segment>
 <group id="9" type="span" parent="14" relname="span" />
 <group id="12" type="multinuc" parent="6" relname="elaboration" />
 <group id="13" type="span" parent="5" relname="elaboration" />
+<group id="14" type="span" parent="2" relname="elaboration" />
 <group id="15" type="span" parent="9" relname="elaboration" />
 <group id="16" type="span" parent="17" relname="span" />
 <group id="17" type="span" />
-<group id="18" type="span" parent="19" relname="span" />
-<group id="14" type="span" parent="18" relname="elaboration" />
-<group id="19" type="span" parent="2" relname="nonvolitional-result" />
   </body>
 </rst>

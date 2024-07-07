@@ -1,0 +1,78 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="25" relname="span">This term grows with our lives.</segment>
+    <segment id="11" parent="23" relname="span"> 
+What intuitive is to me is certainly not to my mom in terms of technology. </segment>
+    <segment id="10" parent="15" relname="sequence">
+I was high school when the education system started putting technology in the learning environment of secondary schools.</segment>
+    <segment id="9" parent="15" relname="sequence"> 
+What eventually became second nature developed by continuous application was something that I had to patiently teach my mom. </segment>
+    <segment id="8" parent="16" relname="span">
+Sure she could probably use pocket pc now</segment>
+    <segment id="14" parent="8" relname="circumstance"> after she gets over the victory of somewhat mastering Microsoft Word. </segment>
+    <segment id="7" parent="24" relname="span">
+Intuitive is as intuitive does. </segment>
+    <segment id="6" parent="18" relname="contrast">
+My mom has been a nurse for 20 years and didn&apos;t have to know how to use Microsoft applications until she wanted to. </segment>
+    <segment id="5" parent="18" relname="contrast">
+My little brother (10 years younger) on the other hand has been using computers in the classroom since he was 10 or 11 and has a since he was 13.</segment>
+    <segment id="4" parent="22" relname="span"> Intuitiveness for a consumer depends on the consumer. </segment>
+    <segment id="3" parent="21" relname="span">
+Perfect example are those $20 pocket organizer impersonators that my mom would probably love and I would die before purchasing. </segment>
+    <segment id="2" parent="20" relname="span">
+I looked at it like what is this!</segment>
+    <segment id="12" parent="13" relname="circumstance"> and after I realized</segment>
+    <segment id="13" parent="19" relname="span"> I couldn&apos;t stop laughing.</segment>
+<group id="15" type="multinuc" parent="17" relname="span" />
+<group id="16" type="span" parent="15" relname="sequence" />
+<group id="17" type="span" parent="11" relname="elaboration" />
+<group id="18" type="multinuc" parent="7" relname="evidence" />
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="20" type="span" parent="3" relname="evaluation" />
+<group id="21" type="span" parent="4" relname="elaboration" />
+<group id="22" type="span" parent="25" relname="background" />
+<group id="23" type="span" parent="1" relname="elaboration" />
+<group id="24" type="span" parent="15" relname="summary" />
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" />
+  </body>
+</rst>

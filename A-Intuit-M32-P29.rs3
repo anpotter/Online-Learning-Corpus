@@ -1,0 +1,85 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="3" relname="span">According to Dictionary.com, intuitiveness is of, relating to, or arising from intuition; known or perceived through intuition; possessing or demonstrating intuition. </segment>
+    <segment id="2" parent="1" relname="elaboration">
+Intuition is knowledge gained by the use of this faculty; a perceptive insight.</segment>
+    <segment id="4" parent="22" relname="span"> 
+Another word for intuitiveness is innate knowledge. </segment>
+    <segment id="5" parent="23" relname="span">
+Innate knowledge is like knowing right from wrong. </segment>
+    <segment id="6" parent="5" relname="elaboration">
+You just KNOW that it is wrong to push someone. </segment>
+    <segment id="7" parent="18" relname="circumstance">
+In regards to program design, when you use it</segment>
+    <segment id="18" parent="27" relname="span"> you should be able to just operate it without having to go through some type of tutorial every time. </segment>
+    <segment id="8" parent="25" relname="span">
+For example, when you use email. </segment>
+    <segment id="9" parent="10" relname="concession">
+Even though there are many different user interfaces </segment>
+    <segment id="10" parent="17" relname="span">
+it is all the same (generally speaking). </segment>
+    <segment id="11" parent="10" relname="elaboration">
+You know that there is going to be a way to reply, forward, delete, view the next email, view the previous email, etc. </segment>
+    <segment id="12" parent="19" relname="solutionhood">
+How do you measure intuitiveness? </segment>
+    <segment id="13" parent="19" relname="list">
+You can measure it by the amount of times that a user has to refer to the Help section after using the system 5 times. </segment>
+    <segment id="14" parent="26" relname="span">
+You can test the user on different features of the system. </segment>
+    <segment id="15" parent="20" relname="circumstance">
+For example, when you apply for a job</segment>
+    <segment id="20" parent="21" relname="span"> and they make you take a test that will see how well you use Microsoft Excel. </segment>
+    <segment id="16" parent="20" relname="elaboration">
+According how many you get wrong will determine how much of an expert you really are.</segment>
+<group id="17" type="span" parent="8" relname="elaboration" />
+<group id="19" type="multinuc" parent="29" relname="span" />
+<group id="21" type="span" parent="14" relname="elaboration" />
+<group id="22" type="span" parent="3" relname="interpretation" />
+<group id="23" type="span" parent="4" relname="elaboration" />
+<group id="3" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="28" relname="joint" />
+<group id="25" type="span" parent="18" relname="elaboration" />
+<group id="27" type="span" parent="28" relname="joint" />
+<group id="28" type="multinuc" />
+<group id="26" type="span" parent="19" relname="list" />
+<group id="29" type="span" parent="28" relname="joint" />
+  </body>
+</rst>

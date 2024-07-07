@@ -38,18 +38,16 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="9" relname="evaluation">
+    <segment id="1" parent="9" relname="span">
 
-Correct P24,</segment>
-    <segment id="10" parent="9" relname="span"> ease of use does contribute to error recovery.</segment>
+Correct P24, ease of use does contribute to error recovery.</segment>
     <segment id="2" parent="6" relname="span"> I am one who need all the help in making transaction easy</segment>
     <segment id="4" parent="8" relname="span"> because I am always in a hurry to finish tasks.</segment>
     <segment id="3" parent="5" relname="circumstance"> When there is a problem,</segment>
     <segment id="5" parent="7" relname="span"> I want it fixed immediately.</segment>
+<group id="6" type="span" parent="1" relname="nonvolitional-cause" />
 <group id="7" type="span" parent="4" relname="volitional-cause" />
 <group id="8" type="span" parent="2" relname="volitional-cause" />
-<group id="11" type="span" />
-<group id="9" type="span" parent="11" relname="span" />
-<group id="6" type="span" parent="10" relname="evidence" />
+<group id="9" type="span" />
   </body>
 </rst>

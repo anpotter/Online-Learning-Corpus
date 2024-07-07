@@ -45,7 +45,7 @@ I have noticed that Microsoft products usually have at least three ways to do an
     <segment id="3" parent="1" relname="elaboration"> Usually there is a keystroke sequence, menu item, and icon.</segment>
     <segment id="4" parent="2" relname="span"> Sometimes there are multiple functionalities to do the same task.</segment>
     <segment id="5" parent="4" relname="elaboration"> For instance, in various versions of Windows you can type a text file in either Notepad or Wordpad.</segment>
-    <segment id="6" parent="8" relname="concession"> Part of this is to maintain backward compatibility as Windows evolves,</segment>
+    <segment id="6" parent="8" relname="antithesis"> Part of this is to maintain backward compatibility as Windows evolves,</segment>
     <segment id="8" parent="9" relname="span"> but occasionally I get the feeling that these products are so complex that the various groups working on them &quot;reinvent the wheel&quot; and don&apos;t realize it.</segment>
 <group id="2" type="span" parent="1" relname="elaboration" />
 <group id="7" type="span" parent="10" relname="span" />

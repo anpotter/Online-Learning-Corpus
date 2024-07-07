@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="span">Shortcuts are good ways to make people get &quot;used&quot; to a system.</segment>
+    <segment id="2" parent="3" relname="concession"> 
+
+A simple example, in MS Word you can cut and paste by going to the Edit in the tool bar and scrolling to cut and then go to Edit and scroll to paste.</segment>
+    <segment id="3" parent="6" relname="span">
+
+ However, people that use MS all the time know that they can simply right click and scroll to the desired operation</segment>
+    <segment id="5" parent="3" relname="elaboration"> or they can press CTRL-V, CTRL-X, CTRL-C, etc. </segment>
+    <segment id="4" parent="3" relname="elaboration">
+
+That also goes for BOLD (CTRL-b), ITALICS (CTRL-I) and UNDERLINE (CTRL-U).</segment>
+<group id="6" type="span" parent="1" relname="evidence" />
+<group id="7" type="span" />
+  </body>
+</rst>

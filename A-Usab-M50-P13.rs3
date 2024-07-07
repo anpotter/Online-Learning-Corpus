@@ -38,7 +38,7 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="14" relname="span">
+    <segment id="1" parent="13" relname="span">
 Among the most important attributes of Usability, in my opinion, should be the Utility, which is first criteria used to measure a product or a system.</segment>
     <segment id="2" parent="10" relname="span"> Also, the Utility has been measured</segment>
     <segment id="9" parent="2" relname="condition"> if it can increase the corporate revenues and decrease the corporate costs.</segment>
@@ -47,15 +47,12 @@ Among the most important attributes of Usability, in my opinion, should be the U
     <segment id="5" parent="6" relname="nonvolitional-cause"> 
 In addition, America economy still has a long way to go before it can recover from its economic recession.</segment>
     <segment id="6" parent="12" relname="span"> Those upper-level executives still refuse to open their corporate wallets to develop or purchase new software systems.</segment>
-    <segment id="7" parent="12" relname="elaboration"> We can see so many examples from todays tight budget environment.</segment>
-    <segment id="8" parent="14" relname="summary"> Utility is first important attribute to measure the Usability.</segment>
-<group id="11" type="multinuc" parent="16" relname="span" />
-<group id="12" type="span" parent="15" relname="span" />
-<group id="10" type="span" parent="13" relname="conjunction" />
-<group id="15" type="span" parent="11" relname="elaboration" />
-<group id="16" type="span" parent="13" relname="conjunction" />
-<group id="13" type="multinuc" parent="1" relname="elaboration" />
-<group id="14" type="span" parent="17" relname="span" />
-<group id="17" type="span" />
+    <segment id="7" parent="6" relname="elaboration"> We can see so many examples from todays tight budget environment.</segment>
+    <segment id="8" parent="13" relname="summary"> Utility is first important attribute to measure the Usability.</segment>
+<group id="10" type="span" parent="1" relname="elaboration" />
+<group id="11" type="multinuc" parent="1" relname="evidence" />
+<group id="12" type="span" parent="1" relname="evidence" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" />
   </body>
 </rst>

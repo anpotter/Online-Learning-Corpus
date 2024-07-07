@@ -1,0 +1,77 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="antithesis">We can go on and on quoting the dictionary for the true meaning of intuitiveness.</segment>
+    <segment id="2" parent="14" relname="circumstance"> 
+However, when it comes to software and web interface,</segment>
+    <segment id="14" parent="21" relname="span">
+it is just another catchy term that makes the product more attractive to those who dont know much about software/Web interfaces. </segment>
+    <segment id="13" parent="14" relname="elaboration">
+Add the warranty, and it would probably cost more. </segment>
+    <segment id="12" parent="11" relname="disjunction">
+The term intuitiveness shouldnt be use to describe 
+how easy it may be to learn a new software or website interface.</segment>
+    <segment id="10" parent="11" relname="disjunction"> 
+Nor should it be used to sell more products. </segment>
+    <segment id="9" parent="7" relname="preparation">
+
+Take for example my parents, 
+who are not technically inclined. </segment>
+    <segment id="7" parent="8" relname="span">
+If they are using a product that seems easy to them, </segment>
+    <segment id="6" parent="15" relname="contrast">
+to me it could be quite the opposite. </segment>
+    <segment id="5" parent="18" relname="contrast">
+On the other hand, if I am working with a product that seems easy to me, </segment>
+    <segment id="4" parent="18" relname="contrast">
+it may seem difficult to them. </segment>
+    <segment id="3" parent="19" relname="summary">
+I believe that it is all relative to what the user feels about the product at the time it is being used.</segment>
+<group id="11" type="multinuc" parent="21" relname="elaboration" />
+<group id="18" type="multinuc" parent="19" relname="contrast" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="16" relname="span" />
+<group id="15" type="multinuc" parent="19" relname="contrast" />
+<group id="19" type="multinuc" parent="20" relname="span" />
+<group id="20" type="span" parent="22" relname="evidence" />
+<group id="16" type="span" />
+<group id="8" type="span" parent="15" relname="contrast" />
+  </body>
+</rst>

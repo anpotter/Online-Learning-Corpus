@@ -39,23 +39,21 @@
   </header>
   <body>
     <segment id="1" parent="16" relname="background">Efficiency and flexibility </segment>
-    <segment id="9" parent="19" relname="span"> It is important when designing a website or software product to keep in mind that users often look for flexibility,</segment>
+    <segment id="9" parent="14" relname="span"> It is important when designing a website or software product to keep in mind that users often look for flexibility,</segment>
     <segment id="8" parent="9" relname="elaboration"> there should be several ways of doing the same the task easily.</segment>
-    <segment id="2" parent="18" relname="span"> Flexibility also ties in with efficiency.</segment>
+    <segment id="2" parent="12" relname="span"> Flexibility also ties in with efficiency.</segment>
     <segment id="3" parent="10" relname="condition"> If a design is flexible and allows the user to perform one task in several ways</segment>
     <segment id="10" parent="11" relname="span"> most likely the time taken to complete a task will be smaller.</segment>
-    <segment id="4" parent="18" relname="summary"> Efficiency can be measured by the time taken for a user to complete a task.</segment>
+    <segment id="4" parent="2" relname="elaboration"> Efficiency can be measured by the time taken for a user to complete a task.</segment>
     <segment id="5" parent="15" relname="span"> The goal of designing a product that is flexible, efficient, and attractive for a user ties in with increasing the satisfaction level for the user when using the product or surfing the website.</segment>
     <segment id="6" parent="13" relname="span"> One of the best ways to increase user satisfaction is to make the make the design easy to learn to use.</segment>
     <segment id="7" parent="6" relname="volitional-cause"> Users usually find an easy to use design more efficient and therefore will readily use the product.</segment>
 <group id="11" type="span" parent="2" relname="evidence" />
-<group id="12" type="span" parent="19" relname="elaboration" />
+<group id="12" type="span" parent="9" relname="elaboration" />
 <group id="13" type="span" parent="5" relname="means" />
 <group id="14" type="span" parent="16" relname="span" />
 <group id="15" type="span" parent="14" relname="elaboration" />
 <group id="16" type="span" parent="17" relname="span" />
 <group id="17" type="span" />
-<group id="18" type="span" parent="12" relname="span" />
-<group id="19" type="span" parent="14" relname="span" />
   </body>
 </rst>

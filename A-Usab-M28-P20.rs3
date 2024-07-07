@@ -46,14 +46,14 @@ A good system should, ideally, be able to recover from errors with no user inter
     <segment id="2" parent="19" relname="elaboration"> Practically, very minimal user intervention should occur.</segment>
     <segment id="3" parent="31" relname="background"> I love to pick on Windows.</segment>
     <segment id="4" parent="14" relname="volitional-cause"> Remember the famous Windows95,98 error message &quot;THIS PROGRAM HAS PERFOMED AN ILLEGAL OPERATION&quot;</segment>
-    <segment id="14" parent="35" relname="span"> - so? .</segment>
+    <segment id="14" parent="29" relname="span"> - so? .</segment>
     <segment id="5" parent="23" relname="span">That message was very uninformatives</segment>
     <segment id="10" parent="15" relname="volitional-cause"> and just for curiosity&apos;s sake, if you click the DETAILS button,</segment>
     <segment id="15" parent="21" relname="span"> you would get a bunch of meaningless number.</segment>
     <segment id="6" parent="22" relname="span"> So why display the error message </segment>
     <segment id="16" parent="6" relname="circumstance">if the details further confuse the user?</segment>
     <segment id="11" parent="30" relname="span"> Microsoft apparently did a very good job with Windows XP.</segment>
-    <segment id="7" parent="17" relname="condition"> If you get an error message on Windows XP,</segment>
+    <segment id="7" parent="17" relname="circumstance"> If you get an error message on Windows XP,</segment>
     <segment id="17" parent="27" relname="span"> mostly its; &quot;WINDOWS HAS RECOVERED FROM A SERIOUS ERROR&quot;.</segment>
     <segment id="8" parent="26" relname="span"> Thats much better!</segment>
     <segment id="9" parent="25" relname="span"> all I need is to keep working,</segment>
@@ -63,7 +63,7 @@ A good system should, ideally, be able to recover from errors with no user inter
 <group id="21" type="span" parent="5" relname="elaboration" />
 <group id="22" type="span" parent="24" relname="span" />
 <group id="23" type="span" parent="22" relname="antithesis" />
-<group id="24" type="span" parent="35" relname="elaboration" />
+<group id="24" type="span" parent="14" relname="elaboration" />
 <group id="25" type="span" parent="8" relname="elaboration" />
 <group id="26" type="span" parent="28" relname="span" />
 <group id="27" type="span" parent="26" relname="volitional-cause" />
@@ -74,6 +74,5 @@ A good system should, ideally, be able to recover from errors with no user inter
 <group id="32" type="span" parent="33" relname="elaboration" />
 <group id="33" type="span" parent="34" relname="span" />
 <group id="34" type="span" />
-<group id="35" type="span" parent="29" relname="span" />
   </body>
 </rst>

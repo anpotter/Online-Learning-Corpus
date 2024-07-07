@@ -41,21 +41,19 @@
     <segment id="1" parent="8" relname="volitional-cause">
 Having been challenged in our readings to go beyond what might be considered the &quot;common sense&quot; meanings of the usability attributes that we are contemplating in these forums,</segment>
     <segment id="8" parent="10" relname="span"> I would propose that one consider the plight of the handicapped user in the context of ease of use and learnability of user interfaces.</segment>
-    <segment id="2" parent="15" relname="span"> 
+    <segment id="2" parent="14" relname="span"> 
 Accessibility to user interfaces that are highly usable by non-handicapped individuals can be a nightmare for persons with handicaps.</segment>
-    <segment id="3" parent="13" relname="span"> Considering this group of users is a challenge for user interface developers</segment>
+    <segment id="3" parent="11" relname="span"> Considering this group of users is a challenge for user interface developers</segment>
     <segment id="9" parent="3" relname="volitional-cause"> as they have to consider things like font size, color, and interface traversal schemes (just to name a few attributes) and provide methods that address such challenges in their user interfaces.</segment>
     <segment id="4" parent="6" relname="solutionhood"> 
 Why do more systems not use voice recognition technologies that have been available for years?</segment>
     <segment id="6" parent="12" relname="span"> Perhaps the answer lies in the fact that systems sponsors do not specify this requirement in the specifications for prospective user interfaces.</segment>
     <segment id="5" parent="7" relname="solutionhood"> Would it cost a great deal more to increase access to what is probably a very dynamic group of users (speaking specifically of blind users) to contemporary user interfaces that are being designed currently?</segment>
-    <segment id="7" parent="16" relname="span"> I feel that there will be legislation in the future to address the needs of handicapped individuals to a greater degree in the future.</segment>
+    <segment id="7" parent="13" relname="span"> I feel that there will be legislation in the future to address the needs of handicapped individuals to a greater degree in the future.</segment>
 <group id="10" type="span" parent="2" relname="background" />
-<group id="15" type="span" parent="14" relname="span" />
-<group id="11" type="multinuc" parent="15" relname="elaboration" />
-<group id="12" type="span" parent="11" relname="list" />
-<group id="13" type="span" parent="11" relname="list" />
-<group id="16" type="span" parent="11" relname="list" />
+<group id="11" type="span" parent="2" relname="elaboration" />
+<group id="12" type="span" parent="2" relname="elaboration" />
+<group id="13" type="span" parent="2" relname="elaboration" />
 <group id="14" type="span" />
   </body>
 </rst>

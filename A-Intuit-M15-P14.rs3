@@ -1,0 +1,72 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">Intuitiveness is a term that concerns the features of the interactive system that allow novice users to understand how to use it and then how to attain a maximal level of performance.</segment>
+    <segment id="2" parent="3" relname="antithesis"> 
+It is well known that people dont like to spend a long time learning how to use a system.</segment>
+    <segment id="3" parent="16" relname="span"> 
+They want to get started straight away and become competent carrying out tasks without too much effort.</segment>
+    <segment id="4" parent="3" relname="circumstance"> 
+This is especially true an interactive products intended for everyday use.</segment>
+    <segment id="5" parent="15" relname="span"> 
+In case for more complex systems (e.g., Word processors, web-authoring tools, etc.) that provide a wider range of functionality, users are willing to spend longer time learning these products.</segment>
+    <segment id="6" parent="17" relname="span"> 
+With the presence of online tutorials and CD-Rom can help by providing interactive step-by-step materials with hands-on exercises.</segment>
+    <segment id="7" parent="6" relname="otherwise"> 
+Some users might find it difficult to relate to the tasks they want to accomplish.</segment>
+    <segment id="8" parent="20" relname="span"> 
+An important concern is to determine the time the user spend on learning a system.</segment>
+    <segment id="9" parent="12" relname="span"> 
+There seems a little point in developing a range of functionality in a product </segment>
+    <segment id="11" parent="13" relname="span">
+if the majority of users are unable or not prepared to spend time learning how to use it.</segment>
+    <segment id="10" parent="11" relname="nonvolitional-result"> 
+So interactive product designers should keep in mind while developing such a product to keep the level of ease with which new users can begin effective interaction and achieve maximal performance.</segment>
+<group id="12" type="span" parent="8" relname="elaboration" />
+<group id="13" type="span" parent="9" relname="condition" />
+<group id="17" type="span" parent="5" relname="elaboration" />
+<group id="16" type="span" parent="1" relname="evidence" />
+<group id="14" type="span" parent="19" relname="contrast" />
+<group id="19" type="multinuc" parent="18" relname="joint" />
+<group id="15" type="span" parent="19" relname="contrast" />
+<group id="18" type="multinuc" />
+<group id="20" type="span" parent="18" relname="joint" />
+  </body>
+</rst>

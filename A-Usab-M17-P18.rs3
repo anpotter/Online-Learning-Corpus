@@ -38,9 +38,9 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="13" relname="span">
+    <segment id="1" parent="2" relname="background">
 A well-designed user interface must share a common set of usability heuristics,&quot; which contribute to effective use of the application.</segment>
-    <segment id="2" parent="15" relname="span"> Some of these heuristics include:</segment>
+    <segment id="2" parent="13" relname="span"> Some of these heuristics include:</segment>
     <segment id="8" parent="14" relname="span">
  
 1. Consistency can greatly facilitate the learning of a new user interface</segment>
@@ -52,18 +52,16 @@ A well-designed user interface must share a common set of usability heuristics
     <segment id="5" parent="10" relname="list"> 
 
 3. Familiarity refers to the extent that the user interface provides elements and actions that follow real-world conventions.</segment>
-    <segment id="6" parent="17" relname="span"> 
+    <segment id="6" parent="10" relname="list"> 
 
-4. User Control, a usable and effective user interface puts the user in charge of the application,</segment>
-    <segment id="16" parent="6" relname="nonvolitional-result"> thereby allowing the user to initiate all actions, rather than being controlled and directed by the application.</segment>
+4. User Control, a usable and effective user interface puts the user in charge of the application, thereby allowing the user to initiate all actions, rather than being controlled and directed by the application.</segment>
     <segment id="7" parent="10" relname="list"> 
 
 5. Flexibility is the extent to which a user interface accommodates for variations in user skill and preferences.</segment>
-<group id="10" type="multinuc" parent="2" relname="elaboration" />
+<group id="10" type="multinuc" parent="15" relname="span" />
 <group id="11" type="span" parent="10" relname="list" />
 <group id="14" type="span" parent="10" relname="list" />
-<group id="17" type="span" parent="10" relname="list" />
-<group id="15" type="span" parent="1" relname="elaboration" />
-<group id="13" type="span" />
+<group id="15" type="span" />
+<group id="13" type="span" parent="10" relname="preparation" />
   </body>
 </rst>

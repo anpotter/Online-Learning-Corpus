@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="span">
+
+
+While exploring some of the HCI websites I came across an interesting dialog concerning website usability in the ACM Digital Library between two individuals with some expertise in HCI: Jakob Nielson and Clay Shirky.</segment>
+    <segment id="2" parent="7" relname="contrast"> Jakob Nielsons position was that, due to the prevalence of bad design, web design methods should be replaced with a single set of design conventions.</segment>
+    <segment id="3" parent="8" relname="span"> Clay Shirky took the opposite position, that the prevalence of bad design is simply a function of how an evolving system works,</segment>
+    <segment id="5" parent="3" relname="nonvolitional-result"> therefore design standards are not necessary, and may in fact be unworkable.</segment>
+    <segment id="4" parent="6" relname="concession"> The article And nothing to watch: An open letter to Jakob Nielson can be found in the June 1999 (Volume 3, Issue 2) issue of netWorker, which is published by the ACM and can be obtained from the ACM Digital Library (linking to the article does not work,</segment>
+    <segment id="6" parent="9" relname="span"> however, it can be accessed through the NSU Electronic Library).</segment>
+<group id="7" type="multinuc" parent="1" relname="elaboration" />
+<group id="8" type="span" parent="7" relname="contrast" />
+<group id="9" type="span" parent="8" relname="enablement" />
+<group id="10" type="span" />
+  </body>
+</rst>

@@ -52,12 +52,12 @@ When the user is affected by the error,</segment>
     <segment id="7" parent="6" relname="elaboration"> It seems many messages are like this.</segment>
 <group id="11" type="span" parent="19" relname="span" />
 <group id="12" type="span" parent="18" relname="span" />
-<group id="13" type="span" parent="15" relname="span" />
-<group id="14" type="span" parent="13" relname="solutionhood" />
-<group id="15" type="span" parent="17" relname="span" />
-<group id="16" type="span" parent="15" relname="evaluation" />
-<group id="17" type="span" parent="12" relname="evidence" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="16" type="span" parent="15" relname="summary" />
+<group id="18" type="span" parent="11" relname="elaboration" />
 <group id="19" type="span" />
-<group id="18" type="span" parent="11" relname="evidence" />
+<group id="13" type="span" parent="14" relname="solutionhood" />
+<group id="15" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="12" relname="elaboration" />
   </body>
 </rst>

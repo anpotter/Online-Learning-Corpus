@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="15" relname="preparation">Intuitiveness in Design </segment>
+    <segment id="15" parent="17" relname="span">
+
+According the The AmP6an Heritage® Dictionary of the English Language, Intuitiveness is possessing or demonstrating intuition.</segment>
+    <segment id="2" parent="36" relname="span"> 
+
+In today&apos;s tech savvy world, the concept of intuitive design is no longer just a concept of perceptivity.</segment>
+    <segment id="3" parent="19" relname="antithesis"> 
+
+While designing new interfaces, 
+the designers not only think of an inbuilt sixth sense for the application</segment>
+    <segment id="19" parent="26" relname="span"> but also try to provide additional functionality to make a product smarter.</segment>
+    <segment id="4" parent="14" relname="span"> 
+
+I believe that this concept muddles this concept</segment>
+    <segment id="20" parent="18" relname="span"> cause it limits the target audience to non computer/net savvy customers.</segment>
+    <segment id="5" parent="27" relname="span">
+
+The customers of most application differ by the extent of PRE-knowledge they have or don&apos;t have.</segment>
+    <segment id="6" parent="5" relname="elaboration"> 
+
+What may appear as intuitive to a designer of an application software or webpage may seem rather complicated to the novice user.</segment>
+    <segment id="7" parent="8" relname="antithesis"> 
+
+Keeping a product just intuitive is not possible.</segment>
+    <segment id="8" parent="35" relname="span"> 
+
+It is essential to incorporate a sense of innate knowledge with smart knowledge.</segment>
+    <segment id="9" parent="29" relname="span"> 
+
+Sometimes it may be easier to do something in an interface in 5 steps than to use the so called built in intuitive functionality, </segment>
+    <segment id="16" parent="9" relname="elaboration">
+
+it all depends on who is using the application.</segment>
+    <segment id="10" parent="21" relname="nonvolitional-cause"> 
+
+As the customers range from novice to experts,</segment>
+    <segment id="21" parent="23" relname="span"> 
+so does the ability of an application to serve a balance.</segment>
+    <segment id="11" parent="22" relname="concession"> 
+
+Keeping it easy is always essential </segment>
+    <segment id="22" parent="30" relname="span">
+but to cater to a broader more knowledgeble crowd, 
+building quick shortcuts may be essential.</segment>
+    <segment id="12" parent="32" relname="span"> 
+
+A simple to use application such as MS Excel can be extremely confusing for those users who are not familiar with macro&apos;s and basic formulae.</segment>
+    <segment id="13" parent="24" relname="concession"> 
+
+There may be many ideas of intuitiveness built in, </segment>
+    <segment id="24" parent="31" relname="span">
+but the question of how to achieve a simple task may still be struggle for many. </segment>
+<group id="27" type="span" parent="20" relname="elaboration" />
+<group id="29" type="span" parent="8" relname="elaboration" />
+<group id="23" type="span" parent="8" relname="elaboration" />
+<group id="30" type="span" parent="21" relname="elaboration" />
+<group id="31" type="span" parent="12" relname="elaboration" />
+<group id="32" type="span" parent="22" relname="elaboration" />
+<group id="36" type="span" parent="34" relname="span" />
+<group id="17" type="span" parent="2" relname="background" />
+<group id="26" type="span" parent="25" relname="span" />
+<group id="18" type="span" parent="4" relname="nonvolitional-cause" />
+<group id="14" type="span" parent="26" relname="evaluation" />
+<group id="25" type="span" parent="2" relname="elaboration" />
+<group id="35" type="span" parent="36" relname="elaboration" />
+<group id="34" type="span" />
+  </body>
+</rst>

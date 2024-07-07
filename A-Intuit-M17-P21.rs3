@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="span">It appears to me that everyone is on the same page with the intuitive attribute.</segment>
+    <segment id="2" parent="14" relname="span"> 
+Its kind of like knowing how a system will react before you actually get there.</segment>
+    <segment id="3" parent="2" relname="elaboration"> 
+It really makes a user comfortable to be able to think a couple of steps ahead of where the user interface is going--and be correct in one&apos;s thinking.</segment>
+    <segment id="4" parent="11" relname="span"> 
+
+On the other hand, there is probably nothing more frustrating than using an interface that is not intuitive.</segment>
+    <segment id="5" parent="8" relname="span"> 
+How many times have we wondered, why did they do it that way?</segment>
+    <segment id="7" parent="13" relname="circumstance"> 
+When this happens</segment>
+    <segment id="13" parent="15" relname="span"> there is no comfort in knowing that an interface works a certain way to meet a stated requirement of some type.</segment>
+    <segment id="6" parent="16" relname="span"> 
+It is my contention that intuitive design for all known user groups be a primary usability goal </segment>
+    <segment id="9" parent="6" relname="elaboration">
+and that it is certainly one of the leading sources of frustration for users in their interaction with user interfaces.</segment>
+<group id="8" type="span" parent="4" relname="elaboration" />
+<group id="10" type="multinuc" parent="1" relname="elaboration" />
+<group id="11" type="span" parent="17" relname="span" />
+<group id="12" type="span" />
+<group id="14" type="span" parent="10" relname="contrast" />
+<group id="15" type="span" parent="5" relname="elaboration" />
+<group id="16" type="span" parent="11" relname="summary" />
+<group id="17" type="span" parent="10" relname="contrast" />
+  </body>
+</rst>

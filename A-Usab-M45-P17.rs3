@@ -38,7 +38,7 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="23" relname="span">
+    <segment id="1" parent="22" relname="span">
 Personally, the two concepts which are most crucial to comprehending new software or website are, ease of use and ease of learnability.</segment>
     <segment id="2" parent="20" relname="span"> In some ways, both these concepts are complementary or relative to each other.</segment>
     <segment id="3" parent="18" relname="span"> In other words, if the software is easy to use, then this is because it is easy to learn.</segment>
@@ -50,7 +50,7 @@ Personally, the two concepts which are most crucial to comprehending new softwar
     <segment id="12" parent="15" relname="span"> then their exposure and conceptual grasp of the functionality of the Internet is miniscule in focus.</segment>
     <segment id="7" parent="13" relname="circumstance"> Thus, when testing the users ease of use and learnibility,</segment>
     <segment id="13" parent="14" relname="span"> it is prudent to separate groups by user experience.</segment>
-    <segment id="8" parent="22" relname="joint"> I would like to focus on the other concepts early next week. 
+    <segment id="8" parent="21" relname="joint"> I would like to focus on the other concepts early next week. 
 </segment>
 <group id="9" type="span" parent="11" relname="volitional-cause" />
 <group id="14" type="span" parent="16" relname="span" />
@@ -58,10 +58,9 @@ Personally, the two concepts which are most crucial to comprehending new softwar
 <group id="16" type="span" parent="5" relname="evidence" />
 <group id="17" type="span" parent="3" relname="elaboration" />
 <group id="18" type="span" parent="2" relname="elaboration" />
-<group id="19" type="span" parent="21" relname="span" />
-<group id="20" type="span" parent="19" relname="concession" />
-<group id="21" type="span" parent="1" relname="elaboration" />
-<group id="22" type="multinuc" />
-<group id="23" type="span" parent="22" relname="joint" />
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="20" type="span" parent="1" relname="elaboration" />
+<group id="21" type="multinuc" />
+<group id="22" type="span" parent="21" relname="joint" />
   </body>
 </rst>

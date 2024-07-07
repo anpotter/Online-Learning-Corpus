@@ -1,0 +1,65 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="16" relname="span">Intuitiveness is a very important principle in interface design.</segment>
+    <segment id="2" parent="1" relname="elaboration">
+It is important for users to be able to easily use an interface without becoming frustrated.</segment>
+    <segment id="3" parent="4" relname="concession">
+Intuitive design is hard to measure </segment>
+    <segment id="4" parent="14" relname="span">
+but we could look at using quantitative/ performance based measuremnts that can look at how long users take to accomplish partiicular tasks.</segment>
+    <segment id="5" parent="6" relname="purpose">
+Also, we can collect feedback from users during tests of the interface</segment>
+    <segment id="6" parent="10" relname="span"> to see how well the interface flows and if there are any rough areas that could be re-worked.</segment>
+    <segment id="7" parent="10" relname="elaboration">
+User feedback is probably the best tool to assess how intuitive a interface is.</segment>
+    <segment id="8" parent="9" relname="background">
+This is one common msitakes many interface designers make; </segment>
+    <segment id="9" parent="12" relname="span">
+not going back to see what users think about the design of the interface.</segment>
+<group id="10" type="span" parent="11" relname="span" />
+<group id="12" type="span" parent="11" relname="elaboration" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="14" relname="elaboration" />
+<group id="15" type="span" parent="1" relname="elaboration" />
+<group id="16" type="span" />
+  </body>
+</rst>

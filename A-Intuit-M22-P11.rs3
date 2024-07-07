@@ -1,0 +1,90 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="span">
+I&apos;m pleased with the level of thinking going on here on the aspect of intuitiveness.</segment>
+    <segment id="2" parent="20" relname="span"> 
+Our discussion is definitely geared toward understanding that usability is not only common sense. </segment>
+    <segment id="3" parent="4" relname="circumstance">
+When we begin describing usability in terms of attributes -- intuitiveness, ease of use, learnability and others ---</segment>
+    <segment id="4" parent="19" relname="span"> we have to be able to link these to concrete measures. </segment>
+    <segment id="5" parent="4" relname="otherwise">
+Otherwise, common sense is our only fall back, which is entirely too vague. </segment>
+    <segment id="6" parent="28" relname="span">
+
+Comments have also been made in regard to user experience level and intuitiveness. </segment>
+    <segment id="7" parent="27" relname="span">
+This is key to do substantial testing on the novice level </segment>
+    <segment id="8" parent="21" relname="span">
+because so many variables exist in terms of technology experience. </segment>
+    <segment id="9" parent="26" relname="span">
+We cannot lump all users together and assume that one size fits all. </segment>
+    <segment id="10" parent="25" relname="span">
+This is the heart of why we do user testing -- </segment>
+    <segment id="11" parent="12" relname="antithesis">
+we design for many concepts concurrently (such as intuitiveness), </segment>
+    <segment id="12" parent="24" relname="span">
+but we must observe how this actually works (or not). </segment>
+    <segment id="13" parent="23" relname="span">
+Without the insight from users, we are drawing our own conclusions. </segment>
+    <segment id="14" parent="22" relname="span">
+(Most people in this class are highly skilled in technology. </segment>
+    <segment id="15" parent="14" relname="elaboration">
+It&apos;s natural for us to &quot;forget&quot; what being a novice user &quot;feels&quot; like. </segment>
+    <segment id="16" parent="14" relname="elaboration">
+We have to observe others to recall the difficulties.) </segment>
+    <segment id="17" parent="18" relname="summary">
+
+It makes me proud to see so many fine HCI advocates in this class!
+</segment>
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="20" type="span" parent="1" relname="elaboration" />
+<group id="21" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="22" type="span" parent="13" relname="elaboration" />
+<group id="23" type="span" parent="12" relname="elaboration" />
+<group id="24" type="span" parent="10" relname="elaboration" />
+<group id="25" type="span" parent="9" relname="elaboration" />
+<group id="26" type="span" parent="8" relname="elaboration" />
+<group id="27" type="span" parent="6" relname="elaboration" />
+<group id="28" type="span" parent="1" relname="elaboration" />
+<group id="18" type="span" parent="29" relname="span" />
+<group id="29" type="span" />
+  </body>
+</rst>

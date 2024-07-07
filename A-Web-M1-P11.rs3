@@ -1,0 +1,58 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="span">By now you might be familiar with the SIGCHI Web site and reached the HCI Bibiliography section that leads to several links about HCI and the Web (HCI Bibliography).</segment>
+    <segment id="2" parent="6" relname="span"> Many of these links lead to important information that HCI professionals are dealing with in trying to convey the HCI message across the Internet and particularly to those who are able to design web sites.</segment>
+    <segment id="3" parent="2" relname="elaboration"> (I guess that basically includes anyone and everyone!) </segment>
+    <segment id="7" parent="4" relname="antithesis">
+
+After reviewing several sites I also note that there are plenty of guidelines out on the Web that speak to so called &quot;good design&quot;.</segment>
+    <segment id="4" parent="8" relname="span"> Yet, many of these guidelines are of the perspective of what has worked so far on Web sites, versus the consideration of what we already know about good design in general (see Preece&apos;s text).</segment>
+    <segment id="5" parent="11" relname="span"> 
+
+Let&apos;s leave this forum thread rather &quot;open&quot; to present our views about what HCI aspects are necessary for good Web design, some Web sites that speak to good design, and also how the HCI community can &quot;stop&quot; or slow down the train of poor Web design.</segment>
+<group id="6" type="span" parent="9" relname="span" />
+<group id="8" type="span" parent="6" relname="elaboration" />
+<group id="9" type="span" parent="1" relname="elaboration" />
+<group id="10" type="span" parent="5" relname="background" />
+<group id="11" type="span" />
+  </body>
+</rst>

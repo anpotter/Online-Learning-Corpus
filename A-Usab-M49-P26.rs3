@@ -57,29 +57,26 @@ Flexibility</segment>
     <segment id="9" parent="18" relname="elaboration"> A flexible application permits users to perform an activity/task in more than one way and is a concept used to help accomplish a task faster.</segment>
     <segment id="10" parent="11" relname="solutionhood"> The problem with flexibility is that one has to learn and preserve in memory how to perform the same task in multiple ways.</segment>
     <segment id="11" parent="26" relname="span"> Jointly with the efficiency aspect of design, the process becomes rational and innate, </segment>
-    <segment id="19" parent="36" relname="span">and as it is learned once,</segment>
+    <segment id="19" parent="25" relname="condition">and as it is learned once,</segment>
     <segment id="25" parent="28" relname="span"> then flexibility adds greater value.</segment>
     <segment id="12" parent="35" relname="span"> 
 Consistency</segment>
     <segment id="20" parent="29" relname="span"> Consistency creates the groundwork for user interaction in a foreseeable manner.</segment>
     <segment id="13" parent="20" relname="elaboration"> It is essential to apply consistency when designing an application as consistency creates usage patterns.</segment>
-    <segment id="14" parent="29" relname="elaboration"> Also consistency relates to the users perception of reliability and uniformity of successive results or events.</segment>
+    <segment id="14" parent="12" relname="elaboration"> Also consistency relates to the users perception of reliability and uniformity of successive results or events.</segment>
 <group id="21" type="span" parent="1" relname="elaboration" />
 <group id="22" type="span" parent="3" relname="elaboration" />
 <group id="23" type="span" parent="6" relname="elaboration" />
 <group id="24" type="span" parent="5" relname="elaboration" />
-<group id="26" type="span" parent="19" relname="volitional-cause" />
-<group id="27" type="span" parent="37" relname="span" />
-<group id="28" type="span" parent="27" relname="elaboration" />
-<group id="29" type="span" parent="38" relname="span" />
+<group id="26" type="span" parent="25" relname="volitional-cause" />
+<group id="27" type="span" parent="8" relname="elaboration" />
+<group id="28" type="span" parent="8" relname="elaboration" />
+<group id="29" type="span" parent="12" relname="elaboration" />
 <group id="30" type="multinuc" />
 <group id="31" type="span" parent="30" relname="list" />
 <group id="32" type="span" parent="30" relname="list" />
 <group id="33" type="span" parent="30" relname="list" />
 <group id="34" type="span" parent="30" relname="list" />
 <group id="35" type="span" parent="30" relname="list" />
-<group id="36" type="span" parent="25" relname="volitional-cause" />
-<group id="37" type="span" parent="8" relname="elaboration" />
-<group id="38" type="span" parent="12" relname="elaboration" />
   </body>
 </rst>

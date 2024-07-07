@@ -38,16 +38,14 @@
     </relations>
   </header>
   <body>
-    <segment id="1" parent="17" relname="enablement">
-When you get a chance,</segment>
-    <segment id="14" parent="17" relname="span"> find this article in the ACM Digital Library: </segment>
-    <segment id="4" parent="16" relname="span">
-Chrusch, M. (2000, September &amp; October). Seven great myths of usability. Interactions, 13-16. </segment>
-    <segment id="18" parent="15" relname="span">
+    <segment id="1" parent="14" relname="span">
+When you get a chance, find this article in the ACM Digital Library: </segment>
+    <segment id="4" parent="1" relname="enablement">
+Chrusch, M. (2000, September &amp; October). Seven great myths of usability. Interactions, 13-16. 
 In this article Marc Chrusch brings up some very interesting areas to consider that are actually myths about usability.</segment>
-    <segment id="5" parent="18" relname="elaboration"> These myths are based on mis-education and also misuse of terms.</segment>
-    <segment id="6" parent="19" relname="span"> Here are the seven myths.</segment>
-    <segment id="7" parent="6" relname="background"> Go read the article for more information: </segment>
+    <segment id="5" parent="14" relname="background"> These myths are based on mis-education and also misuse of terms.</segment>
+    <segment id="6" parent="15" relname="span"> Here are the seven myths.</segment>
+    <segment id="7" parent="16" relname="span"> Go read the article for more information: </segment>
     <segment id="3" parent="13" relname="list">
 Myth #1: Usability only increases development costs and lengthens development time.</segment>
     <segment id="8" parent="13" relname="list">
@@ -62,12 +60,10 @@ Myth #5: As long as developers are familar with guidelines, good user interfaces
 Myth #6: Usability testing is not needed if the development team has been working with the users a long time and knows what they want.</segment>
     <segment id="12" parent="13" relname="list">
 Myth #7: &quot;We&apos;ll handle that in the help/training/documentation.&quot;</segment>
-<group id="13" type="multinuc" parent="20" relname="span" />
+<group id="13" type="multinuc" parent="6" relname="elaboration" />
+<group id="14" type="span" parent="17" relname="span" />
+<group id="15" type="span" parent="7" relname="motivation" />
 <group id="16" type="span" parent="14" relname="elaboration" />
-<group id="15" type="span" parent="4" relname="elaboration" />
-<group id="19" type="span" parent="13" relname="preparation" />
-<group id="20" type="span" parent="4" relname="elaboration" />
-<group id="17" type="span" parent="21" relname="span" />
-<group id="21" type="span" />
+<group id="17" type="span" />
   </body>
 </rst>

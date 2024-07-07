@@ -1,0 +1,70 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="background">
+
+
+I work for a large &quot;Fortune 100&quot; company that uses web sites for every imaginable purpose.</segment>
+    <segment id="2" parent="16" relname="span"> The problem is that most of them are so slow</segment>
+    <segment id="11" parent="2" relname="volitional-result"> one can go get a cup of coffee between queries.</segment>
+    <segment id="3" parent="17" relname="span"> 
+I wouldn&apos;t mind the slow queries so much</segment>
+    <segment id="12" parent="14" relname="span"> if the pages offered status bars to let the user know that a given percentage of the process had been completed.</segment>
+    <segment id="4" parent="15" relname="span"> This would also provide feedback to the user that the click on the web page had actually implemented a function.</segment>
+    <segment id="5" parent="4" relname="elaboration"> Often I am so used to poor query times that I don&apos;t think to make sure that the click on a button or other web logistic actually caused an action.</segment>
+    <segment id="6" parent="17" relname="elaboration"> Yes, status update bars, in my opinion, are crucial to good web site design and implementation.</segment>
+    <segment id="7" parent="19" relname="span"> 
+Another area of web page design that causes me problems is when web sites implement their own web buttons for such common things as BACK and HOME.</segment>
+    <segment id="8" parent="13" relname="span"> Why not use the browser provided button for this instead of implementing them in a proprietary manner?</segment>
+    <segment id="10" parent="8" relname="elaboration"> Beware the site that boldly announces for the user not to use the browser provided navigation buttons.</segment>
+    <segment id="9" parent="20" relname="volitional-result"> 
+Thanks for the opportunity to vent these frustrations.</segment>
+<group id="13" type="span" parent="7" relname="elaboration" />
+<group id="14" type="span" parent="3" relname="condition" />
+<group id="15" type="span" parent="12" relname="elaboration" />
+<group id="16" type="span" parent="3" relname="solutionhood" />
+<group id="17" type="span" parent="22" relname="span" />
+<group id="18" type="multinuc" parent="20" relname="span" />
+<group id="19" type="span" parent="18" relname="conjunction" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" />
+<group id="22" type="span" parent="18" relname="conjunction" />
+  </body>
+</rst>

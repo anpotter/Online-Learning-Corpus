@@ -1,0 +1,115 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="44" relname="span">Intuitiveness and transparency are interrelated attributes of a product.</segment>
+    <segment id="2" parent="35" relname="span"> 
+The transparency of a product relates to how easily users of a product understands the mental model, or logical process flow, of that product.</segment>
+    <segment id="3" parent="4" relname="circumstance"> 
+For example, when a user hits the top of a television when the reception is poor, </segment>
+    <segment id="4" parent="31" relname="span">
+they have a poor mental model of television technology. </segment>
+    <segment id="5" parent="30" relname="span">
+Decades ago, this model was true. </segment>
+    <segment id="6" parent="7" relname="means">
+By striking the television on its top or sides, </segment>
+    <segment id="7" parent="29" relname="span">
+the electronic tubes inside the television might reset or reseat, allowing the picture to come back. </segment>
+    <segment id="8" parent="32" relname="span">
+However, with solid state electronics, this is no longer true. </segment>
+    <segment id="9" parent="33" relname="span">
+
+The intuitive nature of a product refers, I believe, to how readily the usability of product reflects the same mental model of a product.</segment>
+    <segment id="10" parent="11" relname="sequence"> 
+For example, the mental model of a telephone involves 
+picking up the receiver, </segment>
+    <segment id="12" parent="11" relname="sequence">
+dialing the number, </segment>
+    <segment id="13" parent="11" relname="sequence">
+waiting for someone to answer, </segment>
+    <segment id="14" parent="11" relname="sequence">
+conversing, </segment>
+    <segment id="15" parent="11" relname="sequence">
+and then hanging up the receiver. </segment>
+    <segment id="16" parent="39" relname="contrast">
+The transparent pieces of the model are the miles of telephone lines and many sattelites floating above the Earth that support this mental model.</segment>
+    <segment id="17" parent="40" relname="span"> 
+The intuitive nature of the product is that the model is so transparent, </segment>
+    <segment id="18" parent="17" relname="elaboration">
+all someone needs to do to call someone is simple push the right sequence of buttons on the telephone. </segment>
+    <segment id="20" parent="43" relname="span">
+
+Comparing land lines to cell phones leads to another question on intuitiveness. </segment>
+    <segment id="19" parent="21" relname="preparation">
+As the professor stated, </segment>
+    <segment id="21" parent="38" relname="span">
+learned behavior to a similar mental model can lead to varied results. </segment>
+    <segment id="22" parent="37" relname="span">
+To dial from a cell phone, 
+users must typically press one additional keystroke to actually active the phone call. </segment>
+    <segment id="24" parent="34" relname="list">
+Since a) this keystroke is not required on land line, the prelearned model, </segment>
+    <segment id="25" parent="34" relname="list">
+and b) this key is not positioned in the same location on all cell phones, </segment>
+    <segment id="26" parent="23" relname="span">
+many users have issues with the intuitive nature of cell phones. </segment>
+    <segment id="27" parent="28" relname="concession">
+Once connected, using a cell phone is no different than a land line. </segment>
+    <segment id="28" parent="36" relname="span">
+However, it is with the single additional keystroke that intuitiveness is lost.</segment>
+<group id="29" type="span" parent="5" relname="nonvolitional-cause" />
+<group id="31" type="span" parent="2" relname="evidence" />
+<group id="30" type="span" parent="8" relname="antithesis" />
+<group id="32" type="span" parent="4" relname="evidence" />
+<group id="11" type="multinuc" parent="41" relname="span" />
+<group id="36" type="span" parent="26" relname="summary" />
+<group id="38" type="span" parent="20" relname="background" />
+<group id="39" type="multinuc" parent="11" relname="interpretation" />
+<group id="40" type="span" parent="39" relname="contrast" />
+<group id="43" type="span" parent="41" relname="elaboration" />
+<group id="44" type="span" />
+<group id="34" type="multinuc" parent="26" relname="nonvolitional-cause" />
+<group id="23" type="span" parent="22" relname="elaboration" />
+<group id="37" type="span" parent="20" relname="elaboration" />
+<group id="41" type="span" parent="42" relname="span" />
+<group id="35" type="span" parent="1" relname="elaboration" />
+<group id="33" type="span" parent="1" relname="elaboration" />
+<group id="42" type="span" parent="9" relname="elaboration" />
+  </body>
+</rst>

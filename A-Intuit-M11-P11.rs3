@@ -1,0 +1,102 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="38" relname="span">I tend to believe that intuitiveness is partly learned.</segment>
+    <segment id="2" parent="3" relname="background"> 
+Take the light switch as an example.</segment>
+    <segment id="3" parent="21" relname="span"> 
+The on-off switch is a fairly basic design.</segment>
+    <segment id="4" parent="19" relname="span"> 
+However, designers have changed the light switch over the years to make it more appealing and to bring more functionality to it.</segment>
+    <segment id="5" parent="4" relname="elaboration"> 
+These days a light switch can be a round wheel that has to be pushed in to turn on the light.</segment>
+    <segment id="6" parent="4" relname="elaboration"> 
+The same switch can be rotated to dim the lights or make them brighter.</segment>
+    <segment id="7" parent="17" relname="concession"> 
+While simplicity is still there, </segment>
+    <segment id="17" parent="20" relname="span">
+the user experience with this light switch is different, </segment>
+    <segment id="18" parent="34" relname="span">
+and it might be argued that it has to be learned.</segment>
+    <segment id="8" parent="22" relname="antithesis"> 
+One might decide to try to &quot;pull out&quot; the light switch to toggle on,</segment>
+    <segment id="22" parent="32" relname="span"> rather than push in, </segment>
+    <segment id="31" parent="22" relname="elaboration">
+or one might think just turning the wheel will turn it on or off.</segment>
+    <segment id="9" parent="32" relname="background"> 
+Actually, I think some of these switches do work differently depending on the design.</segment>
+    <segment id="10" parent="27" relname="span"> 
+The bottom line is not everything, including light switches, are necessarily intuitive.</segment>
+    <segment id="11" parent="36" relname="span"> 
+Bad design, says Don Norman, can get in our way of using every day things.</segment>
+    <segment id="12" parent="13" relname="background"> 
+
+Norman uses the examples of doors.</segment>
+    <segment id="13" parent="28" relname="span"> 
+In some fancy hotels, it is unclear whether one is to push in a glass door or pull the handle.</segment>
+    <segment id="14" parent="23" relname="nonvolitional-cause"> 
+Some doors do not have knobs or handles,</segment>
+    <segment id="23" parent="24" relname="span"> 
+so which direction does one push or pull?</segment>
+    <segment id="16" parent="30" relname="span"> 
+Again, part of it is about fancy design getting in the way of usability.</segment>
+    <segment id="15" parent="29" relname="span"> 
+Web sites are probably the worst violators of all </segment>
+    <segment id="26" parent="15" relname="nonvolitional-cause">
+given design is often a free for all.</segment>
+<group id="19" type="span" parent="34" relname="nonvolitional-cause" />
+<group id="21" type="span" parent="4" relname="concession" />
+<group id="24" type="span" parent="13" relname="elaboration" />
+<group id="29" type="span" parent="16" relname="elaboration" />
+<group id="30" type="span" parent="28" relname="summary" />
+<group id="20" type="span" parent="18" relname="volitional-cause" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="18" relname="evidence" />
+<group id="34" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="25" relname="span" />
+<group id="27" type="span" parent="35" relname="summary" />
+<group id="25" type="span" parent="1" relname="evidence" />
+<group id="28" type="span" parent="37" relname="span" />
+<group id="36" type="span" parent="10" relname="nonvolitional-cause" />
+<group id="37" type="span" parent="11" relname="elaboration" />
+<group id="38" type="span" />
+  </body>
+</rst>

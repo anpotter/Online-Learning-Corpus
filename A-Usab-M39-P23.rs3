@@ -41,15 +41,14 @@
     <segment id="1" parent="11" relname="span">
 I thing learnability is a signficant part of usabiltiy.</segment>
     <segment id="2" parent="6" relname="volitional-cause"> You will find that the eaiser a user can logicaly manouver through an application,</segment>
-    <segment id="6" parent="12" relname="span"> the more comfortable they will be.</segment>
-    <segment id="3" parent="7" relname="condition"> If a product is easy to learn and not riddled with errors</segment>
+    <segment id="6" parent="8" relname="span"> the more comfortable they will be.</segment>
+    <segment id="3" parent="7" relname="volitional-cause"> If a product is easy to learn and not riddled with errors</segment>
     <segment id="7" parent="9" relname="span"> you&apos;ll find that the IT staff will receive less support class from users to fix a bug or explain a process.</segment>
     <segment id="4" parent="10" relname="span"> I believe that users must be the experts in their line of busniess applications.</segment>
     <segment id="5" parent="4" relname="volitional-cause"> How good they are at using the application and understanding it will ultimately dictate the overall usabiltiy of the product</segment>
+<group id="8" type="span" parent="1" relname="evidence" />
+<group id="9" type="span" parent="1" relname="evidence" />
+<group id="10" type="span" parent="1" relname="evidence" />
 <group id="11" type="span" />
-<group id="8" type="multinuc" parent="1" relname="evidence" />
-<group id="9" type="span" parent="8" relname="list" />
-<group id="10" type="span" parent="8" relname="list" />
-<group id="12" type="span" parent="8" relname="list" />
   </body>
 </rst>

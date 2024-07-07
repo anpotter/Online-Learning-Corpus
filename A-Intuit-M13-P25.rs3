@@ -1,0 +1,51 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="5" relname="span">I believe intuitiveness refers to ones ability to grasp a concept or manner of accomplishing a task immediately, without first contemplating the how to.&quot;</segment>
+    <segment id="2" parent="1" relname="nonvolitional-cause">
+This can come, in part, from reminders of past learning experiences or tasks which we keep in memory and can pop up when similar occurrences take place.</segment>
+    <segment id="3" parent="1" relname="means"> 
+Intuitiveness in design can be helped by keeping an interface familiar and easy to learn.</segment>
+    <segment id="4" parent="6" relname="joint"> 
+One method of measurement could be how long it takes users to successfully navigate a site.</segment>
+<group id="5" type="span" parent="6" relname="joint" />
+<group id="6" type="multinuc" />
+  </body>
+</rst>

@@ -47,8 +47,8 @@ P16 and P22 make good points here about user experience levels.</segment>
     <segment id="3" parent="16" relname="span"> Most novice users are not involved in usability until after problems are discovered.</segment>
     <segment id="4" parent="17" relname="span"> Part of the problem I see is that our definitions for user experience levels are somewhat simplistic and unmeasurable.</segment>
     <segment id="5" parent="15" relname="span"> The truth is, most of us are novice users in some application and expert on others.</segment>
-    <segment id="6" parent="20" relname="concession"> Our &quot;range&quot; of experience matters,</segment>
-    <segment id="12" parent="20" relname="span"> but this is hard to convey on a continuum of user experience levels.</segment>
+    <segment id="6" parent="12" relname="concession"> Our &quot;range&quot; of experience matters,</segment>
+    <segment id="12" parent="14" relname="span"> but this is hard to convey on a continuum of user experience levels.</segment>
     <segment id="7" parent="11" relname="antithesis"> We tend to categorize levels,</segment>
     <segment id="11" parent="13" relname="span"> when the continuum needs more concrete definition.</segment>
     <segment id="8" parent="18" relname="span"> More research needs to be done in this area, indeed.</segment>
@@ -60,6 +60,5 @@ P16 and P22 make good points here about user experience levels.</segment>
 <group id="17" type="span" parent="8" relname="solutionhood" />
 <group id="18" type="span" parent="19" relname="span" />
 <group id="19" type="span" />
-<group id="20" type="span" parent="14" relname="span" />
   </body>
 </rst>

@@ -52,13 +52,12 @@ http://www.microsoft.com/downloads/details.aspx?FamilyID=a1c6c3d8-5053-436e-b898
 It doesn&apos;t respond for all errors reported</segment>
     <segment id="8" parent="9" relname="elaboration"> (I may just have unique errors),</segment>
     <segment id="7" parent="10" relname="span"> but occasionally it returns useful information.</segment>
-<group id="13" type="span" parent="16" relname="background" />
+<group id="13" type="span" parent="1" relname="background" />
 <group id="14" type="span" parent="16" relname="span" />
 <group id="15" type="span" parent="4" relname="elaboration" />
 <group id="11" type="span" parent="7" relname="concession" />
 <group id="10" type="span" parent="14" relname="elaboration" />
-<group id="16" type="span" parent="18" relname="span" />
-<group id="18" type="span" parent="1" relname="elaboration" />
+<group id="16" type="span" parent="1" relname="elaboration" />
 <group id="17" type="span" />
   </body>
 </rst>

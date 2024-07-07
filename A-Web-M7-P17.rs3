@@ -1,0 +1,57 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="span">
+
+
+Verifying that a website is programmed to deter errors, when users provide input into the site is important.</segment>
+    <segment id="2" parent="1" relname="means"> This precaution is usually executedd by adding dialog boxes which specified the restricted range of the field.</segment>
+    <segment id="3" parent="6" relname="conjunction"> If the users in on a website for the first time</segment>
+    <segment id="5" parent="6" relname="conjunction"> and they input unrecongized information into the site which the program software is not equip to handle, (especially for a novice user),</segment>
+    <segment id="7" parent="10" relname="span"> the user is less likely to return to this website.</segment>
+    <segment id="4" parent="8" relname="volitional-cause"> And since there are so many options for a consumer in any industry,</segment>
+    <segment id="8" parent="9" relname="span"> that business will probably never see that individual, again. 
+</segment>
+<group id="6" type="multinuc" parent="7" relname="condition" />
+<group id="9" type="span" parent="7" relname="elaboration" />
+<group id="10" type="span" parent="1" relname="evidence" />
+<group id="11" type="span" />
+  </body>
+</rst>

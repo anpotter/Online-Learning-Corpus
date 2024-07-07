@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="32" relname="joint">In my opinion, the only method to measure the intuitiveness of the design of a software product is to measure how long it takes an average new user of the product to begin concentrating less on learning to use the product and more on the actual task he or she is trying to perform using the product.</segment>
+    <segment id="2" parent="33" relname="span"> 
+
+There are several ways interface designers can make their product intuitive: </segment>
+    <segment id="9" parent="2" relname="elaboration">
+one would be to make the product similar to programs commonly used by the average user, </segment>
+    <segment id="10" parent="20" relname="span">
+another would be to make more intuitive icons, </segment>
+    <segment id="11" parent="21" relname="span">
+for e.g. in word the Print command icon is a printer with a page coming out, </segment>
+    <segment id="12" parent="11" relname="elaboration">
+this immediately tells the users mind click here to print.</segment>
+    <segment id="3" parent="22" relname="span"> 
+Another would be to group commands under names that users associate with a particular task.</segment>
+    <segment id="4" parent="23" relname="span"> 
+For e.g. in Word 2003 under Format option you will see several options to format font, paragraphs, bullets and numbering, etc. </segment>
+    <segment id="13" parent="26" relname="span">
+The Change case option is also grouped under the format option.</segment>
+    <segment id="5" parent="14" relname="volitional-cause"> 
+Any average user that is looking to change the case of a word/sentence is obviously going to think This is a format changing operation,</segment>
+    <segment id="14" parent="25" relname="span"> so let me look under Format .</segment>
+    <segment id="6" parent="15" relname="condition"> 
+However, had this option been placed under Tools</segment>
+    <segment id="15" parent="24" relname="span"> it would have been harder for the user to find it.</segment>
+    <segment id="7" parent="30" relname="span"> 
+
+I agree that intuitiveness is partly learned via the computer programs we are used to and partly learned from life.</segment>
+    <segment id="8" parent="28" relname="span"> 
+For e.g. we always look for the Print option under the File menu,</segment>
+    <segment id="16" parent="8" relname="volitional-cause"> because we are used to it from other software products, </segment>
+    <segment id="17" parent="27" relname="span">
+but we recognize the icon for Print faster </segment>
+    <segment id="18" parent="17" relname="concession">
+even if we had never used a software product </segment>
+    <segment id="19" parent="27" relname="volitional-cause">
+because it looks like an actual printer.</segment>
+<group id="20" type="span" parent="2" relname="elaboration" />
+<group id="21" type="span" parent="10" relname="elaboration" />
+<group id="22" type="span" parent="2" relname="elaboration" />
+<group id="23" type="span" parent="3" relname="elaboration" />
+<group id="24" type="span" parent="14" relname="elaboration" />
+<group id="25" type="span" parent="13" relname="evidence" />
+<group id="26" type="span" parent="4" relname="elaboration" />
+<group id="27" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="7" relname="elaboration" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="concession" />
+<group id="31" type="span" parent="32" relname="joint" />
+<group id="32" type="multinuc" />
+<group id="33" type="span" parent="32" relname="joint" />
+  </body>
+</rst>
