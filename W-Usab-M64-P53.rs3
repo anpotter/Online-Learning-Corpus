@@ -1,0 +1,103 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="15" relname="concession">
+As important as it is to maintain consistency in interface design,</segment>
+    <segment id="15" parent="19" relname="span"> it is also important to 
+avoid unnecessary consistency.</segment>
+    <segment id="2" parent="36" relname="span">  Scott Berkun (1999) of the Microsoft Corporation 
+believes that consistence can become a self - perpetuating monster which can serve no 
+benefit to the end user.</segment>
+    <segment id="3" parent="25" relname="span">  In other words, what may work for one, may not work for 
+another.</segment>
+    <segment id="4" parent="24" relname="span">  Berkun (1999) equates this to interface design for video games.</segment>
+    <segment id="5" parent="22" relname="contrast">  The best user 
+interface for a driving game would be a steering wheel,</segment>
+    <segment id="21" parent="22" relname="contrast"> while the best interface for Pac-
+Man, would be a joystick.</segment>
+    <segment id="6" parent="22" relname="nonvolitional-result">  In this case, it is better to ignore the consistence rules and 
+customize the interface according to the tasks that will be performed.</segment>
+    <segment id="7" parent="32" relname="span">
+
+In other instance, however, consistency allows users to transfer knowledge from on e 
+application to another (Hewlett Packard, 2003).</segment>
+    <segment id="8" parent="7" relname="elaboration">  Consistency creates ease of learning, 
+ease of use, and reduction of errors as well as prevents confusion for users while they 
+work with a variety of applications at the same time.</segment>
+    <segment id="9" parent="34" relname="span">  
+
+According to Burkin (1999), there are several rules of thumb for consistency:</segment>
+    <segment id="14" parent="26" relname="list">
+
+1.	Begin by using existing controls or UI concepts in sketches and prototypes.</segment>
+    <segment id="10" parent="16" relname="condition">
+2.	If sketches and prototypes are not working in user tests or other evaluations 
+because of the failure of existing concepts,</segment>
+    <segment id="16" parent="27" relname="span"> the existing concept should be expanded to 
+cover the new situation that has arisen.</segment>
+    <segment id="11" parent="17" relname="condition">
+3.	If the concept can not be extended,</segment>
+    <segment id="17" parent="28" relname="span"> a new control or concept needs to be 
+designed in order to solve the problem.</segment>
+    <segment id="12" parent="18" relname="condition">
+4.	If special cases are to be used,</segment>
+    <segment id="18" parent="29" relname="span"> it is important to ensure the best trade-off is 
+received.</segment>
+    <segment id="13" parent="26" relname="summary">
+
+Burkin (1999) believes these guidelines will help designers be as consistent as possible 
+while avoiding foolish consistency.</segment>
+<group id="19" type="span" parent="33" relname="contrast" />
+<group id="22" type="multinuc" parent="23" relname="span" />
+<group id="23" type="span" parent="4" relname="elaboration" />
+<group id="24" type="span" parent="3" relname="evidence" />
+<group id="26" type="multinuc" parent="30" relname="span" />
+<group id="27" type="span" parent="26" relname="list" />
+<group id="28" type="span" parent="26" relname="list" />
+<group id="29" type="span" parent="26" relname="list" />
+<group id="30" type="span" parent="9" relname="elaboration" />
+<group id="32" type="span" parent="33" relname="contrast" />
+<group id="33" type="multinuc" parent="35" relname="span" />
+<group id="34" type="span" parent="33" relname="solutionhood" />
+<group id="35" type="span" />
+<group id="25" type="span" parent="2" relname="restatement" />
+<group id="36" type="span" parent="15" relname="justify" />
+  </body>
+</rst>

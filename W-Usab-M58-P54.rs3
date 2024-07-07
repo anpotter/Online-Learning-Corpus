@@ -1,0 +1,96 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+Our class texts have similar definitions of user-centered design.</segment>
+    <segment id="2" parent="26" relname="span">  From what I gather user-
+centered design focuses early on users and tasks, as well as getting users involved in 
+providing information as to how the software is meeting these usability requirements.</segment>
+    <segment id="3" parent="23" relname="span">  In 
+addition, user-centered design fixes the problem that users find using an iterative 
+approach during the development lifecycle.</segment>
+    <segment id="4" parent="25" relname="span">  Using an iterative approach and involving 
+many end-users seems like a good way to achieve a user-centered application.</segment>
+    <segment id="5" parent="24" relname="span">  The 
+degree to which these requirements are met is relative to each user&apos;s preferences.</segment>
+    <segment id="6" parent="28" relname="condition">  If 
+enough users are involved in the design process</segment>
+    <segment id="28" parent="29" relname="span"> a design acceptable to most users 
+should be achieved.</segment>
+    <segment id="7" parent="22" relname="span">  In addition, information from other areas of research such as the 
+behavioral sciences can help achieve a user-centered application.</segment>
+    <segment id="8" parent="21" relname="span">  For example, the 
+degree to which an application is easy to use or learn depends on the end-users.</segment>
+    <segment id="9" parent="8" relname="elaboration">  By 
+involving many users in the design process as well as applying concepts from the 
+behavioral sciences the odds of creating a user-centered product are increased.</segment>
+    <segment id="10" parent="20" relname="span">  It is 
+also important to involve users with varying skill levels.</segment>
+    <segment id="11" parent="10" relname="elaboration">  For example, a novice user is 
+likely to produce different error conditions than an advanced user;</segment>
+    <segment id="15" parent="10" relname="elaboration"> in addition an 
+advanced user is more likely to provide a better gauge of the flexibility of a program.</segment>
+    <segment id="12" parent="18" relname="span">  
+Another element to the user-centered approach to design could be the length of time the 
+users are involved in testing.</segment>
+    <segment id="13" parent="19" relname="span">  Having users test an application over a long period might 
+help in determining the memorability of an application.</segment>
+    <segment id="14" parent="16" relname="antithesis">  At first, it seemed like some of 
+these elements such as efficiency and consistency could be designed into a product with 
+less end user involvement;</segment>
+    <segment id="16" parent="17" relname="span"> however, the more I thought about it the more I realized to 
+design a user-centered application one must measure the degree to which all of these 
+elements are being met by getting user feedback.</segment>
+<group id="17" type="span" parent="13" relname="elaboration" />
+<group id="19" type="span" parent="12" relname="elaboration" />
+<group id="21" type="span" parent="7" relname="elaboration" />
+<group id="23" type="span" parent="2" relname="elaboration" />
+<group id="24" type="span" parent="4" relname="elaboration" />
+<group id="25" type="span" parent="3" relname="elaboration" />
+<group id="26" type="span" parent="30" relname="span" />
+<group id="29" type="span" parent="5" relname="elaboration" />
+<group id="22" type="span" parent="26" relname="elaboration" />
+<group id="30" type="span" parent="31" relname="span" />
+<group id="20" type="span" parent="30" relname="elaboration" />
+<group id="31" type="span" parent="27" relname="span" />
+<group id="18" type="span" parent="31" relname="elaboration" />
+<group id="27" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="antithesis">
+Speaking of learn ability, I hope I dont sound like and ad,</segment>
+    <segment id="8" parent="13" relname="span"> but turbotax.com has been a 
+lifesaver.</segment>
+    <segment id="3" parent="9" relname="concession"> I work with taxes in my job</segment>
+    <segment id="9" parent="2" relname="span"> and I still sometimes find it to be a daunting task to 
+complete them</segment>
+    <segment id="10" parent="9" relname="elaboration"> and paying someone to do them seems out of the question.</segment>
+    <segment id="4" parent="16" relname="span"> Turbo Tax 
+has a great online program that walks you through step by step completing your taxes.</segment>
+    <segment id="5" parent="4" relname="evidence"> I 
+was able to do my taxes last year with a tuition reduction, getting credit for the interest 
+paid on my student loans and taking a distribution from a retirement plan.</segment>
+    <segment id="6" parent="14" relname="conjunction"> The website 
+itself, as well as the built in application, is incredibly easy to navigate</segment>
+    <segment id="11" parent="14" relname="conjunction"> and it makes what 
+would probably take hours to do by paper, easy to complete in minutes.</segment>
+    <segment id="7" parent="15" relname="conjunction"> There was 
+virtually no learning curve to the software</segment>
+    <segment id="12" parent="15" relname="conjunction"> and best of all; it made something likes taxes 
+with deductions, which is not always easy, fairly simple.</segment>
+<group id="14" type="multinuc" parent="4" relname="evidence" />
+<group id="15" type="multinuc" parent="4" relname="evidence" />
+<group id="2" type="span" parent="4" relname="solutionhood" />
+<group id="16" type="span" parent="17" relname="span" />
+<group id="13" type="span" parent="16" relname="background" />
+<group id="17" type="span" />
+  </body>
+</rst>

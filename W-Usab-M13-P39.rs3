@@ -1,0 +1,116 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="cause" type="rst" />
+      <rel name="result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="circumstance">
+As I am currently typing this response in MS Word,</segment>
+    <segment id="2" parent="23" relname="span"> there were many good features that 
+allow for error recovery.</segment>
+    <segment id="3" parent="22" relname="conjunction">  There is one area that I consider not so good in regards to 
+helping me with error recovery and usability,</segment>
+    <segment id="4" parent="22" relname="conjunction"> and it is as follows:</segment>
+    <segment id="24" parent="26" relname="span">
+
+The autocorrect feature automatically changed a word if I mistyped it.</segment>
+    <segment id="5" parent="6" relname="condition">  If I wanted to 
+type the word the and actually typed teh&quot;,</segment>
+    <segment id="6" parent="25" relname="span"> it would autocorrect the word to the.</segment>
+    <segment id="7" parent="26" relname="evaluation">  The 
+bad aspect of this feature is that I have had typed up documents where it autocorrected 
+something that I didnt want autocorrected and I didnt catch the auto correction.</segment>
+    <segment id="8" parent="29" relname="span">  I 
+would suggest that all auto corrections in a document be identified by changing the color 
+of the word for a visual review by the typist.</segment>
+    <segment id="9" parent="30" relname="span">  I say this because I will start typing 
+something and not even look at the screen.</segment>
+    <segment id="10" parent="11" relname="concession">  Even when I am looking at the screen,</segment>
+    <segment id="11" parent="28" relname="span"> the 
+autocorrect can be so subtle,</segment>
+    <segment id="12" parent="31" relname="span"> I wouldnt even know something had changed.</segment>
+    <segment id="13" parent="32" relname="span">  A color 
+coded view of all the auto corrections might make it easier for review that requiring me 
+to re-read the document and not really know where the auto corrections were made.  </segment>
+    <segment id="14" parent="13" relname="elaboration">
+There should also be an option to reverse the correction when the mouse is hovered 
+over the color-coded auto corrected word.</segment>
+    <segment id="15" parent="34" relname="span">  I did look in the help area</segment>
+    <segment id="16" parent="15" relname="elaboration"> where it said that I 
+could hover the mouse over words to get an icon that would let me reverse the 
+autocorrect.</segment>
+    <segment id="17" parent="35" relname="span">  The problem is that I would have to hover my mouse over the entire 
+document</segment>
+    <segment id="18" parent="17" relname="nonvolitional-cause"> because I wouldnt know what had been corrected.</segment>
+    <segment id="19" parent="36" relname="evaluation">    This concept of hide until 
+hovered upon is not my idea of good feedback.  </segment>
+    <segment id="20" parent="21" relname="background">
+
+In an article that proposed guidelines for handling human errors, Rizzo, Parlangeli, 
+Marchigiani, and Bagnara conveyed that it was not possible to know the intentions of 
+users and how they evaluate outcomes, and further stated that tools have been created 
+to catch a users intentions with the result of providing no real use for evaluation. (p. 
+117).</segment>
+    <segment id="21" parent="41" relname="span">  I find it odd that an autocorrect feature would be created based on the very 
+premise of catching my intentions with almost no visual feedback for me to evaluate the 
+outcome of what it thought were errors on my part.</segment>
+<group id="22" type="multinuc" parent="39" relname="span" />
+<group id="23" type="span" parent="22" relname="concession" />
+<group id="25" type="span" parent="24" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="22" relname="elaboration" />
+<group id="28" type="span" parent="12" relname="nonvolitional-cause" />
+<group id="29" type="span" parent="33" relname="span" />
+<group id="30" type="span" parent="8" relname="volitional-cause" />
+<group id="31" type="span" parent="9" relname="elaboration" />
+<group id="32" type="span" parent="29" relname="elaboration" />
+<group id="33" type="span" parent="38" relname="span" />
+<group id="34" type="span" parent="35" relname="antithesis" />
+<group id="35" type="span" parent="36" relname="span" />
+<group id="36" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="33" relname="antithesis" />
+<group id="38" type="span" parent="40" relname="span" />
+<group id="39" type="span" parent="38" relname="solutionhood" />
+<group id="40" type="span" parent="42" relname="span" />
+<group id="41" type="span" parent="40" relname="summary" />
+<group id="42" type="span" />
+  </body>
+</rst>

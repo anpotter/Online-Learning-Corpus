@@ -1,0 +1,57 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="span">
+Good observation P37. </segment>
+    <segment id="5" parent="11" relname="span"> I hear what you are saying.</segment>
+    <segment id="2" parent="7" relname="span">  I used to use Frontpage 95/98 all 
+of the time.</segment>
+    <segment id="3" parent="6" relname="circumstance">  But its been a while now</segment>
+    <segment id="6" parent="9" relname="span"> since I&apos;ve done so.</segment>
+    <segment id="4" parent="8" relname="concession">  I have to admit, I have not 
+tried Frontpage XP,</segment>
+    <segment id="8" parent="10" relname="span"> but I will check it out later today.</segment>
+<group id="9" type="span" parent="2" relname="concession" />
+<group id="7" type="span" parent="5" relname="elaboration" />
+<group id="10" type="span" parent="5" relname="elaboration" />
+<group id="11" type="span" parent="1" relname="elaboration" />
+<group id="12" type="span" />
+  </body>
+</rst>

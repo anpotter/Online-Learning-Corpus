@@ -1,0 +1,67 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="7" relname="concession">
+While I agree with the additional factors that you include in understanding learnability,</segment>
+    <segment id="7" parent="16" relname="span"> I 
+like the Ten-Minute Rule described in our text.</segment>
+    <segment id="2" parent="8" relname="unless"> Unless the application is complex,</segment>
+    <segment id="8" parent="15" relname="span"> the user 
+should be able to learn how to use the system in under 10 minutes.</segment>
+    <segment id="3" parent="14" relname="span"> Frankly, I find that I 
+have behaved much that way in my own experience.</segment>
+    <segment id="4" parent="9" relname="unless"> Unless I want to sit down and 
+become an expert</segment>
+    <segment id="9" parent="13" relname="span"> I prefer to see progress and some results; fast.</segment>
+    <segment id="5" parent="12" relname="span">
+
+A current example for me is completing my income tax.</segment>
+    <segment id="6" parent="10" relname="concession"> While occasionally I have 
+needed professional assistance,</segment>
+    <segment id="10" parent="11" relname="span"> I tried a couple of packages until I found one that is easy 
+to &quot;learn&quot;.</segment>
+<group id="11" type="span" parent="5" relname="elaboration" />
+<group id="12" type="span" parent="9" relname="elaboration" />
+<group id="13" type="span" parent="3" relname="elaboration" />
+<group id="15" type="span" parent="7" relname="elaboration" />
+<group id="16" type="span" />
+<group id="14" type="span" parent="8" relname="elaboration" />
+  </body>
+</rst>

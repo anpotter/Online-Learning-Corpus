@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="span">
+According to the International Organization for Standardization, usability is 
+the &quot;effectiveness, efficiency, and satisfaction with which specified users achieve 
+specified goals in particular environments&quot;</segment>
+    <segment id="12" parent="1" relname="justify"> (The HCI Space, 1999).</segment>
+    <segment id="2" parent="13" relname="span">  With this definition 
+we see that the attributes of usability are influenced by the users themselves, the goal or 
+the task that must be accomplished, and the environment or system that is being used.</segment>
+    <segment id="3" parent="2" relname="elaboration">  
+In dealing with the users, many usability attributes are affected by the user&apos;s own 
+enthusiasm, skills and efforts.</segment>
+    <segment id="4" parent="13" relname="volitional-result">  This why there is varying opinions about the usability of a 
+single application.</segment>
+    <segment id="5" parent="17" relname="span"> Secondly, usability issues can also be subjected to the task at hand.</segment>
+    <segment id="6" parent="14" relname="volitional-result">  
+Tasks that are routine become trivial</segment>
+    <segment id="14" parent="15" relname="contrast"> and thus usability is greatly increased.</segment>
+    <segment id="7" parent="15" relname="contrast">  On the 
+other hand, less routine task hinders usability.</segment>
+    <segment id="8" parent="18" relname="span">  Last, the system or environment that is 
+being used can severely affect usability.</segment>
+    <segment id="9" parent="8" relname="elaboration">  Running times, CPU clock speed, the amount of 
+RAM, the layout of the application or the options available may have an effect on 
+usability.</segment>
+    <segment id="10" parent="22" relname="span">  
+
+It seems as if many of the attributes of usability are affected by all the aforementioned 
+issues.</segment>
+    <segment id="11" parent="10" relname="elaboration">  For example learnability depends on the user&apos;s own efforts to learn the process, 
+the frequency in which the user performs that process, and the environment in which the 
+process takes place.</segment>
+<group id="13" type="span" parent="19" relname="span" />
+<group id="15" type="multinuc" parent="5" relname="elaboration" />
+<group id="16" type="multinuc" parent="21" relname="span" />
+<group id="17" type="span" parent="16" relname="list" />
+<group id="18" type="span" parent="16" relname="list" />
+<group id="19" type="span" parent="16" relname="list" />
+<group id="20" type="span" parent="16" relname="justify" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="22" type="span" parent="21" relname="summary" />
+<group id="23" type="span" />
+  </body>
+</rst>

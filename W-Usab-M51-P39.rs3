@@ -1,0 +1,113 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="39" relname="span">
+I have something to add to the part of your discussion that says:</segment>
+    <segment id="19" parent="38" relname="span">
+The only way to ascertain user expectations is to do user testing.</segment>
+    <segment id="2" parent="19" relname="elaboration"> No amount of study 
+and debate will substitute.</segment>
+    <segment id="3" parent="36" relname="span">
+
+I was reading an article that Jackob Nielson wrote on heurisitics</segment>
+    <segment id="5" parent="3" relname="elaboration"> and ran across an 
+interesting statement.</segment>
+    <segment id="4" parent="37" relname="span">  Nielson (1992) said that minor usability problems could be real 
+usabiltiy problems that could not be observed in a user test (p. 378).</segment>
+    <segment id="6" parent="35" relname="span">  I could see how 
+problems and expectations might cross into a grey area at times,</segment>
+    <segment id="21" parent="34" relname="span"> and would say that 
+both heuristics(or other type of expert inspection) and user testing would be needed to 
+ascertain user expectations in the long view of a product&apos;s development.</segment>
+    <segment id="7" parent="33" relname="span">
+
+An example might be where users are brought in to test a web interface.</segment>
+    <segment id="8" parent="32" relname="span">  Users are 
+expecting a quick checkout to purchase something.</segment>
+    <segment id="9" parent="22" relname="concession">  The first user really have to focus on 
+entering in his credit card information correctly,</segment>
+    <segment id="22" parent="43" relname="span"> but  he succeeds.</segment>
+    <segment id="10" parent="20" relname="concession">  The next user has to 
+focus just as hard</segment>
+    <segment id="20" parent="42" relname="span"> but the transcation itself is perceived as quick by the user</segment>
+    <segment id="23" parent="20" relname="elaboration"> and he only 
+views the credit card entry as something you have to be careful in entering.</segment>
+    <segment id="11" parent="8" relname="elaboration">  Both users 
+had to enter the credit card number as one long number like xxxxxxxxxxxxxxxx.</segment>
+    <segment id="12" parent="8" relname="elaboration">  User 
+expectations are met and the evaluators are none the wiser.</segment>
+    <segment id="13" parent="28" relname="span">
+
+Now I come in as an expert reviewer,</segment>
+    <segment id="24" parent="13" relname="elaboration"> and I am evaluating the credit card entry process.</segment>
+    <segment id="14" parent="29" relname="span">  
+I might say that there should be dashes in between the blank area to enter my credit 
+card</segment>
+    <segment id="25" parent="17" relname="span"> becuase this will visually match what a user sees on his credit card when typing it in</segment>
+    <segment id="26" parent="25" relname="elaboration">
+(heuristic where thre is a match between the system and the real world).</segment>
+    <segment id="15" parent="17" relname="elaboration">  It would look 
+like xxxx-xxxx-xxxx-xxxx instead of xxxxxxxxxxxxxxxx for data entry.</segment>
+    <segment id="16" parent="30" relname="span">  
+
+I just went to a major department store website, nordstrom.com, to see if they put 
+dashes for their customers&apos; credit card entry area.</segment>
+    <segment id="18" parent="16" relname="volitional-result">  They don&apos;t.</segment>
+<group id="17" type="span" parent="27" relname="span" />
+<group id="27" type="span" parent="14" relname="volitional-cause" />
+<group id="28" type="span" parent="14" relname="circumstance" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="background" />
+<group id="31" type="span" parent="8" relname="elaboration" />
+<group id="32" type="span" parent="7" relname="elaboration" />
+<group id="33" type="span" parent="21" relname="evidence" />
+<group id="34" type="span" parent="6" relname="elaboration" />
+<group id="35" type="span" parent="4" relname="elaboration" />
+<group id="36" type="span" parent="4" relname="background" />
+<group id="37" type="span" parent="40" relname="span" />
+<group id="38" type="span" parent="1" relname="elaboration" />
+<group id="39" type="span" parent="37" relname="background" />
+<group id="40" type="span" />
+<group id="41" type="multinuc" parent="8" relname="elaboration" />
+<group id="42" type="span" parent="41" relname="sequence" />
+<group id="43" type="span" parent="41" relname="sequence" />
+  </body>
+</rst>

@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+On the subject of efficiency, this is defined as the time it takes to complete a task.</segment>
+    <segment id="2" parent="26" relname="span"> One 
+application that I have worked with a lot lately is Dreamweaver MX.</segment>
+    <segment id="3" parent="24" relname="span"> This application 
+allows users to create a webpage quickly.</segment>
+    <segment id="4" parent="3" relname="elaboration"> What really makes the application amazing is 
+the fact that it allows you to view both the HTML code and the what you see is what you 
+get layout of your webpage.</segment>
+    <segment id="5" parent="22" relname="span"> The old method, at least for me, involved creating a 
+webpage in a little application called Microsoft Word Pad.</segment>
+    <segment id="6" parent="18" relname="sequence"> You would create the HTML code </segment>
+    <segment id="14" parent="18" relname="sequence">
+and then paste it into a real web page.</segment>
+    <segment id="7" parent="18" relname="sequence"> Then you would have to load the webpage and </segment>
+    <segment id="15" parent="18" relname="sequence">
+attempt the figure out where the mistakes are.</segment>
+    <segment id="8" parent="23" relname="span"> What Dreamweaver MX allows users to 
+do is create their webpage without much HTML knowledge.</segment>
+    <segment id="9" parent="19" relname="list"> You can lay out the webpage </segment>
+    <segment id="16" parent="19" relname="list">
+and it not only writes all the code for you,</segment>
+    <segment id="17" parent="19" relname="list"> but in real time creates the tags you&apos;ll need to 
+make the page work.</segment>
+    <segment id="10" parent="25" relname="span"> This can save hours versus the old methods.</segment>
+    <segment id="11" parent="20" relname="span"> One area that new 
+webpage designers always have to struggle with is the fact that even Dreamweaver MX 
+will use the local address for elements of the webpage instead of where they are located 
+on the web.</segment>
+    <segment id="12" parent="21" relname="span"> So at some point, no matter how efficient the program is, you have the edit 
+the tags manually.</segment>
+    <segment id="13" parent="12" relname="otherwise"> Otherwise, you get an empty box, instead of the photo you meant to 
+insert.</segment>
+<group id="18" type="multinuc" parent="5" relname="elaboration" />
+<group id="19" type="multinuc" parent="8" relname="elaboration" />
+<group id="20" type="span" parent="10" relname="concession" />
+<group id="21" type="span" parent="11" relname="volitional-result" />
+<group id="22" type="span" parent="8" relname="antithesis" />
+<group id="23" type="span" parent="10" relname="volitional-cause" />
+<group id="24" type="span" parent="2" relname="elaboration" />
+<group id="25" type="span" parent="3" relname="evidence" />
+<group id="26" type="span" />
+  </body>
+</rst>

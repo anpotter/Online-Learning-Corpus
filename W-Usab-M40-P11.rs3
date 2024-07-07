@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="background">To reinforce this concept as well as some we have already discussed, we could also 
+connect flexibility, learnability and efficiency.</segment>
+    <segment id="2" parent="6" relname="nonvolitional-cause"> It could very well be that a system is 
+flexible (provides different ways to perform the same function),</segment>
+    <segment id="6" parent="9" relname="span"> but that MIGHT effect 
+learnability.</segment>
+    <segment id="3" parent="11" relname="span"> With more than one way to perform a function, one has to learn and retain in 
+memory how to do the same thing in different ways.</segment>
+    <segment id="4" parent="10" relname="span">  There is where the efficiency 
+aspect comes through.</segment>
+    <segment id="5" parent="7" relname="condition">  When the process is logical and intuitive, and learned once,</segment>
+    <segment id="7" parent="8" relname="span"> then 
+there is a good chance that flexibility will be a positive thing.</segment>
+<group id="8" type="span" parent="4" relname="elaboration" />
+<group id="9" type="span" parent="12" relname="span" />
+<group id="10" type="span" parent="3" relname="nonvolitional-result" />
+<group id="11" type="span" parent="9" relname="summary" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+  </body>
+</rst>

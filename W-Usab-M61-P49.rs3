@@ -1,0 +1,89 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Great insight on durability.</segment>
+    <segment id="2" parent="12" relname="span"> Another aspect is when usability design
+principles are carried over from one technology to the next instead of
+doing a separate task analysis for the newer technology.</segment>
+    <segment id="3" parent="14" relname="concession">  Although it is
+not always nevessary to reinvent the wheel,</segment>
+    <segment id="14" parent="19" relname="span"> you would not necessary want
+to put bicycle wheels on your SUV.</segment>
+    <segment id="4" parent="24" relname="span"> This issue was among several that
+Nielsen (2000) pointed out as reasons 70% of people chose not to use WAP
+(wireless access protocol) phones to access the Internet.</segment>
+    <segment id="5" parent="20" relname="span"> Many of the
+design principles that worked well for traditional web design, such as
+fancy designs and splash screens, just did not have a place on WAP
+phone.</segment>
+    <segment id="6" parent="5" relname="nonvolitional-cause"> One obvious reason was the difference in screen size that made it
+more difficult to distinguish between options.</segment>
+    <segment id="7" parent="5" relname="nonvolitional-cause"> Also, more screens were
+needed on WAP phones to display items that were designed for regular
+larger screen PCs in mind.</segment>
+    <segment id="8" parent="15" relname="circumstance"> As we might have experienced,</segment>
+    <segment id="15" parent="21" relname="span"> the more
+clicking one has to do to accomplish a task,</segment>
+    <segment id="16" parent="22" relname="span"> the more discouraging it is
+to repeat that task;</segment>
+    <segment id="17" parent="18" relname="nonvolitional-cause"> and the more time spent using a cell phone,</segment>
+    <segment id="18" parent="23" relname="span"> the
+higher the monthly bill.</segment>
+    <segment id="9" parent="25" relname="span"> Nielsen suggested that much simpler design
+approaches were necessary to make accessing the web via WAP phones
+faster, clearer, with as few clicks and screens as possible.</segment>
+    <segment id="10" parent="9" relname="elaboration"> This also
+meant using different approaches at task analysis than was used for web
+design meant for the larger screens.</segment>
+    <segment id="11" parent="26" relname="justify"> This article could be found at
+http://www.useit.com/alertbox/20001210.html</segment>
+<group id="19" type="span" parent="4" relname="background" />
+<group id="20" type="span" parent="4" relname="nonvolitional-cause" />
+<group id="21" type="span" parent="16" relname="nonvolitional-cause" />
+<group id="22" type="span" parent="5" relname="evidence" />
+<group id="23" type="span" parent="5" relname="evidence" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="24" relname="elaboration" />
+<group id="26" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="2" relname="evidence" />
+<group id="12" type="span" />
+  </body>
+</rst>

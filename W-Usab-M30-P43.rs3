@@ -1,0 +1,121 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="46" relname="span">
+Myth #1:  Usability only increases development costs and lengthens development time.</segment>
+    <segment id="2" parent="32" relname="span">
+
+I agree with Chrusch it cost a lot more money to fix problems after development.</segment>
+    <segment id="3" parent="30" relname="span"> A 
+company has to schedule downtime and loose productivity to apply fixes to applications.</segment>
+    <segment id="4" parent="29" relname="span"> 
+Downtime has a trickle down affect on revenue;</segment>
+    <segment id="22" parent="4" relname="nonvolitional-cause"> employees are not productive</segment>
+    <segment id="23" parent="31" relname="span"> and it is 
+exposed to customer dissatisfaction</segment>
+    <segment id="24" parent="23" relname="nonvolitional-cause"> because employees are not able to deliver a product.</segment>
+    <segment id="5" parent="6" relname="antithesis">
+
+
+Myth #4:  Usability is really just common sense.</segment>
+    <segment id="6" parent="43" relname="span">
+
+Usability is NOT just common sense.</segment>
+    <segment id="7" parent="35" relname="span"> This statement is very subjective</segment>
+    <segment id="25" parent="34" relname="span"> since common 
+sense does not always mean the same thing to all individuals.</segment>
+    <segment id="8" parent="33" relname="contrast"> In the United States 
+looking from left to right to safely cross the street is a good thing</segment>
+    <segment id="26" parent="33" relname="contrast"> but in the United 
+Kingdom it might get you hit by a car.</segment>
+    <segment id="9" parent="10" relname="antithesis">
+
+Myth #5:  As long as developers are familiar with guidelines, good user interfaces will be 
+designed.</segment>
+    <segment id="10" parent="44" relname="span">
+
+Developers who are in touch with the users, their job specifications and the settings in 
+which the job is carried out are on their way to developing good user interfaces.</segment>
+    <segment id="11" parent="10" relname="elaboration"> It is the 
+interactions of the developer with the users that will make the guidelines make sense.</segment>
+    <segment id="12" parent="38" relname="antithesis"> 
+
+Myth #7:  &quot;We&apos;ll handle that in the help/training/documentation.&quot;</segment>
+    <segment id="21" parent="40" relname="span">
+
+It has been my experience that users do not read documentation.</segment>
+    <segment id="14" parent="21" relname="elaboration"> I am often reminded 
+that is an IS function.</segment>
+    <segment id="15" parent="13" relname="condition"> If they do read the documentation</segment>
+    <segment id="13" parent="36" relname="span"> it often does not produce the 
+desired results.</segment>
+    <segment id="16" parent="37" relname="span"> Often times organizations are extremely conservative</segment>
+    <segment id="27" parent="16" relname="circumstance"> when it comes to 
+training.</segment>
+    <segment id="17" parent="41" relname="span"> I have found it difficult to sell a CFO on 8 hours training per employee</segment>
+    <segment id="28" parent="17" relname="circumstance"> when a 
+new application is implemented.</segment>
+    <segment id="18" parent="38" relname="conjunction"> The users can also minimize the need for training by not 
+fully engaging in the process of training.</segment>
+    <segment id="19" parent="38" relname="conjunction"> Users will often count on power users and the 
+help desk to get by.</segment>
+    <segment id="20" parent="38" relname="summary"> 
+
+Help/training/documentation is definitely not the answer to usability issues.</segment>
+<group id="29" type="span" parent="3" relname="evidence" />
+<group id="30" type="span" parent="2" relname="evidence" />
+<group id="31" type="span" parent="3" relname="evidence" />
+<group id="32" type="span" parent="1" relname="evaluation" />
+<group id="33" type="multinuc" parent="25" relname="evidence" />
+<group id="34" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="35" type="span" parent="6" relname="elaboration" />
+<group id="36" type="span" parent="21" relname="elaboration" />
+<group id="37" type="span" parent="39" relname="span" />
+<group id="38" type="multinuc" parent="45" relname="span" />
+<group id="39" type="span" parent="38" relname="conjunction" />
+<group id="40" type="span" parent="38" relname="conjunction" />
+<group id="41" type="span" parent="37" relname="evidence" />
+<group id="42" type="multinuc" />
+<group id="43" type="span" parent="42" relname="list" />
+<group id="44" type="span" parent="42" relname="list" />
+<group id="45" type="span" parent="42" relname="list" />
+<group id="46" type="span" parent="42" relname="list" />
+  </body>
+</rst>

@@ -1,0 +1,76 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="span">
+In many software or web interfaces, we are presented with more peripheral, or non-
+essential, information than we can possibly ingest (Maglio and Campbell, 2000).</segment>
+    <segment id="2" parent="1" relname="elaboration"> 
+This &quot;ambient information&quot; can be helpful, interesting or useless to us.</segment>
+    <segment id="3" parent="1" relname="elaboration"> It can be 
+presented innocuously or obnoxiously, as in unsolicited pop-up windows.</segment>
+    <segment id="4" parent="13" relname="span"> But what makes 
+it memorable?</segment>
+    <segment id="10" parent="14" relname="span">
+Maglio and Campbell (2000) studied the impact of &apos;ticker displays&apos; on primary task 
+performance.</segment>
+    <segment id="5" parent="19" relname="span"> The study compared horizontal continuous scrolling (HCS), vertical discrete 
+scrolling (VDS, &apos;scroll-stop&apos;) and serial presentation (SP, full text replacement) ticker 
+displays.</segment>
+    <segment id="6" parent="7" relname="concession"> It is no great surprise that displays with more movement are more distracting 
+and had a more pronounced impact on performance.</segment>
+    <segment id="7" parent="15" relname="span"> But I found it interesting that, 
+although the primary task was completed more slowly or with more errors,</segment>
+    <segment id="12" parent="16" relname="span"> all methods 
+were equally memorable in the peripheral information presented.</segment>
+    <segment id="8" parent="17" relname="span">
+So this study would support the common marketing practice of presenting website ads 
+with animation or movement in order to attract the user&apos;s attention.</segment>
+    <segment id="9" parent="18" relname="span"> However, I would 
+argue that user satisfaction would be sacrificed in favor of the mighty dollar.</segment>
+<group id="13" type="span" parent="1" relname="elaboration" />
+<group id="14" type="span" parent="4" relname="solutionhood" />
+<group id="15" type="span" parent="12" relname="concession" />
+<group id="16" type="span" parent="8" relname="nonvolitional-cause" />
+<group id="17" type="span" parent="9" relname="antithesis" />
+<group id="18" type="span" parent="5" relname="elaboration" />
+<group id="19" type="span" parent="10" relname="elaboration" />
+<group id="11" type="span" />
+  </body>
+</rst>

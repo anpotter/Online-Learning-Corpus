@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="11" relname="span">
+I read a good article from &quot;the King of usability&quot; Jakob Nielsen - Durability of Usability 
+Guidelines.</segment>
+    <segment id="2" parent="1" relname="background"> After all of this discussion on usability one might wonder just how durable 
+many of the older usability guidelines are.</segment>
+    <segment id="3" parent="12" relname="span"> I enjoyed reading this </segment>
+    <segment id="7" parent="10" relname="span">and was amazed that 
+about 90% of these guidelines are still use use today.</segment>
+    <segment id="4" parent="6" relname="span"> I would think that most of these 
+would be obsolete by now,</segment>
+    <segment id="8" parent="4" relname="evidence"> especially considering the way thechnology has changed so 
+rapidly over the past few decades.</segment>
+    <segment id="5" parent="9" relname="span"> The article explains that human behavior, which 
+changes slowly, affects the usabilty guidelines and how they endure over time.</segment>
+<group id="10" type="span" parent="3" relname="elaboration" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="12" type="span" parent="11" relname="evaluation" />
+<group id="6" type="span" parent="5" relname="concession" />
+<group id="9" type="span" parent="7" relname="elaboration" />
+<group id="13" type="span" />
+  </body>
+</rst>

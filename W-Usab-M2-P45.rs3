@@ -1,0 +1,69 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="span">
+Usability has to do with making technology easy to learn and easy to use.</segment>
+    <segment id="2" parent="12" relname="span">  I think the 
+term is used to describe the quality of a user&apos;s experience when interacting with a 
+computer,</segment>
+    <segment id="10" parent="2" relname="elaboration"> whether its software, a cell phone, a website, or any other human operated 
+device.</segment>
+    <segment id="3" parent="13" relname="span"> A usable system is one which enables users to perform their job effectively and 
+efficiently (Pure Interface, 2005).</segment>
+    <segment id="4" parent="3" relname="elaboration">  One way that this can be accomplished is through user-
+centered design.</segment>
+    <segment id="5" parent="11" relname="preparation">  In terms of something having ease of use,</segment>
+    <segment id="11" parent="14" relname="span"> I think it has a lot to do with 
+the users ability to effectively interact with technology, software, or other systems in a 
+way that doesnt require a great deal of difficulty.</segment>
+    <segment id="6" parent="15" relname="span">  IBM has a website that is dedicated to 
+nothing but the concept of ease of use, which I found very informative.</segment>
+    <segment id="7" parent="6" relname="elaboration">  IBM believes 
+that ease of use is vital to the success of most products and services.</segment>
+    <segment id="8" parent="6" relname="elaboration">  They further point 
+out that the user experience directly affects sales, service cost, productive use, customer 
+loyalty and almost every other aspect of doing business.</segment>
+<group id="12" type="span" parent="1" relname="elaboration" />
+<group id="13" type="span" parent="1" relname="elaboration" />
+<group id="14" type="span" parent="1" relname="restatement" />
+<group id="15" type="span" parent="1" relname="elaboration" />
+<group id="9" type="span" />
+  </body>
+</rst>

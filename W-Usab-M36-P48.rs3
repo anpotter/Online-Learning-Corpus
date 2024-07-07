@@ -1,0 +1,75 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+This was a good read.</segment>
+    <segment id="2" parent="21" relname="span"> A few comments on Myth #6 and #7.</segment>
+    <segment id="9" parent="10" relname="preparation">
+
+Myth #6:</segment>
+    <segment id="10" parent="22" relname="span">  Usability testing is not needed if the development team has been working with 
+the users a long time and knows what they want.</segment>
+    <segment id="3" parent="17" relname="span">
+I disagree with this.</segment>
+    <segment id="4" parent="16" relname="span"> Usability testing should always be planned.</segment>
+    <segment id="5" parent="14" relname="conjunction"> There are always 
+changes</segment>
+    <segment id="12" parent="15" relname="span"> and they need to be aware of this</segment>
+    <segment id="13" parent="12" relname="circumstance"> as the project is being developed.</segment>
+    <segment id="6" parent="11" relname="preparation">
+
+
+Myth #7:</segment>
+    <segment id="11" parent="18" relname="span">  &quot;We&apos;ll handle that in the help/training/documentation.&quot;</segment>
+    <segment id="7" parent="19" relname="span">
+This is great.</segment>
+    <segment id="8" parent="7" relname="elaboration"> This just says to forget about it for now and save the problem for later.</segment>
+<group id="14" type="multinuc" parent="4" relname="volitional-cause" />
+<group id="15" type="span" parent="14" relname="conjunction" />
+<group id="16" type="span" parent="3" relname="elaboration" />
+<group id="17" type="span" parent="10" relname="evaluation" />
+<group id="19" type="span" parent="11" relname="evaluation" />
+<group id="20" type="multinuc" parent="23" relname="span" />
+<group id="18" type="span" parent="20" relname="list" />
+<group id="22" type="span" parent="20" relname="list" />
+<group id="21" type="span" parent="20" relname="preparation" />
+<group id="23" type="span" />
+  </body>
+</rst>

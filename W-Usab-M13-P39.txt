@@ -1,0 +1,30 @@
+
+As I am currently typing this response in MS Word, there were many good features that 
+allow for error recovery.  There is one area that I consider not so good in regards to 
+helping me with error recovery and usability, and it is as follows:
+
+The autocorrect feature automatically changed a word if I mistyped it.  If I wanted to 
+type the word the and actually typed teh", it would autocorrect the word to the.  The 
+bad aspect of this feature is that I have had typed up documents where it autocorrected 
+something that I didnt want autocorrected and I didnt catch the auto correction.  I 
+would suggest that all auto corrections in a document be identified by changing the color 
+of the word for a visual review by the typist.  I say this because I will start typing 
+something and not even look at the screen.  Even when I am looking at the screen, the 
+autocorrect can be so subtle, I wouldnt even know something had changed.  A color 
+coded view of all the auto corrections might make it easier for review that requiring me 
+to re-read the document and not really know where the auto corrections were made.  
+There should also be an option to reverse the correction when the mouse is hovered 
+over the color-coded auto corrected word.  I did look in the help area where it said that I 
+could hover the mouse over words to get an icon that would let me reverse the 
+autocorrect.  The problem is that I would have to hover my mouse over the entire 
+document because I wouldnt know what had been corrected.    This concept of hide until 
+hovered upon is not my idea of good feedback.  
+
+In an article that proposed guidelines for handling human errors, Rizzo, Parlangeli, 
+Marchigiani, and Bagnara conveyed that it was not possible to know the intentions of 
+users and how they evaluate outcomes, and further stated that tools have been created 
+to catch a users intentions with the result of providing no real use for evaluation. (p. 
+117).  I find it odd that an autocorrect feature would be created based on the very 
+premise of catching my intentions with almost no visual feedback for me to evaluate the 
+outcome of what it thought were errors on my part.
+

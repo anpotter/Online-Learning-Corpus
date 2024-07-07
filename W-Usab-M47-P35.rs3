@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="span">
+Consistency, when spoken in HCI concepts, refers to user-interface (UI) design that has 
+similar elements and similar user processes that accomplish comparable tasks.</segment>
+    <segment id="2" parent="1" relname="elaboration">  By 
+designing a consistent UI, the benefits are clearly ease of use and ease of learning.</segment>
+    <segment id="3" parent="11" relname="volitional-cause"> 
+When users learn and recognize images, icons, and/or consistent processes to operate 
+the functions of the systems,</segment>
+    <segment id="11" parent="15" relname="span"> the system also tends to be more efficient.</segment>
+    <segment id="4" parent="20" relname="span"> 
+
+This being said, the principle of UI consistency is easy to develop and maintain with a UI 
+that has limited functionality,</segment>
+    <segment id="12" parent="9" relname="span"> but the real challenge of consistency exists in large, 
+complex interfaces that have multi-functional purposes.</segment>
+    <segment id="5" parent="13" relname="purpose"> When designing for consistency 
+of this type of system,</segment>
+    <segment id="13" parent="14" relname="span"> some of the items the UI designer needs to account for are to 
+maintain consistency by accounting for interpretation of user behavior by 
+maintaining &quot;shortcut&quot; keys and their meaning, making the overall look of the design 
+elements uniform across all UI screens and make all icons, size boxes, scroll arrows and 
+location of certain images specifically controlled so that the end-user recognizes the 
+intent of the designer.</segment>
+    <segment id="6" parent="18" relname="span"> The user should almost know what to expect and where to look to 
+find certain items (such as the print function) when using the application.</segment>
+    <segment id="7" parent="6" relname="justify">
+
+&quot;The most important consistency is consistency with user expectations. The only way to 
+ascertain user expectations is to do user testing. No amount of study and debate will 
+substitute.&quot; (Tognazzini, 2003)</segment>
+<group id="14" type="span" parent="16" relname="span" />
+<group id="15" type="span" parent="1" relname="elaboration" />
+<group id="16" type="span" parent="12" relname="elaboration" />
+<group id="9" type="span" />
+<group id="8" type="span" parent="4" relname="background" />
+<group id="18" type="span" parent="14" relname="elaboration" />
+<group id="20" type="span" parent="12" relname="concession" />
+  </body>
+</rst>

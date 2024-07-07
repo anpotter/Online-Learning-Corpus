@@ -1,0 +1,83 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="23" relname="circumstance">
+When I read this article,</segment>
+    <segment id="23" parent="24" relname="span"> it made me think of something that happened at work recently.</segment>
+    <segment id="2" parent="25" relname="span">  
+A programmer who &quot;knew what the user wanted&quot; created a web page for payroll and 
+other type of file submissions to the bank.</segment>
+    <segment id="3" parent="10" relname="concession">  He put security on the files,</segment>
+    <segment id="10" parent="18" relname="span"> but there was no 
+security if one went through the web page to submit the files to the bank.</segment>
+    <segment id="4" parent="15" relname="span">  What 
+happened was that a user who didn&apos;t have access to the payroll file was going through 
+the web page and accidentially hitting the payroll submission button to submit the file.</segment>
+    <segment id="5" parent="22" relname="span">  
+Payroll was being submitted twice to the bank.</segment>
+    <segment id="6" parent="20" relname="span">  What this tells me is that the users reallly 
+needed protection from errors.</segment>
+    <segment id="7" parent="17" relname="conjunction">  The users were never exposed to the web page prior to 
+being put in production,</segment>
+    <segment id="11" parent="17" relname="conjunction"> and the programmer based his design on his own discretion.</segment>
+    <segment id="8" parent="17" relname="conjunction">  He 
+was familiar with guidelines</segment>
+    <segment id="12" parent="17" relname="conjunction"> and felt that this would fit the bill.</segment>
+    <segment id="9" parent="19" relname="span">  I am not knocking the 
+programmer</segment>
+    <segment id="13" parent="9" relname="evidence"> (he really is very talented and just made an error in judgement...</segment>
+    <segment id="27" parent="9" relname="evidence">and he 
+was probably pressed for time), </segment>
+    <segment id="14" parent="21" relname="span"> but I see that not applying usability concepts to the little 
+things can lead to big problems.</segment>
+<group id="17" type="multinuc" parent="6" relname="evidence" />
+<group id="19" type="span" parent="14" relname="concession" />
+<group id="21" type="span" parent="20" relname="summary" />
+<group id="24" type="span" parent="2" relname="background" />
+<group id="16" type="span" />
+<group id="18" type="span" parent="4" relname="nonvolitional-cause" />
+<group id="15" type="span" parent="5" relname="nonvolitional-cause" />
+<group id="22" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="22" relname="nonvolitional-cause" />
+<group id="26" type="span" parent="6" relname="nonvolitional-cause" />
+<group id="20" type="span" parent="28" relname="span" />
+<group id="28" type="span" />
+  </body>
+</rst>
