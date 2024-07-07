@@ -1,0 +1,55 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">
+I know what you mean.</segment>
+    <segment id="2" parent="7" relname="span">  Add to this that technology is changing so quickly as you say, </segment>
+    <segment id="4" parent="8" relname="span">
+and it might be hard enough to keep up with the important areas of a web page that 
+actually allow a business to make money.</segment>
+    <segment id="3" parent="6" relname="span">   I think the elderly and disabled users needs 
+for web use will never be met to the same extent that the young and healthy are,</segment>
+    <segment id="5" parent="3" relname="volitional-cause"> and I 
+suspect it is because there isn&apos;t enough profit involved to do so.</segment>
+<group id="7" type="span" parent="4" relname="volitional-cause" />
+<group id="6" type="span" parent="4" relname="nonvolitional-result" />
+<group id="8" type="span" />
+  </body>
+</rst>

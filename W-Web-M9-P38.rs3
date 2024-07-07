@@ -1,0 +1,92 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="circumstance">When it comes to usability of websites and web design,</segment>
+    <segment id="12" parent="20" relname="span"> it is almost impossible to simply 
+please everyone.</segment>
+    <segment id="2" parent="16" relname="contrast">  Some web surfers yearn for animation and pizzazz on sites</segment>
+    <segment id="13" parent="16" relname="contrast"> while 
+others find it distracting and simply superfluous.</segment>
+    <segment id="3" parent="21" relname="span">  There must be a balanced medium</segment>
+    <segment id="14" parent="11" relname="span"> and 
+designers need to seek the means at addressing a balanced site design that is user-
+centered</segment>
+    <segment id="15" parent="14" relname="antithesis"> rather than a company-centered site that might detract visitors from returned 
+visits.</segment>
+    <segment id="4" parent="29" relname="span">
+They must seek to understand what motivates Web surfers as a group and what they are 
+primarily in search of.</segment>
+    <segment id="5" parent="30" relname="span">  The majority of Web surfers are seeking some form of 
+information; approximately 90%.</segment>
+    <segment id="6" parent="25" relname="span">  Majority of these users are also in a hurry (arent we 
+all) and dont necessarily want to be impeded by a plethora of graphics that utilize 
+precious download time.</segment>
+    <segment id="7" parent="24" relname="span">  Web surfers are pretty much over the awe stage of this 
+technology and want to move past it to utilize this tool for meaningful use.</segment>
+    <segment id="8" parent="7" relname="evidence">  They often 
+know what they want and want the quickest possible means at retrieving that information 
+or product.</segment>
+    <segment id="9" parent="28" relname="span">
+Sites that look good superficially but dont necessarily solve problems, which is 
+essentially why users surf the web, are deterring using and contradicting good design 
+practices according to Barnum (2002).</segment>
+    <segment id="10" parent="23" relname="span">  The problem, she believes, is that usability isnt 
+an automatic process: </segment>
+    <segment id="17" parent="22" relname="span"> web designs always turn out bad</segment>
+    <segment id="18" parent="17" relname="unless"> unless project teams make 
+certain to apply usability throughout the design process.
+</segment>
+<group id="16" type="multinuc" parent="3" relname="solutionhood" />
+<group id="11" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="3" relname="elaboration" />
+<group id="20" type="span" parent="27" relname="span" />
+<group id="21" type="span" parent="20" relname="solutionhood" />
+<group id="22" type="span" parent="10" relname="elaboration" />
+<group id="23" type="span" parent="9" relname="elaboration" />
+<group id="24" type="span" parent="26" relname="span" />
+<group id="25" type="span" parent="5" relname="elaboration" />
+<group id="30" type="span" parent="4" relname="elaboration" />
+<group id="29" type="span" parent="11" relname="elaboration" />
+<group id="28" type="span" parent="24" relname="evidence" />
+<group id="26" type="span" parent="6" relname="elaboration" />
+<group id="27" type="span" />
+  </body>
+</rst>

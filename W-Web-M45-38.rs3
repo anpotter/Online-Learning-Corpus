@@ -1,0 +1,72 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">
+     The Medicare website was a great example of applying the senior-friendly guidelines 
+for web design that the NIA/NLM has recommended.</segment>
+    <segment id="2" parent="12" relname="span">  My first thought when I visited the 
+site was whether or not I had accidentally adjusted my screen resolution to a larger font 
+size.</segment>
+    <segment id="3" parent="2" relname="elaboration">  In other words the font size was clearly legible, which is an important factor when 
+attempting to accommodate for those individuals with poor or failing eyesight.</segment>
+    <segment id="4" parent="1" relname="evidence">
+Links to various topics had on mouse click features which is another important factor for 
+those with physical impairment.</segment>
+    <segment id="5" parent="1" relname="elaboration">  The wording and literacy content is also easily read and 
+easily understood;</segment>
+    <segment id="9" parent="1" relname="evidence"> the site also converts to espanol for Spanish speaking individuals.</segment>
+    <segment id="6" parent="13" relname="span">  I 
+couldnt find a sitemap which would be helpful to outline all the various aspects and 
+avenues of the site;</segment>
+    <segment id="10" parent="6" relname="elaboration"> a great way for individuals with cognitive issues to clearly view links 
+to specific areas at a broad outlook.</segment>
+    <segment id="7" parent="1" relname="elaboration">  
+     The site is void of busy and distractible features that one might come to expect and 
+possibly enjoy in todays websites.</segment>
+    <segment id="8" parent="1" relname="elaboration">  The site purposefully utilizes usability factors that 
+would accommodate individuals with specific disadvantages;</segment>
+    <segment id="11" parent="14" relname="summary"> a great example of a senior 
+friendly-site.</segment>
+<group id="12" type="span" parent="1" relname="evidence" />
+<group id="13" type="span" parent="1" relname="elaboration" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>

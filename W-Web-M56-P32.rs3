@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="span">
+I have always cautioned users from creating websites using templates</segment>
+    <segment id="9" parent="1" relname="background"> - FrontPage and 
+online services offer hundreds of templates for whatever ideas you may want to peruse 
+over the internet.</segment>
+    <segment id="2" parent="10" relname="volitional-cause"> Recently a client of mine decided to go with a developer that offered a 
+quick solution to their website needs</segment>
+    <segment id="10" parent="14" relname="span"> - a few weeks after one of the members of this 
+organization came across another website with an identical site,</segment>
+    <segment id="11" parent="15" relname="span"> they where not happy... </segment>
+    <segment id="21" parent="11" relname="volitional-result"> 
+So much for a unique identity!</segment>
+    <segment id="7" parent="1" relname="concession">  Don&apos;t get me wrong I don&apos;t mind a template if it is 
+customizable or somewhat unique (if that exists)</segment>
+    <segment id="8" parent="17" relname="span">
+
+I recently came across this article that supports the use of templates.</segment>
+    <segment id="3" parent="8" relname="elaboration">  The author Kukral 
+(2002) suggests that one should Check your HTML tool to see if it has any Web 
+templates you can use. If those aren&apos;t good enough, do a search online for &quot;Web site 
+design templates&quot; and you&apos;ll find many companies offering low-cost Web design 
+templates you can buy.</segment>
+    <segment id="5" parent="8" relname="elaboration">  He also cautions about researching several companies before 
+making your choice.</segment>
+    <segment id="6" parent="19" relname="span"> 
+
+Are template the way to go,</segment>
+    <segment id="4" parent="6" relname="elaboration"> what about creativity,</segment>
+    <segment id="12" parent="6" relname="elaboration"> what about branding your image on 
+the web </segment>
+    <segment id="13" parent="6" relname="elaboration">or is this just a quick fix, for a fast pace society.</segment>
+<group id="14" type="span" parent="11" relname="volitional-cause" />
+<group id="15" type="span" parent="1" relname="evidence" />
+<group id="16" type="multinuc" parent="19" relname="motivation" />
+<group id="17" type="span" parent="16" relname="contrast" />
+<group id="18" type="span" parent="16" relname="contrast" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" />
+  </body>
+</rst>

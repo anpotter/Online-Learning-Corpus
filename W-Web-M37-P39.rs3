@@ -1,0 +1,114 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="43" relname="background">
+The first thing that grabbed me when going to this site was the white area in the center of 
+the web page.</segment>
+    <segment id="2" parent="43" relname="span"> It was hard to read</segment>
+    <segment id="17" parent="26" relname="conjunction"> because all the topics that were underlined,</segment>
+    <segment id="18" parent="26" relname="conjunction"> but they 
+were close together.</segment>
+    <segment id="3" parent="28" relname="span">  The items that were under the &quot;Seach Tools&quot; area were really odd 
+and hard to read because of three reasons:</segment>
+    <segment id="19" parent="27" relname="list">
+1.  A sentence would be underlined and bunched in up to 4 lines.</segment>
+    <segment id="4" parent="27" relname="list">
+2.  The next sentence of some of these sentences looked like they could have been part 
+of the previous sentence.</segment>
+    <segment id="5" parent="27" relname="list">  
+3.  The diamonds in front of the sentences didn&apos;t visually line up to one another for the 
+columns,</segment>
+    <segment id="20" parent="28" relname="evaluation"> and this bothered me for some reason.</segment>
+    <segment id="6" parent="21" relname="concession">
+
+I think that they made an effort to use a large font in this white area,</segment>
+    <segment id="21" parent="35" relname="span"> but it just looked 
+like a blur.</segment>
+    <segment id="7" parent="36" relname="span">  I can say that I felt that there was too little white space on this homepage,</segment>
+    <segment id="22" parent="7" relname="justify"> 
+similiar to what Barnum described on page 369 of our textbook, in that this page was 
+difficult to read.</segment>
+    <segment id="8" parent="9" relname="concession">
+
+I also noticed that there was a tab to choose &quot;screen reader version&quot; to allow for large 
+fonts to show the page.</segment>
+    <segment id="9" parent="29" relname="span">  But...the next click on a link didn&apos;t carry this setting,</segment>
+    <segment id="23" parent="30" relname="span"> so a user 
+would have to keep selecting the &quot;screen reader version&quot; option to every page that they 
+wanted to show large fonts.</segment>
+    <segment id="10" parent="30" relname="evaluation">  I could see this as frustrating to someone that can&apos;t see 
+very well.</segment>
+    <segment id="11" parent="38" relname="span">  Also with the format of the &quot;screen reader version&quot;, you could say that there 
+was too much white space being used, which made it hard to read.</segment>
+    <segment id="12" parent="31" relname="span">  It is bad that it is 
+hard to read</segment>
+    <segment id="24" parent="32" relname="span"> becuase I am sure their goal during design was to allow for an easier read 
+via large fonts.</segment>
+    <segment id="13" parent="24" relname="elaboration">  They could correct this by using a little shading.</segment>
+    <segment id="14" parent="39" relname="span">  I also noticed that there 
+were no pictures...anywhere.</segment>
+    <segment id="15" parent="14" relname="elaboration">  I would have at least expected to see a picture of smiling 
+senior citizens on the homepage.</segment>
+    <segment id="16" parent="25" relname="circumstance">  
+
+Knowing how government can hire people to do work,</segment>
+    <segment id="25" parent="41" relname="span"> I think somebody&apos;s brother won 
+the contract to design this website.</segment>
+<group id="27" type="multinuc" parent="3" relname="elaboration" />
+<group id="28" type="span" parent="34" relname="span" />
+<group id="29" type="span" parent="23" relname="volitional-cause" />
+<group id="30" type="span" parent="37" relname="span" />
+<group id="31" type="span" parent="11" relname="evaluation" />
+<group id="32" type="span" parent="12" relname="volitional-cause" />
+<group id="33" type="span" parent="40" relname="sequence" />
+<group id="34" type="span" parent="40" relname="sequence" />
+<group id="35" type="span" parent="40" relname="sequence" />
+<group id="36" type="span" parent="40" relname="sequence" />
+<group id="37" type="span" parent="40" relname="sequence" />
+<group id="38" type="span" parent="40" relname="sequence" />
+<group id="39" type="span" parent="40" relname="sequence" />
+<group id="40" type="multinuc" parent="42" relname="span" />
+<group id="41" type="span" parent="40" relname="evaluation" />
+<group id="42" type="span" />
+<group id="26" type="multinuc" parent="2" relname="nonvolitional-cause" />
+<group id="43" type="span" parent="33" relname="span" />
+  </body>
+</rst>

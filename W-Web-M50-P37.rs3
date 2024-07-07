@@ -1,0 +1,70 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="circumstance">
+In cases where the design is fit for the latest browser,</segment>
+    <segment id="8" parent="11" relname="span"> many sites tend to 
+leave the outdated users.</segment>
+    <segment id="2" parent="10" relname="span">  Many sites would recommend specific browsers</segment>
+    <segment id="9" parent="2" relname="volitional-result"> 
+and for those who choose not to, normally have to leave the site.</segment>
+    <segment id="3" parent="12" relname="span">  There 
+are still users who still use AOL 3, NS 4, and other older browsers.</segment>
+    <segment id="4" parent="16" relname="span">  
+Good design and rules does not have to use the latest technology.</segment>
+    <segment id="5" parent="15" relname="span"> I have 
+seen many developed pages using the latest technology (CSS, Flash, 
+Scripts, etc.) to meet the current market trends and even more so on 
+government websites that are focued for the general public including 
+elderly.</segment>
+    <segment id="6" parent="7" relname="antithesis">  
+Many critics believe that the government websites should be using the 
+latest technology.</segment>
+    <segment id="7" parent="14" relname="span"> However, they fail realize that many of users utilize these 
+sites for information only.</segment>
+<group id="10" type="span" parent="3" relname="antithesis" />
+<group id="11" type="span" parent="13" relname="span" />
+<group id="12" type="span" parent="11" relname="evidence" />
+<group id="13" type="span" parent="4" relname="antithesis" />
+<group id="14" type="span" parent="5" relname="nonvolitional-result" />
+<group id="15" type="span" parent="4" relname="antithesis" />
+<group id="16" type="span" />
+  </body>
+</rst>

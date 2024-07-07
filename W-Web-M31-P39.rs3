@@ -1,0 +1,82 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="span">
+It is an interesting article that you found</segment>
+    <segment id="9" parent="1" relname="elaboration"> and I am glad that people are trying to address 
+the needs of the elderly in regards to Internet use.</segment>
+    <segment id="2" parent="22" relname="span">  From what I can tell, based on the 
+two articles I am referencing, seniors are more interested in keeping in touch with family 
+and friends than any other category...even over health related info.</segment>
+    <segment id="3" parent="15" relname="span">  It seems to me that 
+they don&apos;t want information so much as communication as a primary motiviation for 
+using the web.</segment>
+    <segment id="4" parent="10" relname="antithesis">  While we might think, as a younger generation, that there are other 
+concerns that the elderly should consider as more important, </segment>
+    <segment id="10" parent="8" relname="span"> I suspect we really don&apos;t 
+know how important simple communication is in our later lives</segment>
+    <segment id="11" parent="10" relname="circumstance"> until we are experiencing 
+all of that frequently and in large amounts of discretionary time first hand.</segment>
+    <segment id="5" parent="24" relname="span">  To me, the 
+usability principles I would pursue would be about designing applications which would be 
+easy to use for communication.</segment>
+    <segment id="6" parent="16" relname="span">  I would possibly build in chat and news group areas in 
+the menus of these governmental, commercial or non-profit web sites</segment>
+    <segment id="12" parent="6" relname="volitional-result"> so that people 
+could share their experiences with each other about what they are going through and 
+what information they might need from these particular sites.</segment>
+    <segment id="7" parent="17" relname="span">  Anyway, I hope they have 
+improved web sites for the elderly</segment>
+    <segment id="13" parent="7" relname="circumstance"> when I get older</segment>
+    <segment id="18" parent="19" relname="span"> because my eyesite has already 
+gone a bit</segment>
+    <segment id="14" parent="18" relname="elaboration"> and I am sure there is more to come.  </segment>
+<group id="8" type="span" parent="3" relname="volitional-cause" />
+<group id="15" type="span" parent="2" relname="elaboration" />
+<group id="16" type="span" parent="5" relname="elaboration" />
+<group id="19" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="20" type="span" parent="22" relname="background" />
+<group id="22" type="span" parent="21" relname="span" />
+<group id="24" type="span" parent="22" relname="volitional-result" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="17" type="span" parent="21" relname="background" />
+<group id="23" type="span" />
+  </body>
+</rst>

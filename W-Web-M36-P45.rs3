@@ -1,0 +1,96 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="33" relname="span">Well, outside of being ugly as sin, there are a few problems with the site, in terms of 
+being senior-citizen user centered.</segment>
+    <segment id="2" parent="23" relname="span">  The first thing I noticed was that you have to use the 
+scroll bar on the right to view the information below, </segment>
+    <segment id="13" parent="2" relname="circumstance">where you have the FAQ, contact 
+information and more.</segment>
+    <segment id="3" parent="21" relname="span">  Most Web sites provide enough information on each page,</segment>
+    <segment id="22" parent="3" relname="elaboration"> and 
+then provide a link to a second page in order to continue reading.</segment>
+    <segment id="4" parent="26" relname="span">  Some non-technical 
+seniors may have a problem with this feature.</segment>
+    <segment id="5" parent="1" relname="evidence">   The yellow, brown, blue, and white colors 
+are all very boring and are a little hard on the eyes to read.</segment>
+    <segment id="6" parent="27" relname="span">  The design is suppose to 
+look like a file folder of some type, which is almost a thing of the past now.</segment>
+    <segment id="7" parent="25" relname="span">  It may have 
+been designed for those seniors who remember and still appreciate the good-old days </segment>
+    <segment id="14" parent="7" relname="circumstance">
+when paper files were put away in filing cabinets.</segment>
+    <segment id="8" parent="28" relname="conjunction">  In a word, I think very little creativity 
+was put into this site,</segment>
+    <segment id="15" parent="28" relname="conjunction"> and very few of the modern-day tools were used to build it.</segment>
+    <segment id="9" parent="29" relname="sequence">  
+Nothing stands out and catches my eye,</segment>
+    <segment id="16" parent="29" relname="sequence"> nothing guides my attention to a certain area of 
+the site,</segment>
+    <segment id="17" parent="29" relname="sequence"> and nothing keeps me from falling asleep when looking at it for more than 5 
+minutes.</segment>
+    <segment id="10" parent="30" relname="span">  True, it does address the issues that seniors are concerned.</segment>
+    <segment id="11" parent="10" relname="elaboration">  Some seniors 
+want to just find the facts, and dont really want all of the extras.</segment>
+    <segment id="12" parent="31" relname="span">  But, were not talking 
+about window candy here,</segment>
+    <segment id="18" parent="12" relname="circumstance"> where special offers are flashing away in your face;</segment>
+    <segment id="19" parent="38" relname="span"> were 
+talking about basic aesthetics,</segment>
+    <segment id="20" parent="19" relname="elaboration"> and there seems to be very little of that on this Web site</segment>
+<group id="21" type="span" parent="24" relname="span" />
+<group id="23" type="span" parent="21" relname="antithesis" />
+<group id="24" type="span" parent="4" relname="volitional-cause" />
+<group id="25" type="span" parent="6" relname="concession" />
+<group id="26" type="span" parent="1" relname="evidence" />
+<group id="27" type="span" parent="1" relname="evidence" />
+<group id="29" type="multinuc" parent="35" relname="span" />
+<group id="28" type="multinuc" parent="34" relname="span" />
+<group id="33" type="span" parent="37" relname="span" />
+<group id="34" type="span" parent="36" relname="span" />
+<group id="35" type="span" parent="28" relname="elaboration" />
+<group id="30" type="span" parent="12" relname="concession" />
+<group id="31" type="span" parent="38" relname="antithesis" />
+<group id="32" type="span" parent="34" relname="elaboration" />
+<group id="36" type="span" parent="33" relname="summary" />
+<group id="37" type="span" />
+<group id="38" type="span" parent="32" relname="span" />
+  </body>
+</rst>

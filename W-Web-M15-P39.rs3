@@ -1,0 +1,72 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="background">
+
+There is a case study where a video game publisher web site was being developed 
+(Preece et al., 2002, p. 283)</segment>
+    <segment id="2" parent="11" relname="span">  The video game publisher team felt that they really needed 
+to get in touch with users to be able to understand the essence of gaming.</segment>
+    <segment id="3" parent="10" relname="condition">  I suspect that 
+if the team continued with what they thought would be the proper usability principles for 
+this group of people,</segment>
+    <segment id="10" parent="9" relname="span"> the web site might have had to be reworked after the fact.</segment>
+    <segment id="4" parent="12" relname="span">  It has 
+been shown that different principles have been developed for different situations, such as 
+the HOMERUN principles for web sites (Preece et. al, p. 409),</segment>
+    <segment id="6" parent="4" relname="restatement">  and I suspect that each 
+environment has its own principles that have come about to meet the needs of the 
+environment.</segment>
+    <segment id="7" parent="13" relname="span">  There might have been less user interaciton by the video game publisher 
+team</segment>
+    <segment id="5" parent="7" relname="condition"> if they were familiar with the environment.</segment>
+    <segment id="8" parent="14" relname="concession">  With that said, the lack of familiarity of 
+an environment might be a good reason to have users more involved in a design.
+
+</segment>
+<group id="13" type="span" parent="12" relname="elaboration" />
+<group id="12" type="span" parent="14" relname="span" />
+<group id="12" type="span" parent="14" relname="span" />
+<group id="9" type="span" parent="2" relname="otherwise" />
+<group id="11" type="span" parent="4" relname="background" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>

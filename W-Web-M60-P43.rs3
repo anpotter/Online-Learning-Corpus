@@ -1,0 +1,113 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Great article thanks. </segment>
+    <segment id="2" parent="31" relname="span">
+
+I found this article in Scientific America web page.</segment>
+    <segment id="3" parent="2" relname="background"> It is interesting that the IEEE to fix the 
+election quagmire we find ourselves in.</segment>
+    <segment id="4" parent="2" relname="elaboration">
+
+http://www.sciam.com/print_version.cfm?articleID=0001CD43-EAA5-1006-
+A8B383414B7FFE87</segment>
+    <segment id="5" parent="6" relname="preparation">
+
+ Below is an excerpt from the article:</segment>
+    <segment id="6" parent="29" relname="span">
+
+To develop standards that all voting machines would meet, the Help America Vote Act 
+turned to the Institute of Electrical and Electronics Engineers (IEEE). Project 1583 is the 
+resulting effort and is intended, the IEEE summary says, to assure confidentiality, 
+security, reliability, accuracy, usability and accessibility. To set standards, an IEEE 
+working group first puts together a draft proposal, which it sends out for public comment. 
+Then the draft must pass a vote by the members of the standards association, a subset 
+of the IEEEs worldwide membership. </segment>
+    <segment id="7" parent="23" relname="span">
+
+There are multitudes of references on the web that refer to flaws in the electronic voting 
+system.</segment>
+    <segment id="8" parent="7" relname="elaboration"> The machines in Florida, as well many other states such as Illinois, are by 
+Election Systems &amp; Software of Omaha, Nebraska.</segment>
+    <segment id="9" parent="7" relname="elaboration"> John Hopkins had been involved in 
+studies indicating there were flaws with the software in the machines as well.</segment>
+    <segment id="10" parent="11" relname="concession"> In fairness 
+to the company there was an upgrade applied in order to correct the problem</segment>
+    <segment id="11" parent="30" relname="span"> but I never 
+really saw articles indicating that the fix was a good one.</segment>
+    <segment id="12" parent="13" relname="condition">
+
+If one steps back and looks at the situation</segment>
+    <segment id="13" parent="32" relname="span"> perhaps we can say that we rushed to 
+electronic voting too quickly.</segment>
+    <segment id="14" parent="28" relname="span"> We had a very bad experience in Florida that was live on 
+national and international view for weeks.</segment>
+    <segment id="15" parent="16" relname="volitional-cause"> We wanted to have it correct it yesterday. </segment>
+    <segment id="16" parent="27" relname="span">
+Hence, there was not enough time to train the poll workers who in general are senior 
+citizens.</segment>
+    <segment id="17" parent="26" relname="contrast"> We emphasize that it takes time to implement change management in an 
+organization</segment>
+    <segment id="18" parent="26" relname="contrast"> and we pretend to do this across and entire state and the nation.</segment>
+    <segment id="19" parent="25" relname="span">
+
+The concepts of HCI to involve users in the development plan did not seem very visible 
+here.</segment>
+    <segment id="20" parent="19" relname="concession">
+
+At the sake of talking out both sides of my mouth I must say that the electronic machines 
+have not produced any hanging chads.</segment>
+    <segment id="21" parent="24" relname="span">
+
+I hope we can come up with a better system for the 2008 elections.</segment>
+    <segment id="22" parent="21" relname="elaboration"> Maybe there is hope 
+with IEEE involved.</segment>
+<group id="26" type="multinuc" parent="16" relname="elaboration" />
+<group id="27" type="span" parent="14" relname="elaboration" />
+<group id="28" type="span" parent="13" relname="elaboration" />
+<group id="29" type="span" parent="2" relname="elaboration" />
+<group id="30" type="span" parent="7" relname="elaboration" />
+<group id="25" type="span" parent="16" relname="volitional-cause" />
+<group id="32" type="span" parent="7" relname="elaboration" />
+<group id="24" type="span" parent="7" relname="evaluation" />
+<group id="31" type="span" parent="7" relname="background" />
+<group id="23" type="span" />
+  </body>
+</rst>

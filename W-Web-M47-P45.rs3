@@ -1,0 +1,71 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="concession">
+P50, I agree with you.</segment>
+    <segment id="2" parent="10" relname="span">  On balance however, I&apos;m sure it would be difficult for web 
+designers to target all users,</segment>
+    <segment id="11" parent="2" relname="nonvolitional-cause"> since there are so many users out there.</segment>
+    <segment id="3" parent="15" relname="background">  Take for example 
+the health care Website that Dr. P11 asked us to evaluate.</segment>
+    <segment id="5" parent="13" relname="concession">  This Website may 
+accomodate some senior citizens,</segment>
+    <segment id="13" parent="15" relname="span"> but not all.</segment>
+    <segment id="6" parent="4" relname="concession">  Some senior citizens would like a little 
+more design put into it,</segment>
+    <segment id="4" parent="14" relname="span"> but many I&apos;m sure are happy with the way that it is.</segment>
+    <segment id="7" parent="19" relname="span">  But my 
+point is that trying to reach all users is a tall order to fill.</segment>
+    <segment id="8" parent="17" relname="span">   But in the end, just like you 
+mentioned, at least we should try,</segment>
+    <segment id="12" parent="8" relname="elaboration"> and I think that&apos;s a step in the right direction.</segment>
+    <segment id="9" parent="20" relname="joint">  Good 
+thread.</segment>
+<group id="10" type="span" parent="18" relname="span" />
+<group id="14" type="span" parent="13" relname="elaboration" />
+<group id="15" type="span" parent="16" relname="span" />
+<group id="16" type="span" parent="10" relname="evidence" />
+<group id="17" type="span" parent="7" relname="concession" />
+<group id="18" type="span" parent="21" relname="span" />
+<group id="19" type="span" parent="18" relname="summary" />
+<group id="20" type="multinuc" />
+<group id="21" type="span" parent="20" relname="joint" />
+  </body>
+</rst>

@@ -1,0 +1,74 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="concession">
+Although users are extremely important when designing websites,</segment>
+    <segment id="8" parent="12" relname="span"> they 
+are not the ones paying the bills for a web site.</segment>
+    <segment id="2" parent="9" relname="antithesis">  Web sites may be 
+enjoyable for the user and engaging,</segment>
+    <segment id="9" parent="13" relname="span"> but may not meet the 
+requirements of the client.</segment>
+    <segment id="3" parent="17" relname="span">  Gergle (1999) prescribes a method of web 
+design that takes into account user needs as well as focusing on the 
+client; the bill payer.</segment>
+    <segment id="4" parent="3" relname="elaboration">  A series of forms and checklists were developed to 
+facilitate the development of sites.</segment>
+    <segment id="5" parent="3" relname="elaboration">  The web designer is able to achieve 
+usable sites while working within the constraints set forth by the client, 
+or the company the designer works for.</segment>
+    <segment id="6" parent="16" relname="span"> Gergles method for web design 
+is broken into basic stages: </segment>
+    <segment id="10" parent="15" relname="span"> planning, analysis, mockups and 
+prototypes, production, testing, launch, and maintenance.</segment>
+    <segment id="7" parent="11" relname="concession"> Following 
+these steps make a happy user,</segment>
+    <segment id="11" parent="14" relname="span"> but perhaps most importantly, a happy 
+client.</segment>
+<group id="12" type="span" parent="18" relname="span" />
+<group id="13" type="span" parent="12" relname="elaboration" />
+<group id="14" type="span" parent="10" relname="volitional-result" />
+<group id="15" type="span" parent="6" relname="elaboration" />
+<group id="16" type="span" parent="3" relname="elaboration" />
+<group id="17" type="span" parent="19" relname="span" />
+<group id="18" type="span" parent="17" relname="solutionhood" />
+<group id="19" type="span" />
+  </body>
+</rst>

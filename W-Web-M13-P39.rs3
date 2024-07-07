@@ -1,0 +1,110 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="background">
+In an article that talked about the best practices to use when designing an interface,</segment>
+    <segment id="12" parent="36" relname="span"> 
+Larry Constantine conveyed that he is following something called usage-centered design 
+of user-centered design in regards to web interfaces.</segment>
+    <segment id="2" parent="25" relname="span">  This usage path that Constantine 
+suggested basically conveyed that one should design based on design principles,</segment>
+    <segment id="18" parent="2" relname="volitional-result"> and this 
+will result in a good design for users to test in the end.</segment>
+    <segment id="3" parent="26" relname="span">  His suggested design principles 
+were the following (p. 5):</segment>
+    <segment id="4" parent="24" relname="span">
+Visibility, feedback, structure, reuse, tolerance, and simplicity</segment>
+    <segment id="17" parent="4" relname="elaboration">
+
+The list above directly reflects with design principles that Preece, Rogers and Sharp bring 
+up (p. 21).</segment>
+    <segment id="6" parent="23" relname="solutionhood">  The one that was a bit vague at first was tolerance, </segment>
+    <segment id="5" parent="19" relname="circumstance">and upon looking at what 
+he meant by this,</segment>
+    <segment id="19" parent="23" relname="span"> it was to all users to be able to recover from errors,</segment>
+    <segment id="20" parent="19" relname="background"> and this was one 
+of Nielsens 10 usability heuristics (Preece, et al., 2002, p. 27).</segment>
+    <segment id="8" parent="28" relname="span">  
+
+There was a feeling when reading this article that there was conflict to when it was 
+appropriate to involve users in the design process.</segment>
+    <segment id="9" parent="7" relname="volitional-cause">  Because he made a distinction of 
+user vs. usage centered design, and chose the latter,</segment>
+    <segment id="7" parent="27" relname="span"> he feels that users are bad to get 
+involved in the design process early on.</segment>
+    <segment id="10" parent="33" relname="span">  His feeling is that design principles should guide 
+the process up front and then let the users find issues at a later time with usability 
+testing.</segment>
+    <segment id="11" parent="34" relname="span">  The choice of when to involve users seems to be an ongoing debate in the HCI 
+world,</segment>
+    <segment id="21" parent="11" relname="volitional-cause"> because it has been a source of concern as to when and at what stage users need 
+to be involved in the design process (Preece, et al., 2002, p. 283).</segment>
+    <segment id="13" parent="14" relname="antithesis">  Constantine does 
+follow with has been conveyed about the focus on users characteristic (Preece, et al., 
+2002, p. 170) of the interaction design process,</segment>
+    <segment id="14" parent="35" relname="span"> but he is looking at them as abstract 
+models early on in the design (Constantine, 2002, p. 5).</segment>
+    <segment id="16" parent="29" relname="justify">   
+
+Based on this article and the Preece textbook, </segment>
+    <segment id="15" parent="22" relname="concession">it appears that the principles of design are 
+universally accepted for use in all situations,</segment>
+    <segment id="22" parent="29" relname="span"> but when and how to involve users in the 
+design process is an assessment that design teams must make on their own.</segment>
+<group id="23" type="span" parent="30" relname="span" />
+<group id="24" type="span" parent="3" relname="elaboration" />
+<group id="25" type="span" parent="32" relname="span" />
+<group id="26" type="span" parent="31" relname="span" />
+<group id="27" type="span" parent="8" relname="evidence" />
+<group id="29" type="span" parent="39" relname="span" />
+<group id="30" type="span" parent="26" relname="elaboration" />
+<group id="31" type="span" parent="25" relname="elaboration" />
+<group id="32" type="span" parent="12" relname="elaboration" />
+<group id="28" type="span" parent="10" relname="solutionhood" />
+<group id="33" type="span" parent="37" relname="span" />
+<group id="34" type="span" parent="33" relname="background" />
+<group id="35" type="span" parent="33" relname="elaboration" />
+<group id="36" type="span" parent="38" relname="span" />
+<group id="37" type="span" parent="36" relname="elaboration" />
+<group id="38" type="span" parent="40" relname="span" />
+<group id="39" type="span" parent="38" relname="summary" />
+<group id="40" type="span" />
+  </body>
+</rst>

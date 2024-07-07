@@ -1,0 +1,127 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="46" relname="background">One of the links on our HCI website was to Vincent Flanders Web 
+Pages that Suck.</segment>
+    <segment id="2" parent="41" relname="span">  The name of the site sort of jumped out at me</segment>
+    <segment id="20" parent="40" relname="span"> and I 
+thought it would be more of a joke than anything else.</segment>
+    <segment id="3" parent="20" relname="elaboration">  The site has a 
+look and feel that is hard to take serious;</segment>
+    <segment id="21" parent="46" relname="span"> however, I found that it 
+contained a lot of useful web design information.</segment>
+    <segment id="4" parent="43" relname="span">  The following are 
+some web design concepts I found under the section titled The 
+Biggest Web Design Mistakes of 2004.</segment>
+    <segment id="5" parent="18" relname="preparation">  Vincent Flanders wrote,</segment>
+    <segment id="18" parent="30" relname="span">
+
+Write these two sentences where you can see them as you&apos;re working 
+on your computer:</segment>
+    <segment id="22" parent="29" relname="list">
+1. The only reason my web site exists is to solve my customers&apos; 
+problems.</segment>
+    <segment id="6" parent="29" relname="list">
+2. What problems does the page I&apos;m looking at solve?</segment>
+    <segment id="15" parent="42" relname="span">
+
+
+You should be able to look at the home page of any site and figure out 
+what the site is about within four seconds.</segment>
+    <segment id="7" parent="15" relname="otherwise"> If you can&apos;t, your site has 
+failed.</segment>
+    <segment id="8" parent="45" relname="span"> 
+
+All web navigation must answer:</segment>
+    <segment id="23" parent="31" relname="list">
+Where am I?</segment>
+    <segment id="16" parent="31" relname="list">
+Where have I been?</segment>
+    <segment id="17" parent="31" relname="list">
+Where can I go next</segment>
+    <segment id="33" parent="31" relname="list">
+Where&apos;s the Home Page</segment>
+    <segment id="32" parent="31" relname="list">
+Where&apos;s the Home Page </segment>
+    <segment id="19" parent="24" relname="concession">
+
+Yes, it&apos;s called a web page,</segment>
+    <segment id="24" parent="38" relname="span"> but that doesn&apos;t mean you have to cram all 
+your material on one page.</segment>
+    <segment id="9" parent="24" relname="volitional-cause">  Most folks don&apos;t like to scroll.</segment>
+    <segment id="10" parent="25" relname="volitional-cause"> 
+
+
+It&apos;s very easy to keep adding material to your home page</segment>
+    <segment id="25" parent="39" relname="span"> until it gets 
+out of control.</segment>
+    <segment id="11" parent="34" relname="span"> Smaller business sites are especially susceptible</segment>
+    <segment id="26" parent="11" relname="volitional-cause"> because 
+they fear they&apos;ll miss a sale.</segment>
+    <segment id="12" parent="37" relname="span"> 
+
+With so much content vying for attention its initially impossible for the 
+eye to settle on one thing.</segment>
+    <segment id="13" parent="35" relname="conjunction"> People get confused</segment>
+    <segment id="27" parent="35" relname="conjunction"> and people leave.</segment>
+    <segment id="14" parent="36" relname="span"> Pages 
+with lots of disparate material means you have failed to organize your 
+site properly</segment>
+    <segment id="28" parent="14" relname="volitional-result"> -- probably a combination of not planning your site and 
+poor navigation.</segment>
+<group id="29" type="multinuc" parent="18" relname="elaboration" />
+<group id="31" type="multinuc" parent="8" relname="elaboration" />
+<group id="34" type="span" parent="25" relname="elaboration" />
+<group id="35" type="multinuc" parent="12" relname="volitional-result" />
+<group id="36" type="span" parent="12" relname="volitional-result" />
+<group id="37" type="span" parent="25" relname="elaboration" />
+<group id="38" type="span" parent="44" relname="span" />
+<group id="39" type="span" parent="38" relname="elaboration" />
+<group id="40" type="span" parent="2" relname="elaboration" />
+<group id="41" type="span" parent="21" relname="antithesis" />
+<group id="46" type="span" parent="47" relname="span" />
+<group id="47" type="span" parent="4" relname="background" />
+<group id="30" type="span" parent="4" relname="elaboration" />
+<group id="42" type="span" parent="4" relname="elaboration" />
+<group id="45" type="span" parent="4" relname="elaboration" />
+<group id="44" type="span" parent="4" relname="elaboration" />
+<group id="43" type="span" />
+  </body>
+</rst>

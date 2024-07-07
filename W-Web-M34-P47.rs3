@@ -1,0 +1,64 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="10" relname="span">
+I can tell you that my grandmother is still scared to &quot;mess up&quot; the
+computer</segment>
+    <segment id="8" parent="1" relname="circumstance"> every time she touches it,</segment>
+    <segment id="5" parent="11" relname="span"> but the reason she continues to
+tough it out is to keep in touch</segment>
+    <segment id="9" parent="5" relname="background"> (we live in Bolivia).</segment>
+    <segment id="2" parent="6" relname="concession"> She does order
+prescription refills online with no problem,</segment>
+    <segment id="6" parent="12" relname="span"> but her number one
+objective is to see pictures of my son a few times a week.</segment>
+    <segment id="3" parent="13" relname="span"> She just got
+a webcam that I have to help setup remotely</segment>
+    <segment id="7" parent="3" relname="background"> - this should be fun.</segment>
+    <segment id="4" parent="14" relname="joint">
+What if browsers had a single setting - SENIOR - which automatically had
+optimal settings like larger text size and auto-plugin configuration?</segment>
+<group id="10" type="span" parent="5" relname="concession" />
+<group id="12" type="span" parent="5" relname="elaboration" />
+<group id="13" type="span" parent="5" relname="background" />
+<group id="11" type="span" parent="14" relname="joint" />
+<group id="14" type="multinuc" />
+  </body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="18" relname="span">
+This is an excellent topic of discussion.</segment>
+    <segment id="2" parent="1" relname="elaboration"> Kudos to P38 for getting this started. </segment>
+    <segment id="3" parent="1" relname="elaboration">Those of you who have responded have acknowledged the importance of designing for specific target groups, in this case, seniors.</segment>
+    <segment id="4" parent="16" relname="span"> 
+Here&apos;s something we could do for fun.</segment>
+    <segment id="5" parent="15" relname="span"> We&apos;re all probably aware about the government&apos;s approval of the Medicare Prescription Card Program.</segment>
+    <segment id="6" parent="12" relname="span"> Apparently, there are over 70 Medicare-approved drug discount cards to choose from.</segment>
+    <segment id="7" parent="6" relname="elaboration"> Where does a senior start?</segment>
+    <segment id="8" parent="14" relname="span"> One resource seniors are referred to is http://www.medicare.gov, the Medicare website.</segment>
+    <segment id="9" parent="13" relname="span">  What can we say about the design of this website?</segment>
+    <segment id="10" parent="9" relname="elaboration"> Is it &quot;senior citizen user centered&quot;?</segment>
+    <segment id="11" parent="17" relname="span"> Check it out when you get a chance...</segment>
+<group id="12" type="span" parent="5" relname="elaboration" />
+<group id="13" type="span" parent="8" relname="elaboration" />
+<group id="14" type="span" parent="11" relname="enablement" />
+<group id="15" type="span" parent="4" relname="elaboration" />
+<group id="16" type="span" parent="11" relname="motivation" />
+<group id="17" type="span" />
+<group id="18" type="span" parent="4" relname="preparation" />
+  </body>
+</rst>
