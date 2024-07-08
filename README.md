@@ -11,7 +11,5 @@ Potter, A. (2008). Interactional coherence in asynchronous learning networks: A 
 
 Potter, A. (2007). An investigation of interactional coherence in asynchronous learning environments Nova Southeastern University]. Fort Lauderdale, Florida. 
 
-Potter, A. (2009, January 30-February 1). Constructive chaos: Topic management in asynchronous learning networks Fifth International Conference on Technology, Knowledge And Society, Huntsville, AL. 
-
 Potter, A. (2009). Constructive chaos: Topic management in asynchronous learning networks. The International Journal of Technology, Knowledge and Society, 5(3), 1-12. 
 
