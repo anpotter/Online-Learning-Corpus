@@ -1,7 +1,9 @@
 # Online-Learning
 RST Corpus of online learning discussion messages
 
-This corpus consists of 328 Rhetorical Structure Theory (RST) analyses of messages posted during online discussions that occurred in courses offered at Nova Southeastern University Graduate School of Computer and Information Science between 2003 and 2005. The analyses were performed in 2006. Participants have been anonymized. The conferencing software used in the courses included Allaire Forums and WebCT.
+This corpus consists of 328 Rhetorical Structure Theory (RST) analyses of messages posted during online discussions that took place in courses at Nova Southeastern University between 2003 and 2005. The analyses were created in 2006. Participants have been anonymized. The conferencing software used in the courses included Allaire Forums and WebCT.
+
+The analyses are in RS3 format, compatible with RST-Tool and RSTweb.
 
 For more info on the discussions:
 
