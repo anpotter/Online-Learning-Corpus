@@ -5,6 +5,8 @@ This corpus consists of 328 Rhetorical Structure Theory (RST) analyses of messag
 
 The analyses are in RS3 format, compatible with RST-Tool and RSTweb.
 
+To get a copy of the complete corpus in zip format, click on the Code button and select Download ZIP.
+
 For more info on the discussions:
 
 Potter, A. (2008). Interactional coherence in asynchronous learning networks: A rhetorical approach. _The Internet and Higher Education_, 11, 87–97.
