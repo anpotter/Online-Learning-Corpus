@@ -44,8 +44,8 @@ When you get a chance, find this article in the ACM Digital Library: </segment>
 Chrusch, M. (2000, September &amp; October). Seven great myths of usability. Interactions, 13-16. 
 In this article Marc Chrusch brings up some very interesting areas to consider that are actually myths about usability.</segment>
     <segment id="5" parent="14" relname="background"> These myths are based on mis-education and also misuse of terms.</segment>
-    <segment id="6" parent="15" relname="span"> Here are the seven myths.</segment>
-    <segment id="7" parent="16" relname="span"> Go read the article for more information: </segment>
+    <segment id="6" parent="16" relname="span"> Here are the seven myths.</segment>
+    <segment id="7" parent="6" relname="elaboration"> Go read the article for more information: </segment>
     <segment id="3" parent="13" relname="list">
 Myth #1: Usability only increases development costs and lengthens development time.</segment>
     <segment id="8" parent="13" relname="list">
@@ -62,8 +62,8 @@ Myth #6: Usability testing is not needed if the development team has been workin
 Myth #7: &quot;We&apos;ll handle that in the help/training/documentation.&quot;</segment>
 <group id="13" type="multinuc" parent="6" relname="elaboration" />
 <group id="14" type="span" parent="17" relname="span" />
-<group id="15" type="span" parent="7" relname="motivation" />
-<group id="16" type="span" parent="14" relname="elaboration" />
-<group id="17" type="span" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" />
+<group id="16" type="span" parent="17" relname="elaboration" />
   </body>
 </rst>
