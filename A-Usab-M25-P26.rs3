@@ -42,7 +42,7 @@
 
 I agree with the points made in the above postings.</segment>
     <segment id="2" parent="10" relname="span"> However there are a few firms who actually make an effort for the novice user.</segment>
-    <segment id="3" parent="2" relname="evidence"> I work as a Quality assurance engineer responsible to make sure that an application works according to application requirements and that an application can be used by a novice application user.</segment>
+    <segment id="3" parent="2" relname="justify"> I work as a Quality assurance engineer responsible to make sure that an application works according to application requirements and that an application can be used by a novice application user.</segment>
     <segment id="4" parent="9" relname="span"> In general I think the term &quot;novice&quot; is loosely used as a Novice application user need not be a Novice computer user.</segment>
     <segment id="5" parent="4" relname="elaboration"> The nature of an application should determine the level of expertise required by the end user.</segment>
     <segment id="6" parent="8" relname="span"> 

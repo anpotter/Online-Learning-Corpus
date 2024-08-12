@@ -51,7 +51,7 @@ so he/she will &apos;know&apos; what to do. </segment>
     <segment id="5" parent="12" relname="span">
 
 To make something intuitive for a novice user it must somehow fit into his frame of reference. </segment>
-    <segment id="6" parent="15" relname="span">
+    <segment id="6" parent="5" relname="elaboration">
 There must be something he has learned that relates to the use of the interface. </segment>
     <segment id="7" parent="11" relname="evaluation">
 That is my opinion.</segment>
@@ -61,7 +61,6 @@ That is my opinion.</segment>
 <group id="12" type="span" parent="9" relname="restatement" />
 <group id="13" type="span" parent="10" relname="restatement" />
 <group id="14" type="span" parent="1" relname="evidence" />
-<group id="15" type="span" parent="5" relname="elaboration" />
 <group id="16" type="span" />
   </body>
 </rst>

@@ -64,11 +64,11 @@ Error recovery is important</segment>
     <segment id="31" parent="32" relname="circumstance"> because when learning, or even using, a system</segment>
     <segment id="32" parent="45" relname="span"> you can make mistakes.</segment>
     <segment id="13" parent="45" relname="elaboration"> You have to be able to retrieve information that you accidentally delete, for example.</segment>
-    <segment id="14" parent="33" relname="volitional-cause"> 
+    <segment id="14" parent="33" relname="condition"> 
 If a user is not satisfied with a program</segment>
     <segment id="33" parent="61" relname="span"> he/she simply will just not use it.</segment>
     <segment id="15" parent="47" relname="span"> They will just go find another program that will meet their needs.</segment>
-    <segment id="16" parent="15" relname="elaboration"> This day in age with so many options that will not be hard to do.</segment>
+    <segment id="16" parent="15" relname="means"> This day in age with so many options that will not be hard to do.</segment>
     <segment id="17" parent="48" relname="span"> 
 With flexibility I believe a user should have options</segment>
     <segment id="34" parent="17" relname="elaboration"> or they should be able to customize according to what they want and what will be easier for them to accomplish their tasks.</segment>
